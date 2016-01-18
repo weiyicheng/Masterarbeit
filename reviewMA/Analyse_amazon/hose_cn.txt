@@ -1,0 +1,80 @@
+       word freq
+1       gut  120
+2      hose   65
+3      kauf   34
+4     gross   32
+5    tragen   28
+6      dunn   24
+7      lang   22
+8      echt   18
+9  qualitat   18
+10    wenig   18
+ [1] "angenehm"      "art"           "aussehen"      "authentic"    
+ [5] "bein"          "bisschen"      "dass"          "drei"         
+ [9] "dunn"          "echt"          "einfach"       "eng"          
+[13] "fit"           "fuhl"          "geeignet"      "gekauft"      
+[17] "geschaft"      "gleich"        "gross"         "gut"          
+[21] "hose"          "immer"         "kauf"          "kleidung"     
+[25] "klein"         "kundendienst"  "kundenservice" "kurz"         
+[29] "lang"          "langsam"       "liebe"         "lob"          
+[33] "logistics"     "mag"           "mal"           "material"     
+[37] "mochte"        "nachdem"       "okay"          "pants"        
+[41] "preis"         "punkt"         "qualitat"      "rabatt"       
+[45] "recht"         "regel"         "richtige"      "schlank"      
+[49] "schlecht"      "schnell"       "schon"         "seite"        
+[53] "service"       "super"         "tag"           "tragen"       
+[57] "verkauf"       "version"       "weiss"         "wenig"        
+[61] "winter"        "wirklich"      "zahl"          "zeit"         
+[65] "zufrieden"    
+                hose
+drei            0.42
+beziehung       0.33
+denken          0.33
+festgestellt    0.33
+fusshos         0.33
+hinschauen      0.33
+jedenfalls      0.33
+kinderschuhen   0.33
+pflege          0.33
+tatsach         0.33
+textur          0.33
+vorliebe        0.33
+allgemein       0.30
+kurierdienst    0.30
+reissverschluss 0.30
+suche           0.30
+bars            0.29
+kurz            0.27
+seite           0.26
+gross   gut  hose  kauf 
+    1     2     3     4 
+  gross   gut  hose  kauf
+1 1.250 1.250 1.000 1.250
+2 0.176 1.176 1.000 0.000
+3 0.000 0.833 1.167 1.000
+4 0.029 1.118 0.000 0.000
+5 1.111 0.000 0.278 0.222
+6 0.200 1.300 0.000 1.000
+7 0.000 0.167 2.333 0.000
+8 0.000 0.000 0.130 0.065
+cluster 1:  gross gut kauf 
+cluster 2:  gut hose gross 
+cluster 3:  hose kauf gut 
+cluster 4:  gut gross hose 
+cluster 5:  gross hose kauf 
+cluster 6:  gut kauf gross 
+cluster 7:  hose gut gross 
+cluster 8:  hose kauf gross 
+[1] 10
+cluster 1 :   
+cluster 2 :  gross gut hose kauf 
+cluster 3 :  gut 
+cluster 4 :  hose 
+cluster 5 :  kauf 
+cluster 6 :  gross 
+cluster 7 :   
+cluster 8 :  gut kauf 
+cluster 9 :  gut hose 
+cluster 10 :  gut hose kauf 
+Vertex sequence:
+[1] "gross" "gut"   "hose"  "kauf" 

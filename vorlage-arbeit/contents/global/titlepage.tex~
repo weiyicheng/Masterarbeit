@@ -1,0 +1,109 @@
+% Copyright (C)  2013 Jana Traue (jana.traue[at]tu-cottbus.de)
+%
+% Permission is granted to copy, distribute and/or modify this document
+% under the terms of the GNU Free Documentation License, Version 1.3
+% or any later version published by the Free Software Foundation;
+% with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+% A copy of the license is included in the file entitled "LICENSE".
+%
+% =============================================================================
+% LATEX title page
+% =============================================================================
+%
+% ---------------------------------------------------------------------------
+% title of the document as shown in the bookmark section of the pdf file
+\begin{en}
+    \pdfbookmark[1]{Document Title}{titlepage-anc}
+\end{en}
+\begin{de}
+    \pdfbookmark[1]{Titel}{titlepage-anc}
+\end{de}
+%
+\thispagestyle{empty}
+%
+% ---------------------------------------------------------------------------
+% header
+%
+\begin{figure}[ht]
+% ...........................................................................
+% left part
+\begin{minipage}[l]{0.65\textwidth}
+\begin{flushleft}	
+\begin{en}
+	BTU Cottbus - Senftenberg\\[0.3em]
+    Faculty 1 -- Institute for Computer Science\\[0.3em]
+    Practical Template Creating Group\\[0.3em]
+    Prof. Template
+\end{en}
+\begin{de}
+    BTU Cottbus - Senftenberg\\[0.3em]
+    Fakult\"at 3 - Maschinenbau, Elektrotechnik und Wirtschaftsingenieurwesen \\[0.3em]
+    Lehrstuhl f\"ur Marketing und Innovationsmanagement\\[0.3em]
+    Vertretungsprofessor Dr. rer. pol. Henning Kreis  
+\end{de}
+\end{flushleft}	
+\end{minipage}%
+% ...........................................................................
+% right part
+\begin{minipage}[r]{0.35\textwidth}
+\begin{flushright}	
+\begin{en}
+	\includegraphics[scale=1, angle=0]{BTU_Logo}
+\end{en}
+\begin{de}
+	\includegraphics[scale=1, angle=0]{BTU_Logo_de}
+\end{de}
+\end{flushright}	
+\end{minipage} 
+\end{figure}
+%
+% ---------------------------------------------------------------------------
+% a vertical space
+\vspace{2.0cm}
+%
+% ---------------------------------------------------------------------------
+% document type, title, name
+\begin{center}
+\begin{en}
+    \Large{\textbf{--  Document Type --}}
+\end{en}
+\begin{de}
+    \Large{\textbf{--  Masterarbeit --}}
+\end{de}
+    \rule{\textwidth}{0.6pt}\\[0.5cm]
+\begin{en}
+    \Large{\textbf{Title}}\\[3.0cm]
+    \Large{Yicheng Wei}\\
+    \Large{Computer Science}\\
+\end{en}
+\begin{de}
+    \large{\textbf{Sentimentanalyse von Online Consumer Reviews - \\
+                    Ein Vergleich zwischen Deutschland und China im Textileinzelhandel}}\\[3.0cm]
+    \large{Yicheng Wei}\\
+    \large{Wirtschaftsingenieurwesen}\\
+\end{de}
+\end{center}
+%
+% ---------------------------------------------------------------------------
+% date
+\begin{center}
+	 \large{\textit{\today}}
+\end{center}
+%
+% ---------------------------------------------------------------------------
+% adviser
+\vfill
+\begin{center}
+	\large
+\begin{en}
+        \makebox[4.0cm][l]{\textbf{Adviser:}}\makebox[9.0cm][l]{Adviser 1}\\[0.2em]
+        \makebox[4.0cm][l]{\textbf{Adviser:}}\makebox[9.0cm][l]{Adviser 2}\\[0.2em]
+\end{en}
+\begin{de}
+%        \makebox[4.0cm][l]{\textbf{Gutachter:}}\makebox[9.0cm][l]{Gutachter 1}\\[0.2em]
+%        \makebox[4.0cm][l]{\textbf{Gutachter:}}\makebox[9.0cm][l]{Gutachter 2}\\[0.2em]
+        \makebox[4.0cm][l]{\textbf{Betreuer:}}\makebox[9.0cm][l]{Dr. phil. Alexandra Rese}\\[0.2em]
+\end{de}
+	\normalsize
+\end{center}
+%

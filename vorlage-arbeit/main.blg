@@ -1,0 +1,101 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: contents/global/titlepage.aux
+A level-1 auxiliary file: contents/global/tableofcontents.aux
+A level-1 auxiliary file: contents/global/acronyms.aux
+A level-1 auxiliary file: contents/Einfuehrung.aux
+A level-1 auxiliary file: contents/Theoretische_Grundlagen.aux
+A level-1 auxiliary file: contents/Datensammlung.aux
+A level-1 auxiliary file: contents/Empirische_Ergebnisse.aux
+A level-1 auxiliary file: contents/Diskussion.aux
+A level-1 auxiliary file: contents/Zusammenfassung.aux
+A level-1 auxiliary file: contents/global/assertion.aux
+The style file: authordate2.bst
+Database file #1: bib/eWoM.bib
+Database file #2: bib/OnlineReviews.bib
+Database file #3: bib/RandCode.bib
+Database file #4: bib/selbstDownload.bib
+Database file #5: bib/selbstGefunden.bib
+Repeated entry---line 649 of file bib/selbstGefunden.bib
+ : @book{hofstede2001culture
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 870 of file bib/selbstGefunden.bib
+ : @article{resnick2002trust
+ :                          ,
+I'm skipping whatever remains of this entry
+Database file #6: bib/sentimentAnalyse.bib
+Database file #7: bib/Vergleich.bib
+Repeated entry---line 1 of file bib/Vergleich.bib
+ : @article{Adams2005
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 140 of file bib/Vergleich.bib
+ : @phdthesis{lu2015understanding
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 199 of file bib/Vergleich.bib
+ : @article{Sohaib2014
+ :                    ,
+I'm skipping whatever remains of this entry
+`journal' is a missing field, not a string, for entry demirtas2013cross
+while executing---line 1303 of file authordate2.bst
+Warning--empty journal in demirtas2013cross
+Warning--empty year in duenassentiment
+`journal' is a missing field, not a string, for entry duenassentiment
+while executing---line 1303 of file authordate2.bst
+Warning--empty journal in duenassentiment
+Warning--empty booktitle in olson1972proceedings
+Warning--empty school in Stenberg2014
+`journal' is a missing field, not a string, for entry triandis1972analysis
+while executing---line 1303 of file authordate2.bst
+Warning--empty journal in triandis1972analysis
+`journal' is a missing field, not a string, for entry Wan2008
+while executing---line 1303 of file authordate2.bst
+Warning--empty journal in Wan2008
+`journal' is a missing field, not a string, for entry zipf1949human
+while executing---line 1303 of file authordate2.bst
+Warning--empty journal in zipf1949human
+You've used 188 entries,
+            2455 wiz_defined-function locations,
+            1645 strings with 37443 characters,
+and the built_in function-call counts, 78195 in all, are:
+= -- 7783
+> -- 2631
+< -- 658
++ -- 802
+- -- 751
+* -- 6587
+:= -- 12513
+add.period$ -- 770
+call.type$ -- 188
+change.case$ -- 1544
+chr.to.int$ -- 187
+cite$ -- 196
+duplicate$ -- 3006
+empty$ -- 5747
+format.name$ -- 1005
+if$ -- 15968
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 188
+newline$ -- 955
+num.names$ -- 568
+pop$ -- 1113
+preamble$ -- 1
+purify$ -- 1382
+quote$ -- 0
+skip$ -- 2995
+stack$ -- 0
+substring$ -- 5378
+swap$ -- 705
+text.length$ -- 26
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1466
+warning$ -- 8
+while$ -- 648
+width$ -- 0
+write$ -- 2424
+(There were 10 error messages)

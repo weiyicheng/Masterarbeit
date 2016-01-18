@@ -1,0 +1,12 @@
+
+	F test to compare two variances
+
+data:  Scores_cn and Scores_de
+F = 0.37057, num df = 240, denom df = 24, p-value = 0.0001324
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.1877914 0.6298526
+sample estimates:
+ratio of variances 
+         0.3705662 
+

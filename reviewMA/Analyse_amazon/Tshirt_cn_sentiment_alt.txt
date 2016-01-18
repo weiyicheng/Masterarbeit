@@ -1,0 +1,26 @@
+  score                              text
+1     2 ich liebe dich. du bist wunderbar
+2    -2      Ich hasse dich, geh sterben!
+3     2    i love you. you are wonderful.
+4    -2                  i hate you, die.
+ [1] "Sehr zufrieden 5"                                                                                                                               
+ [2] "Logistik schnell, etwas ein wenig hoch 5"                                                                                                       
+ [3] "Sehr komfortabel, sehr cool Lauf 5"                                                                                                             
+ [4] "Sehr gut, sehr fit. Zeigen Sie auf den Verkäufer, guter Service loben. 5"                                                                       
+ [5] "Es Farbe 5"                                                                                                                                     
+ [6] "Ja, es ist echt, guter Stoff, weiterhin auf die Zukunft konzentrieren. 5"                                                                       
+ [7] "Trägt eine Menge Textur, nicht erfüllt 5"                                                                                                       
+ [8] "Senden Sie eine Einkaufstasche, etwas Gutes, Lob 5"                                                                                             
+ [9] "180 140 L ist gerade gut 5"                                                                                                                     
+[10] "Absolutwert. Großartig! ! ! 5"                                                                                                                  
+[11] "Authentic Premium-Kurier zu zwingen, einem Tag auf den Kunden-Service waren gut Nummern richtige Größe 5"                                       
+[12] "Authentisch 5"                                                                                                                                  
+[13] "Gute Qualität. Ohne Farbe. Sehr angenehm auf der Haut. Sehr fit 5"                                                                              
+[14] "183cm 85kg L Nummer ist nützlich, Sinn für das Paket 5"                                                                                         
+[15] "Etwas Gutes gestern, tragen genau das Richtige! Ich 180,74kg! Sehr gut, ist es relativ stolz auf die Kunden-Service, die oft nicht reagieren. 5"
+[16] "Ja, das ist NIKE Produktqualität nicht so gut ist, dass, 5"                                                                                     
+[17] "Gut 5"                                                                                                                                          
+[18] "Gut 5"                                                                                                                                          
+[19] "Recht 5"                                                                                                                                        
+[20] "Okay 5"                                                                                                                                         
+[1] NA

@@ -1,0 +1,235 @@
+         word freq
+1         gut 1254
+2    kleidung  321
+3   tragbaren  294
+4       gross  273
+5        kauf  253
+6  qualitativ  227
+7     schnell  213
+8       wenig  206
+9        echt  185
+10  logistics  142
+  [1] "abnutzung"             "absolut"               "achselhohl"           
+  [4] "ahnlich"               "allgemein"             "alte"                 
+  [7] "anbau"                 "and"                   "angemessen"           
+ [10] "angenehm"              "ankam"                 "anzahl"               
+ [13] "arbeit"                "art"                   "atmungsaktiv"         
+ [16] "ausdruck"              "ausgewahlt"            "aussehen"             
+ [19] "authentic"             "authentic"             "awesome"              
+ [22] "baby"                  "bald"                  "bang"                 
+ [25] "basketball"            "bauch"                 "bedeutende"           
+ [28] "beim"                  "bequem"                "bequem"               
+ [31] "bereit"                "besondere"             "besser"               
+ [34] "bestellen"             "bevormunden"           "bewegt"               
+ [37] "bewerten"              "bild"                  "billig"               
+ [40] "bisschen"              "blau"                  "blick"                
+ [43] "boyfriend"             "breit"                 "bringen"              
+ [46] "bruder"                "brust"                 "chuan"                
+ [49] "clothes"               "code"                  "codenummer"           
+ [52] "cool"                  "courier"               "dank"                 
+ [55] "dass"                  "denke"                 "dick"                 
+ [58] "dienstleistungen"      "ding"                  "dose"                 
+ [61] "downwind"              "drei"                  "dunn"                 
+ [64] "echt"                  "effekt"                "eigen"                
+ [67] "eigentlich"            "einfach"               "einkaufen"            
+ [70] "einzige"               "elastic"               "empfang"              
+ [73] "empfehlen"             "empfehlenswert"        "empfiehlt"            
+ [76] "empfohlen"             "eng"                   "entscheidend"         
+ [79] "ergebnis"              "erhalt"                "erhielt"              
+ [82] "ersatz"                "erst"                  "erwartet"             
+ [85] "express"               "expresslieferung"      "expressversand"       
+ [88] "fall"                  "falsch"                "farb"                 
+ [91] "fast"                  "faul"                  "fest"                 
+ [94] "fett"                  "figur"                 "finde"                
+ [97] "fit"                   "fitness"               "flagshipstore"        
+[100] "formal"                "freund"                "fuhl"                 
+[103] "fuhlt"                 "funf"                  "funfsternelob"        
+[106] "funftel"               "ganz"                  "gebe"                 
+[109] "geeignet"              "gefallen"              "gefallt"              
+[112] "gefiel"                "gefuhl"                "gehen"                
+[115] "gekauft"               "geld"                  "genau"                
+[118] "general"               "genug"                 "genuine"              
+[121] "gerade"                "gern"                  "gesagt"               
+[124] "geschaft"              "geschenk"              "geschmack"            
+[127] "geschwindigkeit"       "gesehen"               "gestaltung"           
+[130] "gewebe"                "gewicht"               "gewohnheit"           
+[133] "gibt"                  "ging"                  "gleich"               
+[136] "gluck"                 "glucklich"             "glucklicherweis"      
+[139] "good"                  "grau"                  "gross"                
+[142] "grossart"              "grund"                 "gunstig"              
+[145] "gut"                   "haar"                  "haha"                 
+[148] "haltung"               "haus"                  "heisst"               
+[151] "helfen"                "heraus"                "heute"                
+[154] "hoch"                  "hof"                   "hoffe"                
+[157] "hohe"                  "hose"                  "immer"                
+[160] "insgesamt"             "intim"                 "jahr"                 
+[163] "kalt"                  "kam"                   "kannst"               
+[166] "kauf"                  "kaufte"                "kind"                 
+[169] "kleid"                 "kleidung"              "klein"                
+[172] "kollegen"              "komfortabel"           "komfortable"          
+[175] "komm"                  "kommentar"             "komplett"             
+[178] "korp"                  "kraft"                 "kunden"               
+[181] "kundendienst"          "kundenservice"         "kurier"               
+[184] "kurz"                  "laden"                 "lang"                 
+[187] "langsam"               "lauf"                  "lcode"                
+[190] "legte"                 "leicht"                "leid"                 
+[193] "letzte"                "lieb"                  "liebt"                
+[196] "lief"                  "liefer"                "liefergeschwindigkeit"
+[199] "linie"                 "lnummer"               "lob"                  
+[202] "locker"                "logistics"             "logistics"            
+[205] "lose"                  "mag"                   "mal"                  
+[208] "mann"                  "marke"                 "material"             
+[211] "mcode"                 "mehr"                  "mehrmals"             
+[214] "menge"                 "mensch"                "meter"                
+[217] "mnummer"               "mochte"                "morgen"               
+[220] "muh"                   "muss"                  "nachahmung"           
+[223] "nachmittag"            "nah"                   "nike"                 
+[226] "nummer"                "oberkorp"              "obwohl"               
+[229] "offen"                 "offensichtlich"        "offizielle"           
+[232] "okay"                  "onlineshopping"        "ordnung"              
+[235] "ort"                   "paar"                  "paket"                
+[238] "passen"                "passform"              "perfekt"              
+[241] "person"                "pfund"                 "platz"                
+[244] "positiv"               "preis"                 "problem"              
+[247] "produkt"               "professionell"         "puma"                 
+[250] "punkt"                 "qualitativ"            "rabatt"               
+[253] "rechnung"              "recht"                 "referenz"             
+[256] "regel"                 "reihe"                 "relativ"              
+[259] "richtig"               "rot"                   "sache"                
+[262] "sage"                  "sagt"                  "sah"                  
+[265] "saum"                  "scheint"               "schickt"              
+[268] "schlank"               "schlecht"              "schnell"              
+[271] "schon"                 "schulter"              "schwarz"              
+[274] "schweiss"              "schwer"                "schwitzen"            
+[277] "sehen"                 "seit"                  "senden"               
+[280] "service"               "servicehaltung"        "setzen"               
+[283] "shanghai"              "shop"                  "shuai"                
+[286] "sicher"                "sieht"                 "sohn"                 
+[289] "sorgfalt"              "spat"                  "speicher"             
+[292] "speziell"              "spiel"                 "sport"                
+[295] "stark"                 "stelle"                "stern"                
+[298] "stil"                  "stoff"                 "stuck"                
+[301] "studenten"             "summe"                 "super"                
+[304] "superschnell"          "tag"                   "taille"               
+[307] "tat"                   "tatsache"              "telefon"              
+[310] "teuer"                 "textur"                "toll"                 
+[313] "too"                   "tragbaren"             "tragt"                
+[316] "trug"                  "turnhalle"             "typ"                  
+[319] "ublich"                "ultra"                 "unbequem"             
+[322] "unterschied"           "unterstutz"            "vater"                
+[325] "verbessern"            "verblassen"            "verkauf"              
+[328] "verlief"               "verpackt"              "verpackt"             
+[331] "versand"               "verschleiss"           "version"              
+[334] "versuchen"             "vertrauenswurd"        "verwendet"            
+[337] "viele"                 "voll"                  "vollig"               
+[340] "vollstand"             "wahl"                  "wahr"                 
+[343] "ware"                  "warm"                  "warum"                
+[346] "wasch"                 "wasser"                "website"              
+[349] "weiss"                 "weiterhin"             "wenig"                
+[352] "wert"                  "wind"                  "wirklich"             
+[355] "wirkung"               "wissen"                "wohl"                 
+[358] "wurde"                 "xlcode"                "xxl"                  
+[361] "zahl"                  "zeit"                  "ziemlich"             
+[364] "zufrieden"             "zukunft"               "zuruck"               
+[367] "zusammen"              "zwei"                  "zweite"               
+[370] "zwingen"              
+                  kauf
+mal               0.21
+klein             0.20
+zweite            0.20
+helfen            0.19
+gross             0.15
+bevor             0.14
+laden             0.14
+finde             0.13
+kontaktieren      0.13
+lynx              0.13
+schwarz           0.13
+anruf             0.12
+anzahl            0.12
+armellos          0.12
+aufhor            0.12
+chaos             0.12
+denke             0.12
+dreiundsiebzig    0.12
+empfehlen         0.12
+erst              0.12
+fand              0.12
+fordert           0.12
+fortsetzen        0.12
+gutschein         0.12
+hochwertige       0.12
+hoffe             0.12
+hor               0.12
+identifizierung   0.12
+innenseite        0.12
+kinderlieb        0.12
+klassenkameraden  0.12
+lassig            0.12
+lieblingsprodukte 0.12
+lila              0.12
+mehr              0.12
+nein              0.12
+nikequalitat      0.12
+note              0.12
+patient           0.12
+profi             0.12
+provisorischen    0.12
+qualitativ        0.12
+referenzgewicht   0.12
+regale            0.12
+ruckgab           0.12
+schlange          0.12
+schwerpunkt       0.12
+sinken            0.12
+staaten           0.12
+tod               0.12
+vereinigten       0.12
+verteilen         0.12
+wusste            0.12
+zeitdaten         0.12
+zugesandt         0.12
+zusammen          0.12
+zwischenzeit      0.12
+empfehlenswert    0.11
+ticket            0.11
+beim              0.10
+fall              0.10
+freund            0.10
+hohe              0.10
+lcode             0.10
+mittag            0.10
+uberleg           0.10
+wert              0.10
+      gut  kleidung tragbaren 
+        1         2         3 
+    gut kleidung tragbaren
+1 0.384    0.000     0.000
+2 3.688    0.188     0.000
+3 0.621    1.073     0.005
+4 1.208    0.000     1.069
+5 1.286    1.071     1.071
+6 2.200    2.000     0.000
+7 2.000    0.291     0.000
+8 0.000    0.087     1.033
+cluster 1:  gut kleidung tragbaren 
+cluster 2:  gut kleidung tragbaren 
+cluster 3:  kleidung gut tragbaren 
+cluster 4:  gut tragbaren kleidung 
+cluster 5:  gut kleidung tragbaren 
+cluster 6:  gut kleidung tragbaren 
+cluster 7:  gut kleidung tragbaren 
+cluster 8:  tragbaren kleidung gut 
+[1] 10
+cluster 1 :   
+cluster 2 :   
+cluster 3 :  gut 
+cluster 4 :  tragbaren 
+cluster 5 :  gut kleidung 
+cluster 6 :  tragbaren 
+cluster 7 :  gut tragbaren 
+cluster 8 :  kleidung 
+cluster 9 :  gut kleidung tragbaren 
+cluster 10 :  kleidung 
+Vertex sequence:
+[1] "gut"       "kleidung"  "tragbaren"

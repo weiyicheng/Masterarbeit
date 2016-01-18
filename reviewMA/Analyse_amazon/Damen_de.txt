@@ -1,0 +1,45 @@
+       word freq
+1      hose   37
+2       gut   18
+3     gross   14
+4     super   11
+5      lang    9
+6     farbe    8
+7      toll    8
+8    adidas    7
+9     passt    7
+10 qualitat    6
+[1] "gut"  "hose"
+$kauf
+numeric(0)
+
+farbe gross   gut  hose passt super 
+    1     2     3     4     5     6 
+  farbe gross   gut  hose passt super
+1 2.000 1.000 2.000 3.000 1.000 0.000
+2 0.333 1.000 0.000 2.333 1.000 0.667
+3 0.000 1.667 1.333 0.000 0.333 0.333
+4 0.000 3.000 0.000 3.000 0.000 1.000
+5 0.250 0.250 2.000 1.000 0.250 0.000
+6 0.286 0.000 0.571 2.429 0.143 0.429
+7 0.333 0.000 0.000 0.667 0.000 1.333
+8 0.333 0.333 0.000 0.333 0.000 0.000
+cluster 1:  hose farbe gut 
+cluster 2:  hose gross passt 
+cluster 3:  gross gut passt 
+cluster 4:  gross hose super 
+cluster 5:  gut hose farbe 
+cluster 6:  hose gut super 
+cluster 7:  super hose farbe 
+cluster 8:  farbe gross hose 
+[1] 8
+cluster 1 :  super 
+cluster 2 :  gut 
+cluster 3 :  gross 
+cluster 4 :  farbe hose super 
+cluster 5 :  gut super 
+cluster 6 :  hose 
+cluster 7 :  gross passt super 
+cluster 8 :  gross passt 
+Vertex sequence:
+[1] "farbe" "gross" "gut"   "hose"  "passt" "super"

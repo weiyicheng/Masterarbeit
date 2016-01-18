@@ -1,0 +1,4 @@
+%% german bibliography styles
+%\bibliographystyle{dcu} % Babble Bibliography support
+%%\bibliographystyle{gerunsrt} % Items sorted in citation order
+\bibliographystyle{authordate2}

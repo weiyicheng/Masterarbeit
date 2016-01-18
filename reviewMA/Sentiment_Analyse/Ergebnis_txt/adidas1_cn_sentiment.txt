@@ -1,0 +1,41 @@
+ [1]  0.0000  0.8683  0.3832  0.0000  0.0000  0.3716 -0.0008  0.7402  0.5740
+[10]  0.0000  0.0080  0.3716  0.7472  0.0000  0.7432  0.0000  0.0000  0.0040
+[19]  0.3716  0.3716  0.0000  0.2300  0.7432  0.3716  0.0000
+[1] "Mean"
+[1] 4.8
+[1] 0.27594
+[1] "Median"
+[1] 5
+[1] 0.23
+[1] "Varianz"
+[1] 0.6666667
+[1] 0.0950417
+[1] "Standardabweichung"
+[1] 0.8164966
+[1] 0.3082883
+[1] "Korrelationskoeffizient"
+[1] 0.1333677
+
+	One Sample t-test
+
+data:  Sterne
+t = 29.394, df = 24, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 4.462967 5.137033
+sample estimates:
+mean of x 
+      4.8 
+
+
+	One Sample t-test
+
+data:  Scores
+t = 4.4754, df = 24, p-value = 0.0001577
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 0.1486848 0.4031952
+sample estimates:
+mean of x 
+  0.27594 
+

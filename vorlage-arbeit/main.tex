@@ -1,0 +1,117 @@
+% Copyright (C)  2013 Jana Traue (jana.traue[at]tu-cottbus.de)
+%
+% Permission is granted to copy, distribute and/or modify this document
+% under the terms of the GNU Free Documentation License, Version 1.3
+% or any later version published by the Free Software Foundation;
+% with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+% A copy of the license is included in the file entitled "LICENSE".
+%
+% =============================================================================
+% LATEX main file
+% =============================================================================
+% -----------------------------------------------------------------------------
+%
+%
+% -----------------------------------------------------------------------------
+% include header: used packages, define commands, ....
+% -----------------------------------------------------------------------------
+\include{contents/global/header}
+%
+% -----------------------------------------------------------------------------
+% set graphics path
+% -----------------------------------------------------------------------------
+\graphicspath{{figures/}}
+%
+%
+% -----------------------------------------------------------------------------
+% actual document
+% -----------------------------------------------------------------------------
+\begin{document}
+%
+% -----------------------------------------------------------------------------
+% title page
+\pagenumbering{alph}	% numbering with letters
+\include{contents/global/titlepage}
+
+%
+% -----------------------------------------------------------------------------
+% front matter: table of contents, ...
+\frontmatter			% start numbering pages
+\pagenumbering{roman}	% numbering with roman numbers
+
+\include{contents/global/tableofcontents}
+\listoffigures
+\listoftables
+%
+\include{contents/global/acronyms}
+% show a list of all todos
+% \include{contents/todo}
+%
+% -----------------------------------------------------------------------------
+% main matter: all chapters
+\mainmatter
+\pagenumbering{arabic}	% numbering with arabic numbers
+%
+% a demo chapter which might be removed
+% (the example bib file, which follows, may
+% be excluded too)
+%\include{contents/demo}
+% add more chapters here
+\include{contents/Einfuehrung}
+\include{contents/Theoretische_Grundlagen}
+\include{contents/Datensammlung}
+\include{contents/Empirische_Ergebnisse}
+\include{contents/Diskussion}
+\include{contents/Zusammenfassung}
+%
+% -----------------------------------------------------------------------------
+\pagenumbering{roman}
+\cleardoublepage{}
+% appendix
+%\appendix
+%\include{contents/global/appendix}
+%
+%
+%\include{contents/global/acronyms}
+%\listoffigures
+% \listoftables
+%
+\backmatter
+\pagenumbering{roman}
+\thispagestyle{empty}
+\include{contents/global/assertion}
+\setcounter{page}{10}
+
+%
+% -----------------------------------------------------------------------------
+% bibliography
+%
+%\pagenumbering{roman}
+% for testing, prints all entries of your bibliography
+%\nocite{*}		
+%
+% english bibliography styles
+\begin{en}
+\bibliographystyle{cell}
+%\bibliographystyle{alpha}
+\end{en}
+%
+\begin{de}
+%% german bibliography styles
+%\bibliographystyle{dcu}	% Babble Bibliography support
+%%\bibliographystyle{gerunsrt}	% Items sorted in citation order
+\bibliographystyle{authordate2}
+\end{de}
+%
+%
+% just an example to show how a bib file is included:
+% it might be removed when the demo chapter is removed
+%\bibliography{bib/example}
+\bibliography{bib/eWoM,bib/OnlineReviews,bib/RandCode,bib/selbstDownload,bib/selbstGefunden,bib/sentimentAnalyse,bib/Vergleich}
+%
+%
+\end{document}
+%
+%
+%
+

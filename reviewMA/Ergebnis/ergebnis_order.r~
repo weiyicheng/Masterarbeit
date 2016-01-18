@@ -1,0 +1,21 @@
+setwd("/home/wei/Dropbox/Master Arbeit/reviewMA/Ergebnis") 
+small <-read.csv("ergebnis_cn_table3.csv",header=TRUE,fileEncoding = "UTF-8")
+summary(small)
+library(ggplot2)
+ggplot(small)+geom_histogram(aes(x=score, fill=as.factor(gesamte)),binwidth=0.35)
+ggplot(small)+geom_density(aes(x=score, color=as.factor(gesamte)))
+
+
+
+h<-hist(dataSet$Scores, breaks=nrow(x)/8,col="gray",main="Die Ergebnisse von chinesischen OCRs in Frequenz", xlab="Polarität von OCRs durch Sentiment Analyse", ylab="Frequenz")
+mtext("Blau ist die Gaußverteilungskurve",col="blue")
+xfit <- seq(min(dataSet$Scores),max(dataSet$Scores),length=nrow(x))
+yfit <- dnorm(xfit, mean = mean(dataSet$Scores), sd=sd(dataSet$Scores))
+yfit<-yfit*diff(h$mids[1:2])*length(dataSet$Scores)
+lines(xfit, yfit, col = "blue", lwd =2)
+box()
+
+hist(dataSet$Scores, breaks=nrow(x)/8,freq=FALSE,col="gray",main="Die Ergebnisse von chinesischen OCRs in Dichte", xlab="Polarität von OCRs durch Sentiment Analyse", ylab="Dichte")
+mtext("Rote ist die Dichteverteilungskurve",col="red")
+lines(density(dataSet$Scores), col="red", lwd=2)
+box()

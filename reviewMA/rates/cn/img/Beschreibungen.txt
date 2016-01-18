@@ -1,0 +1,69 @@
+## dieses dokument ist eine Beschreibung über die Photos von chinesischen Webseiten.##
+adidas1.png:
+	Kommentaren:52
+	Verkauft in diesem Monat(Mai.2015):54
+	Dinge mit richtiger Beschreibung in der Webseite: 4,9
+
+adidas2.png:
+	Kommentaren:404
+	Verkauft in diesem Monat(Mai.2015):11
+	Dinge mit richtiger Beschreibung in der Webseite: 4,8
+		Hose nicht schlecht:13
+		Qualitätsware:9
+		gute Qualität:9
+		schnelle Lieferung:3
+		gutes Design:3
+		gutes Aussehen:3
+		macht sich bezahlt:3
+		schöne Farbe:3
+		schlechter Service:7
+		Material nicht gut:3
+	Allgemeines Denken: 90% passen, bisschen größ;100% keinen Unterschied mit den Photos in den Webseiten
+
+nike1.png:
+	Kommentaren:4637
+	Verkauft in diesem Monat(Mai.2015):2342
+	Dinge mit richtiger Beschreibung in der Webseite: 4,9
+		gute Qualität:235
+		schnelle Lieferung:226
+		gutes Effekt wenn man trägt:134
+		Qualitätsware:107
+		guter Service:100
+		gute Verpackung:96
+		schöne Farbe:86
+		Verwendungszweck:26
+		gutes Material:16
+		Leute:11
+	Allgemeines Denken: 90% passen, bisschen klein;97% keinen Unterschied mit den Photos in den Webseiten
+
+nike2.png:
+	Kommentaren:10693
+	Verkauft in diesem Monat(Mai.2015):1622
+	Dinge mit richtiger Beschreibung in der Webseite: 4,9
+		schnelle Lieferung:268
+		gute Qualität:250
+		Qualitätsware:210
+		gutes Effekt wenn man trägt:138
+		gute Service-Haltung:99
+		gute Verpackung:66
+		Leute:60
+		gutes Material:28
+		schönes Aussehen:18
+		Es gibt Unterschied zwischen Dingen und den Photos in den Webseiten:25
+	Allgemeines Denken: 88% passen, bisschen groß;96% keinen Unterschied mit den Photos in den Webseiten
+
+puma1.png:
+	Kommentaren:835
+	Verkauft in diesem Monat(Mai.2015):1651
+	Dinge mit richtiger Beschreibung in der Webseite: 4,7
+		schnelle Lieferung:16
+		gute Qualität:16
+		gutes Effekt wenn man trägt:15
+		Qualitätsware:10
+		guter Service:9
+		gutes Material:4
+		gutes Design:3
+		höher Preis:6
+		höher Versandkosten:4
+		Qualität nicht gut:3
+	Allgemeines Denken: 79% passen, bisschen groß;100% keinen Unterschied mit den Photos in den Webseiten

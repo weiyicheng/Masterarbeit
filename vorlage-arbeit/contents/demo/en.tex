@@ -1,0 +1,294 @@
+% Copyright (C)  2013 Jana Traue (jana.traue[at]tu-cottbus.de)
+%
+% Permission is granted to copy, distribute and/or modify this document
+% under the terms of the GNU Free Documentation License, Version 1.3
+% or any later version published by the Free Software Foundation;
+% with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+% A copy of the license is included in the file entitled "LICENSE".
+%
+% =============================================================================
+% LATEX chapter
+% =============================================================================
+%
+% =============================================================================
+% =============================================================================
+\chapter{Demo Chapter (English)}
+% =============================================================================
+%
+Welcome to the wonderful world of \LaTeX{}.
+This document is a template for complex documents, like bachelor
+or master thesis.
+this context, complex does not refer to the content itself -
+you are still responsible for it - but to the document structure.
+In oder to benefit from this template, you should read the upcoming
+sections at least once.
+Eventually, the document tells how to get rid of this text in the final
+version of the thesis.
+%
+% =============================================================================
+\section{General Information about \LaTeX{}}
+% =============================================================================
+%
+% -----------------------------------------------------------------------------
+\subsection{Compiling}
+% -----------------------------------------------------------------------------
+%
+In the top level folder is a file called \code{main.tex}.
+Compile it via:
+%
+\begin{lstlisting}[language=bash]
+pdflatex main.tex
+\end{lstlisting}
+%
+Often, it is necessary to invoke this command twice in order to
+get references right.
+%
+\par
+%
+The bibliography has to be translated separately, via:
+%
+\begin{lstlisting}[language=bash]
+bibtex main
+\end{lstlisting}
+%
+followed by another run of \code{pdflatex}.
+%
+\par
+%
+If you do not rename the file \code{main}, your advisers
+may get documents called \code{main.pdf} from all their students
+and will probably get confused.
+Therefore, rename the file and include a unique identifier, like
+your name.
+%
+\par
+%
+You do not need to type the above shown commands manually if you
+use the provided Makefile.
+A call of \code{make} invokes \code{pdflatex} as well as \code{bibtex}.
+With the help of \code{make clean} you can get rid of the temporary files
+that \LaTeX{} creates.
+But be careful and take a look at the Makefile before you clean up.
+It contains a list of suffixes and all files that match the pattern
+are deleted.
+In the worst case, one of your files is lost forever.
+If you renamed the \code{main} file, you need to adjust the Makefile.
+%
+% -----------------------------------------------------------------------------
+\subsection{Folder Structure}
+% -----------------------------------------------------------------------------
+%
+Although it is possible to write your thesis in a single file,
+it is not recommended, because you get lost easily.
+This document's structure is a bit complex, but has proven to be useful for
+a couple of years.
+In addition to the main file, the root directory contains the following folders:
+\begin{itemize}
+	\item \code{bib}: bibliography files
+	\item \code{contents}: tex files (the actual content)
+	\item \code{contents/global}: global tex files which might be exchanged,
+		like the title page. They do not contain content related data.	
+	\item \code{figures}: figures (use a format which pdflatex supports)
+\end{itemize}
+%
+%
+% .............................................................................
+\subsubsection{Latex Packages}
+% .............................................................................
+%
+Due to the differences in existing operating systems and their distributions,
+you have to figure out how to install \LaTeX{} on your own.
+%
+If you get an error message like
+\begin{lstlisting}[language=bash]
+! LaTeX Error: File '<package name>.sty' not found.
+\end{lstlisting}
+you are missing a \LaTeX{} package.
+%
+Sometimes you need packages that are not part of the standard \TeX distributions
+our you are not allowed to install packages (e.g. in our lab).
+In that case, you can download the package from
+\href{http://www.ctan.org/}{CTAN} and copy them either to
+\code{/usr/share/texmf/tex/latex/} (doesn't work in the lab)
+or to the folder \code{/home/yourName/texmf/tex/} (that works).
+%
+Afterwards, run
+\begin{lstlisting}[language=bash]
+texhash .
+\end{lstlisting}
+in your home folder to register the package.
+%
+% -----------------------------------------------------------------------------
+\subsection{Code Conventions}
+% -----------------------------------------------------------------------------
+%
+\begin{itemize}
+	\item Put each chapter into a different tex file or even folder.
+        That avoids getting lost in long source files and forces
+        you to structure the document.
+	\item Mark sections and subsections within a chapter.
+        It is easier to find a section if all of them are marked
+        (like the used dashed lines in this file).
+	\item Whenever code (like the name of a class or a folder's name)
+		occurs, mark it with the \code{$\backslash$code\{\}} command
+        \footnote{to change the style of these words later and for an easier 
+            access of code sections within a document}.
+		See also section \ref{demo:examples:listings}.
+	\item Use meaningful labels. Start the name of a label with the kind of 
+        element it refers to, like 
+        \code{$\backslash$label\{chapter:introduction\}} or
+		\code{$\backslash$label\{figure:introduction:section:name\}}. 
+        This helps to avoid conflicts.
+    \item Limit each line to 80 characters. If you ever change your editor
+        or exchange the source code with a college,
+        you do not need to waste time with adding new lines.
+\end{itemize}
+%
+% -----------------------------------------------------------------------------
+\subsection{Adjusting the Template}
+% -----------------------------------------------------------------------------
+%
+The template is designed to be used for thesis in German as well as English.
+When you use English, ignore the German parts (marked with \code{de}) 
+in the source code.
+At least, the following adjustments in {\LaTeX} files are necessary:
+%
+\paragraph{titlepage.tex}
+%
+Change the document's title in the pdf bookmark section.
+Insert group and the according professor. 
+The document type might be 'Bachelor Thesis'.
+Complete title, your name, course of study and matriculation number.
+You may add the names of your advisers and or remove this section.
+Check whether 'adviser' is the correct term.
+%
+\paragraph{header.tex}
+%
+A description for common \href{http://www.komascript.de/}{KOMA-Script} options 
+is provided at the beginning of the file.
+Afterwards, there is a global switch for selecting English or German style - the
+comment section.
+Choose the language you want to exclude and include.
+Some source files, like the title page, are already prepared for
+multilingual use.
+Be aware that there are no characters allowed on a line before
+\begin{lstlisting}[language={[LaTeX]TeX}]
+\begin{de}
+\end{de}
+\end{lstlisting}
+That includes white spaces. A proper intending is impossible.
+Violating this rule results in strange errors like
+\begin{lstlisting}[language=bash]
+Runaway argument?
+! File ended while scanning use of \next.
+<inserted text> 
+                \par
+\end{lstlisting}
+Do not forget to run \code{make clean} after a language switch.
+
+Fill in data for the hyperref package.
+Hyphenations (at the end) tell {\LaTeX} how to split words.
+%
+%
+\paragraph{acronyms.tex}
+%
+Acronyms are placed there. Name the longest acronym in order to get a correct 
+layout.
+Usually, at its first occurrence an acronym is given in the long form, 
+like \ac{BTU}.
+Thereafter, only the short form is used, like \ac{BTU}.
+Both examples were invoked using \code{$\backslash$ac\{BTU\}} - {\LaTeX} does 
+the rest.
+You have to tell \LaTeX{} the longest acronym explicitly in order to align
+the resulting table correctly.
+The source files shows how to use plural versions.
+%
+% -----------------------------------------------------------------------------
+\subsection{Using Tools}
+% -----------------------------------------------------------------------------
+%
+\paragraph{Texmaker}
+%
+\href{http://www.xm1math.net/texmaker/}{Texmaker}
+is available for several platforms. It supports compilation and viewing the 
+document via short-cuts. 
+For using it, adjust paths in its preferences section. 
+Open the \code{main.tex} and set it as master file in the options menu. 
+This has to be done every time texmaker is restarted. 
+Thereafter, you may open any other chapter and start compiling the main
+file by pressing \code{F6}. Bibtex is invoked by \code{F11}.
+To view the pdf document hit \code{F7}.
+In order to use the spell checker, provide a dictionary in the preferences 
+section.
+%
+\paragraph{gVim}
+was used for writing this document.
+External commands are invoked via:
+\begin{lstlisting}[language=bash]
+:!<command>
+\end{lstlisting}
+Using this avoids a switch to the terminal.
+A \code{:} followed by an arrow key allows navigation through recent commands.
+If you do not know how to switch to the command mode, you probably should not 
+use gVim at all.
+%
+\par
+%
+GVim includes a spell checker.
+You can turn it on
+\begin{lstlisting}[language=bash]
+:set spell
+\end{lstlisting}
+and select a language
+\begin{lstlisting}[language=bash]
+:set spelllang=<lang>
+\end{lstlisting}
+Misspelled words are highlighted in the source code.
+To get a list of suggestions for a misspelled word, place the cursor on it
+and press \code{z=}.
+If you are sure the word is correct, add it to the word list: \code{zg}.
+The help file contains more information:
+\begin{lstlisting}[language=bash]
+:help spell
+\end{lstlisting}
+%
+%
+% \paragraph{Notes}
+% %
+% Handwritten notes are awful. They can not be included in revision control 
+% systems.
+% Paper might get lost. You might not be able to decipher the text.
+% Therefore, convince your consultants to provide digital notes.
+% Several free tools for annotating pdf documents exist. For Windows there is 
+% \href{http://www.foxitsoftware.com/pdf/reader/}{Foxit Reader}. 
+% The build-in Preview.app supports notes on Mac OS, but they are hard to read 
+% using any other tool. 
+% An alternative is \href{http://skim-app.sourceforge.net/}{Skim}.
+% Still looking forward to find a Linux application besides 
+% \href{http://okular.kde.org/}{Okular}. 
+%
+% -----------------------------------------------------------------------------
+\subsection{Additional Hints}
+% -----------------------------------------------------------------------------
+%
+\paragraph{Content versus Layout}
+%
+Try not to get a perfect layout while still writing the document. 
+There will be at least one section which needs to be revised. 
+And, of course, exactly this one is going to destroy the current layout. 
+%
+\paragraph{Check Logs}
+%
+{\LaTeX} creates a log file every time the document is compiled. 
+Check it in order to find errors and warnings, like the already mentioned, 
+overlong lines.
+%
+\paragraph{Use a Spell Checker!}
+%
+\par
+%
+As promised, I will tell you how to remove the demo chapter from your
+document.
+Open \code{main.tex} and turn the line with the demo chapter into a comment.
+%
+\par{Good Luck with your Thesis!}

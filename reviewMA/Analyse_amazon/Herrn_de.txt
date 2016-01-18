@@ -1,0 +1,187 @@
+         word freq
+1         gut  120
+2       shirt   81
+3       super   57
+4       gross   51
+5    angenehm   42
+6       trage   39
+7  qualitativ   37
+8        hose   34
+9       passt   32
+10        top   27
+ [1] "adidas"     "angenehm"   "beim"       "einfach"    "empfehle"  
+ [6] "eng"        "gross"      "gut"        "haut"       "hose"      
+[11] "immer"      "kauf"       "leicht"     "passform"   "passt"     
+[16] "perfekt"    "preis"      "puma"       "qualitativ" "schnell"   
+[21] "schonmal"   "shirt"      "sitzt"      "super"      "top"       
+[26] "trage"      "tshirt"     "waschen"    "zufrieden" 
+                       kauf
+fitnessstudio          0.31
+sieht                  0.29
+vielleicht             0.26
+muss                   0.24
+wert                   0.24
+breite                 0.23
+abgesichert            0.22
+achtung                0.22
+allemal                0.22
+amozon                 0.22
+art                    0.22
+bauchlein              0.22
+bauchmiedern           0.22
+bedarf                 0.22
+beider                 0.22
+bierplauze             0.22
+bissl                  0.22
+bleiben                0.22
+bodybuilder            0.22
+buchstaben             0.22
+comp                   0.22
+darf                   0.22
+definitiv              0.22
+drei                   0.22
+druck                  0.22
+durft                  0.22
+ermoglicht             0.22
+erneut                 0.22
+erzeugen               0.22
+etwa                   0.22
+ewiges                 0.22
+fertigen               0.22
+feuchtigskeittransport 0.22
+figur                  0.22
+firma                  0.22
+flussigkeitstransf     0.22
+fortgeschrittene       0.22
+freie                  0.22
+funtionell             0.22
+fur                    0.22
+gefallen               0.22
+gehor                  0.22
+gewaschen              0.22
+glatte                 0.22
+grey                   0.22
+grossart               0.22
+guteinfach             0.22
+haufig                 0.22
+hauptsach              0.22
+hiermit                0.22
+inkl                   0.22
+interessanterweise     0.22
+jacke                  0.22
+jedenfall              0.22
+kaufhaus               0.22
+kauft                  0.22
+kenne                  0.22
+krampfhaft             0.22
+kreuz                  0.22
+laufshirt              0.22
+lieblingsprodukt       0.22
+materialbedingt        0.22
+monat                  0.22
+nackenmuskulatur       0.22
+namlich                0.22
+oberbekleidung         0.22
+preisliebe             0.22
+pumeshirt              0.22
+quali                  0.22
+qualitatsmangel        0.22
+quasi                  0.22
+ratsel                 0.22
+schau                  0.22
+schnicke               0.22
+sixpacks               0.22
+solch                  0.22
+sorte                  0.22
+spannung               0.22
+sportshirt             0.22
+statt                  0.22
+stuck                  0.22
+stutzstrumpf           0.22
+tatig                  0.22
+unterwasch             0.22
+versand                0.22
+verschleissspur        0.22
+viele                  0.22
+vollauf                0.22
+vollkommen             0.22
+vorgestellt            0.22
+wiegt                  0.22
+wuurd                  0.22
+ziehen                 0.22
+zufriedenstellend      0.22
+eher                   0.20
+prima                  0.19
+erst                   0.16
+personen               0.16
+wer                    0.15
+gut                    0.14
+angebot                0.13
+anprobe                0.13
+black                  0.13
+brauche                0.13
+cool                   0.13
+dehnbar                0.13
+ebenfalls              0.13
+erfullt                0.13
+farbe                  0.13
+geholt                 0.13
+genial                 0.13
+genug                  0.13
+jederzeit              0.13
+kam                    0.13
+kompression            0.13
+leitet                 0.13
+meckern                0.13
+ordentlich             0.13
+polyester              0.13
+punkt                  0.13
+qualitativ             0.13
+qualtiat               0.13
+scheint                0.13
+sicher                 0.13
+stark                  0.13
+statur                 0.13
+trikot                 0.13
+tun                    0.13
+tut                    0.13
+unten                  0.13
+vietnam                0.13
+wahrscheinlich         0.13
+weisst                 0.13
+xxl                    0.13
+fuhlt                  0.12
+immer                  0.12
+aussehen               0.11
+gekauft                0.11
+qualitativ             0.10
+  angenehm   gut shirt super trage
+1    0.000 0.000 0.143 0.429 0.000
+2    0.190 1.833 0.190 0.024 0.190
+3    0.000 1.308 0.154 1.154 0.154
+4    0.600 0.067 0.200 0.467 1.067
+5    0.400 1.000 3.400 0.400 0.600
+6    1.222 0.556 0.222 0.000 0.333
+7    0.500 0.714 1.786 0.286 0.143
+8    0.600 0.000 0.400 2.200 0.400
+cluster 1:  super shirt angenehm 
+cluster 2:  gut angenehm shirt 
+cluster 3:  gut super shirt 
+cluster 4:  trage angenehm super 
+cluster 5:  shirt gut trage 
+cluster 6:  angenehm gut trage 
+cluster 7:  shirt gut angenehm 
+cluster 8:  super angenehm shirt 
+[1] 10
+cluster 1 :  super 
+cluster 2 :  gut super 
+cluster 3 :   
+cluster 4 :  trage 
+cluster 5 :  angenehm trage 
+cluster 6 :   
+cluster 7 :  gut 
+cluster 8 :  angenehm 
+cluster 9 :  shirt 
+cluster 10 :  gut 
+Vertex sequence:
+[1] "angenehm" "gut"      "shirt"    "super"    "trage"   

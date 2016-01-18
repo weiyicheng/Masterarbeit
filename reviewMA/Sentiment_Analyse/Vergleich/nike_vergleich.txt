@@ -1,0 +1,96 @@
+
+	F test to compare two variances
+
+data:  Sterne_cn and Sterne_de
+F = 0.23704, num df = 1922, denom df = 39, p-value = 3.461e-16
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.1432734 0.3551877
+sample estimates:
+ratio of variances 
+         0.2370384 
+
+
+	F test to compare two variances
+
+data:  Scores_cn and Scores_de
+F = 0.29005, num df = 1922, denom df = 39, p-value = 1.32e-11
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.1753146 0.4346205
+sample estimates:
+ratio of variances 
+         0.2900488 
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Sterne_cn and Sterne_de
+W = 45564, p-value = 1.135e-08
+alternative hypothesis: true location shift is not equal to 0
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Scores_cn and Scores_de
+W = 22206, p-value = 3.408e-06
+alternative hypothesis: true location shift is not equal to 0
+
+
+	modified robust Brown-Forsythe Levene-type test based on the absolute
+	deviations from the median
+
+data:  y
+Test Statistic = 19.817, p-value = 9.003e-06
+
+
+	modified robust Brown-Forsythe Levene-type test based on the absolute
+	deviations from the median
+
+data:  y
+Test Statistic = 31.308, p-value = 2.511e-08
+
+
+	Pearson's product-moment correlation
+
+data:  Sterne_cn and Scores_cn
+t = 4.1904, df = 1921, p-value = 2.911e-05
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.05068876 0.13928067
+sample estimates:
+       cor 
+0.09517316 
+
+
+	Pearson's product-moment correlation
+
+data:  Sterne_de and Scores_de
+t = 2.4098, df = 38, p-value = 0.02091
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.05931011 0.60678183
+sample estimates:
+      cor 
+0.3640926 
+
+
+	Spearman's rank correlation rho
+
+data:  Sterne_cn and Scores_cn
+S = 1049500000, p-value = 4.813e-07
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.1144833 
+
+
+	Spearman's rank correlation rho
+
+data:  Sterne_de and Scores_de
+S = 5607.8, p-value = 0.002007
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+     rho 
+0.473936 
+

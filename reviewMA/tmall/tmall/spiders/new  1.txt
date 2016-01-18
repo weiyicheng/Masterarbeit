@@ -1,0 +1,24 @@
+键	值
+请求	GET /list_detail_rate.htm?itemId=21847180765&spuId=212826070&sellerId=890482188&order=3&currentPage=1&append=0&content=1&tagId=&posi=&picture=&ua=229UW5TcyMNYQwiAiwVQX1EeUR5RH5Cd0xiNGI%3D%7CUm5Ockt1SXBMd0twTHdMciQ%3D%7CU2xMHDJxPk82UjVOI1h2VngRd1snQSJEI107F2gFfgRlAmRKakQYeR9zFGoQPmg%2B%7CVGhXd1llXGJeZ1tgXGdbYFtlUm9NeUF1S3JJdklyTndIc0l8RGo8%7CVWldfS0TMw01CSkWNhhyIgxaDA%3D%3D%7CVmhIGCAZOQQkGCYfKws1ADQAIBwiGSICOAM2FioULxQ0DjEEUgQ%3D%7CV29PHzEfP29VbFJyTHBIHj4DIw0jAzgDNg9ZDw%3D%3D%7CWGNDEz0TMw8wDi4TMw82Cz8BVwE%3D%7CWWBAED4QMAozBycbJxggAj0JPQk2DTcPNQA8AzsbJxwmGiVzJQ%3D%3D%7CWmNDEz19KWIfYhlHAS8PNggxES0SKRQ2CT0JPQI5AzsBNAg3Dy8XLRUtEUcR%7CW2JCEjwSMgYzEy8QLhc1Cj4KPgE6ADgCNws0DCwXKRArEkQS%7CXGVFFTsVNQs%2FCioWKxcjAT4KPgo%2FBT8LNAA7DjQULxYrFyJ0Ig%3D%3D%7CXWVFFTsVNWVcY1Z2SndKdlRrX2tfalBqXmFVblthQX9EcVNrS3dMd1VsVmJWYlpgX2VdY1dqUXFNckdnW2I0FCkJJwkpEisQKxRCFA%3D%3D%7CXmdaZ0d6WmVFeUB8XGJaYEB5WWVRcU56Wm9PdVVuTnZWalQC&isg=249199187C04B0C3641D78DD1364BEA6&_ksTS=1431416227218_2426&callback=jsonp2427 HTTP/1.1
+
+
+
+http://rate.tmall.com/list_detail_rate.htm?itemId=21847180765&sellerId=890482188&currentPage=1
+
+
+
+def crawl(url):
+	myweb = rq.get(url)
+	myjson = re.findall('\"rateList\":(\[.*?\])\,\"tags\"',myweb.text)[0].encode('utf-8')
+	return myjson
+
+URL_BEGIN = 'http://rate.tmall.com/list_detail_rate.htm?itemId=21847180765&sellerId=890482188&currentPage='
+
+start_urls =["http://rate.tmall.com/list_detail_rate.htm?itemId=21847180765&sellerId=890482188&currentPage=1"]
+
+for i in range(2, pageNumber+1):
+	url = URL_BEGIN+str(i)
+	start_urls.append(URL_BEGIN+str(i))
+frames = [crawl(u) for u in start_urls]
+result = pd.concat(frames, ignore_index=True)
+result.to_excel('mytable.xls')

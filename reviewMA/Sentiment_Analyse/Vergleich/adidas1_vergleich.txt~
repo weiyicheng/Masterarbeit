@@ -1,0 +1,38 @@
+
+	F test to compare two variances
+
+data:  Sterne_cn and Sterne_de
+F = 0.42941, num df = 24, denom df = 44, p-value = 0.029
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.2177111 0.9139098
+sample estimates:
+ratio of variances 
+         0.4294079 
+
+
+	F test to compare two variances
+
+data:  Scores_cn and Scores_de
+F = 0.19248, num df = 24, denom df = 44, p-value = 5.659e-05
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.09758836 0.40965729
+sample estimates:
+ratio of variances 
+         0.1924808 
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Sterne_cn and Sterne_de
+W = 715.5, p-value = 0.01481
+alternative hypothesis: true location shift is not equal to 0
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Scores_cn and Scores_de
+W = 443, p-value = 0.1429
+alternative hypothesis: true location shift is not equal to 0
+

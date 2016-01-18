@@ -1,0 +1,90 @@
+
+	F test to compare two variances
+
+data:  Sterne_cn and Sterne_de
+F = 0.30971, num df = 2667, denom df = 167, p-value < 2.2e-16
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.2454152 0.3823790
+sample estimates:
+ratio of variances 
+         0.3097126 
+
+
+	F test to compare two variances
+
+data:  Scores_cn and Scores_de
+F = 0.3545, num df = 2667, denom df = 167, p-value < 2.2e-16
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.2809077 0.4376795
+sample estimates:
+ratio of variances 
+         0.3545039 
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Sterne_cn and Sterne_de
+W = 275950, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Scores_cn and Scores_de
+W = 131500, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
+
+	F test to compare two variances
+
+data:  Sterne_cn and Sterne_de
+F = 0.30971, num df = 2667, denom df = 167, p-value < 2.2e-16
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.2454152 0.3823790
+sample estimates:
+ratio of variances 
+         0.3097126 
+
+
+	F test to compare two variances
+
+data:  Scores_cn and Scores_de
+F = 0.3545, num df = 2667, denom df = 167, p-value < 2.2e-16
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.2809077 0.4376795
+sample estimates:
+ratio of variances 
+         0.3545039 
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Sterne_cn and Sterne_de
+W = 275950, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Scores_cn and Scores_de
+W = 131500, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
+
+	modified robust Brown-Forsythe Levene-type test based on the absolute
+	deviations from the median
+
+data:  y
+Test Statistic = 70.256, p-value < 2.2e-16
+
+
+	modified robust Brown-Forsythe Levene-type test based on the absolute
+	deviations from the median
+
+data:  y
+Test Statistic = 123.86, p-value < 2.2e-16
+

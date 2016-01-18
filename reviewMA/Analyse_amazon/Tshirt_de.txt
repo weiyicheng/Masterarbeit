@@ -1,0 +1,55 @@
+         word freq
+1         gut   82
+2       shirt   81
+3       super   40
+4    angenehm   36
+5       gross   34
+6  qualitativ   26
+7       trage   26
+8         top   25
+9         eng   20
+10       haut   19
+ [1] "angenehm"   "einfach"    "empfehle"   "eng"        "gross"     
+ [6] "gut"        "haut"       "leicht"     "passform"   "passt"     
+[11] "preis"      "puma"       "qualitativ" "shirt"      "super"     
+[16] "top"        "trage"      "tshirt"    
+              kauf
+fitnessstudio 0.35
+sieht         0.34
+vielleicht    0.34
+muss          0.27
+prima         0.27
+ware          0.27
+breite        0.25
+angenehm      gut    shirt    super 
+       1        2        3        4 
+  angenehm   gut shirt super
+1    0.342 0.184 0.184 0.711
+2    0.286 0.857 3.143 0.143
+3    0.000 1.000 6.000 0.000
+4    0.273 1.409 0.136 0.000
+5    0.500 0.167 1.583 0.083
+6    0.300 2.400 1.000 0.000
+7    0.000 2.500 0.000 1.500
+8    1.000 1.000 2.333 1.333
+cluster 1:  super angenehm gut 
+cluster 2:  shirt gut angenehm 
+cluster 3:  shirt gut angenehm 
+cluster 4:  gut angenehm shirt 
+cluster 5:  shirt angenehm gut 
+cluster 6:  gut shirt angenehm 
+cluster 7:  gut super angenehm 
+cluster 8:  shirt super angenehm 
+[1] 10
+cluster 1 :  angenehm gut super 
+cluster 2 :  shirt super 
+cluster 3 :  gut 
+cluster 4 :  shirt 
+cluster 5 :   
+cluster 6 :  gut 
+cluster 7 :   
+cluster 8 :  angenehm 
+cluster 9 :  angenehm 
+cluster 10 :  super 
+Vertex sequence:
+[1] "angenehm" "gut"      "shirt"    "super"   

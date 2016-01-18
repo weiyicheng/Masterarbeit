@@ -1,0 +1,748 @@
+         word freq
+1         gut  138
+2       shirt   81
+3        hose   71
+4       super   68
+5       gross   65
+6    angenehm   45
+7  qualitativ   43
+8       trage   43
+9       passt   39
+10      preis   28
+ [1] "adidas"     "angenehm"   "beim"       "bestellt"   "einfach"   
+ [6] "empfehle"   "eng"        "farbe"      "gross"      "gut"       
+[11] "haut"       "hose"       "immer"      "kauf"       "lang"      
+[16] "leicht"     "material"   "passform"   "passt"      "perfekt"   
+[21] "preis"      "puma"       "qualitativ" "schnell"    "schonmal"  
+[26] "shirt"      "sieht"      "sitzt"      "sport"      "stoff"     
+[31] "super"      "toll"       "top"        "trage"      "tshirt"    
+[36] "waschbar"   "zufrieden" 
+                       kauf
+fitnessstudio          0.32
+vielleicht             0.26
+muss                   0.24
+wert                   0.24
+abgesichert            0.22
+achtung                0.22
+allemal                0.22
+amozon                 0.22
+art                    0.22
+bauchlein              0.22
+bauchmiedern           0.22
+bedarf                 0.22
+bierplauze             0.22
+bissl                  0.22
+bleiben                0.22
+bodybuilder            0.22
+buchstaben             0.22
+comp                   0.22
+darf                   0.22
+definitiv              0.22
+drei                   0.22
+druck                  0.22
+durft                  0.22
+ermoglicht             0.22
+erneut                 0.22
+erzeugen               0.22
+etwa                   0.22
+ewiges                 0.22
+fertigen               0.22
+feuchtigskeittransport 0.22
+figur                  0.22
+flussigkeitstransf     0.22
+fortgeschrittene       0.22
+freie                  0.22
+funtionell             0.22
+fur                    0.22
+gefallen               0.22
+gehor                  0.22
+gewaschen              0.22
+glatte                 0.22
+grey                   0.22
+grossart               0.22
+guteinfach             0.22
+hauptsach              0.22
+hiermit                0.22
+inkl                   0.22
+interessanterweise     0.22
+jedenfall              0.22
+kaufhaus               0.22
+kauft                  0.22
+kenne                  0.22
+krampfhaft             0.22
+kreuz                  0.22
+laufshirt              0.22
+lieblingsprodukt       0.22
+materialbedingt        0.22
+monat                  0.22
+nackenmuskulatur       0.22
+namlich                0.22
+oberbekleidung         0.22
+preisliebe             0.22
+pumeshirt              0.22
+quali                  0.22
+qualitatsmangel        0.22
+quasi                  0.22
+ratsel                 0.22
+schau                  0.22
+schnicke               0.22
+sixpacks               0.22
+solch                  0.22
+sorte                  0.22
+spannung               0.22
+sportshirt             0.22
+statt                  0.22
+stuck                  0.22
+stutzstrumpf           0.22
+verschleissspur        0.22
+viele                  0.22
+vollauf                0.22
+vollkommen             0.22
+vorgestellt            0.22
+wiegt                  0.22
+wuurd                  0.22
+ziehen                 0.22
+breite                 0.21
+eher                   0.20
+prima                  0.20
+sieht                  0.20
+firma                  0.19
+erst                   0.17
+personen               0.16
+wer                    0.16
+angebot                0.14
+anprobe                0.14
+beide                  0.14
+black                  0.14
+brauche                0.14
+dehnbar                0.14
+erfullt                0.14
+geholt                 0.14
+genial                 0.14
+genug                  0.14
+haufig                 0.14
+jacke                  0.14
+jederzeit              0.14
+kam                    0.14
+kompression            0.14
+leitet                 0.14
+meckern                0.14
+ordentlich             0.14
+polyester              0.14
+punkt                  0.14
+qualitativ             0.14
+qualtiat               0.14
+scheint                0.14
+sicher                 0.14
+stark                  0.14
+statur                 0.14
+tatigkeiten            0.14
+trikot                 0.14
+tun                    0.14
+tut                    0.14
+unten                  0.14
+vietnam                0.14
+wahrscheinlich         0.14
+weisst                 0.14
+xxl                    0.14
+zufriedenstellend      0.14
+fuhlt                  0.13
+gut                    0.13
+shirt                  0.13
+aussehen               0.12
+cool                   0.12
+teil                   0.11
+ware                   0.11
+immer                  0.10
+  gross   gut  hose shirt super
+1 0.030 0.273 0.152 0.212 1.182
+2 2.250 0.750 0.333 0.167 0.500
+3 0.111 2.333 0.000 1.111 0.000
+4 0.216 1.514 0.324 0.027 0.000
+5 0.125 0.000 0.250 0.156 0.000
+6 0.619 0.714 0.000 2.667 0.476
+7 0.286 2.714 0.286 0.000 0.714
+8 0.529 0.529 2.353 0.000 0.471
+cluster 1:  super gut shirt 
+cluster 2:  gross gut super 
+cluster 3:  gut shirt gross 
+cluster 4:  gut hose gross 
+cluster 5:  hose shirt gross 
+cluster 6:  shirt gut gross 
+cluster 7:  gut super gross 
+cluster 8:  hose gross gut 
+[1] 8
+cluster 1 :  gross super 
+cluster 2 :  gut 
+cluster 3 :  super 
+cluster 4 :   
+cluster 5 :  gut 
+cluster 6 :   
+cluster 7 :  gut 
+cluster 8 :  gut 
+Vertex sequence:
+[1] "gross" "gut"   "hose"  "shirt" "super"
+         word freq
+1         gut  138
+2       shirt   81
+3        hose   71
+4       super   68
+5       gross   65
+6    angenehm   45
+7  qualitativ   43
+8       trage   43
+9       passt   39
+10      preis   28
+ [1] "adidas"     "angenehm"   "beim"       "bestellt"   "einfach"   
+ [6] "empfehle"   "eng"        "farbe"      "gross"      "gut"       
+[11] "haut"       "hose"       "immer"      "kauf"       "lang"      
+[16] "leicht"     "material"   "passform"   "passt"      "perfekt"   
+[21] "preis"      "puma"       "qualitativ" "schnell"    "schonmal"  
+[26] "shirt"      "sieht"      "sitzt"      "sport"      "stoff"     
+[31] "super"      "toll"       "top"        "trage"      "tshirt"    
+[36] "waschbar"   "zufrieden" 
+$kauf
+         fitnessstudio             vielleicht                   muss 
+                  0.32                   0.26                   0.24 
+                  wert            abgesichert                achtung 
+                  0.24                   0.22                   0.22 
+               allemal                 amozon                    art 
+                  0.22                   0.22                   0.22 
+             bauchlein           bauchmiedern                 bedarf 
+                  0.22                   0.22                   0.22 
+            bierplauze                  bissl                bleiben 
+                  0.22                   0.22                   0.22 
+           bodybuilder             buchstaben                   comp 
+                  0.22                   0.22                   0.22 
+                  darf              definitiv                   drei 
+                  0.22                   0.22                   0.22 
+                 druck                  durft             ermoglicht 
+                  0.22                   0.22                   0.22 
+                erneut               erzeugen                   etwa 
+                  0.22                   0.22                   0.22 
+                ewiges               fertigen feuchtigskeittransport 
+                  0.22                   0.22                   0.22 
+                 figur     flussigkeitstransf       fortgeschrittene 
+                  0.22                   0.22                   0.22 
+                 freie             funtionell                    fur 
+                  0.22                   0.22                   0.22 
+              gefallen                  gehor              gewaschen 
+                  0.22                   0.22                   0.22 
+                glatte                   grey               grossart 
+                  0.22                   0.22                   0.22 
+            guteinfach              hauptsach                hiermit 
+                  0.22                   0.22                   0.22 
+                  inkl     interessanterweise              jedenfall 
+                  0.22                   0.22                   0.22 
+              kaufhaus                  kauft                  kenne 
+                  0.22                   0.22                   0.22 
+            krampfhaft                  kreuz              laufshirt 
+                  0.22                   0.22                   0.22 
+      lieblingsprodukt        materialbedingt                  monat 
+                  0.22                   0.22                   0.22 
+      nackenmuskulatur                namlich         oberbekleidung 
+                  0.22                   0.22                   0.22 
+            preisliebe              pumeshirt                  quali 
+                  0.22                   0.22                   0.22 
+       qualitatsmangel                  quasi                 ratsel 
+                  0.22                   0.22                   0.22 
+                 schau               schnicke               sixpacks 
+                  0.22                   0.22                   0.22 
+                 solch                  sorte               spannung 
+                  0.22                   0.22                   0.22 
+            sportshirt                  statt                  stuck 
+                  0.22                   0.22                   0.22 
+          stutzstrumpf        verschleissspur                  viele 
+                  0.22                   0.22                   0.22 
+               vollauf             vollkommen            vorgestellt 
+                  0.22                   0.22                   0.22 
+                 wiegt                  wuurd                 ziehen 
+                  0.22                   0.22                   0.22 
+                breite                   eher                  prima 
+                  0.21                   0.20                   0.20 
+                 sieht                  firma                   erst 
+                  0.20                   0.19                   0.17 
+              personen                    wer                angebot 
+                  0.16                   0.16                   0.14 
+               anprobe                  beide                  black 
+                  0.14                   0.14                   0.14 
+               brauche                dehnbar                erfullt 
+                  0.14                   0.14                   0.14 
+                geholt                 genial                  genug 
+                  0.14                   0.14                   0.14 
+                haufig                  jacke              jederzeit 
+                  0.14                   0.14                   0.14 
+                   kam            kompression                 leitet 
+                  0.14                   0.14                   0.14 
+               meckern             ordentlich              polyester 
+                  0.14                   0.14                   0.14 
+                 punkt             qualitativ               qualtiat 
+                  0.14                   0.14                   0.14 
+               scheint                 sicher                  stark 
+                  0.14                   0.14                   0.14 
+                statur            tatigkeiten                 trikot 
+                  0.14                   0.14                   0.14 
+                   tun                    tut                  unten 
+                  0.14                   0.14                   0.14 
+               vietnam         wahrscheinlich                 weisst 
+                  0.14                   0.14                   0.14 
+                   xxl      zufriedenstellend                  fuhlt 
+                  0.14                   0.14                   0.13 
+                   gut                  shirt               aussehen 
+                  0.13                   0.13                   0.12 
+                  cool                   teil                   ware 
+                  0.12                   0.11                   0.11 
+                 immer 
+                  0.10 
+
+  gross   gut  hose shirt super
+1 0.030 0.273 0.152 0.212 1.182
+2 2.250 0.750 0.333 0.167 0.500
+3 0.111 2.333 0.000 1.111 0.000
+4 0.216 1.514 0.324 0.027 0.000
+5 0.125 0.000 0.250 0.156 0.000
+6 0.619 0.714 0.000 2.667 0.476
+7 0.286 2.714 0.286 0.000 0.714
+8 0.529 0.529 2.353 0.000 0.471
+cluster 1:  super gut shirt 
+cluster 2:  gross gut super 
+cluster 3:  gut shirt gross 
+cluster 4:  gut hose gross 
+cluster 5:  hose shirt gross 
+cluster 6:  shirt gut gross 
+cluster 7:  gut super gross 
+cluster 8:  hose gross gut 
+[1] 8
+cluster 1 :  gross super 
+cluster 2 :  gut 
+cluster 3 :  super 
+cluster 4 :   
+cluster 5 :  gut 
+cluster 6 :   
+cluster 7 :  gut 
+cluster 8 :  gut 
+Vertex sequence:
+[1] "gross" "gut"   "hose"  "shirt" "super"
+         word freq
+1         gut  138
+2       shirt   81
+3        hose   71
+4       super   68
+5       gross   65
+6    angenehm   45
+7  qualitativ   43
+8       trage   43
+9       passt   39
+10      preis   28
+ [1] "adidas"     "angenehm"   "beim"       "bestellt"   "einfach"   
+ [6] "empfehle"   "eng"        "farbe"      "gross"      "gut"       
+[11] "haut"       "hose"       "immer"      "kauf"       "lang"      
+[16] "leicht"     "material"   "passform"   "passt"      "perfekt"   
+[21] "preis"      "puma"       "qualitativ" "schnell"    "schonmal"  
+[26] "shirt"      "sieht"      "sitzt"      "sport"      "stoff"     
+[31] "super"      "toll"       "top"        "trage"      "tshirt"    
+[36] "waschbar"   "zufrieden" 
+$kauf
+         fitnessstudio             vielleicht                   muss 
+                  0.32                   0.26                   0.24 
+                  wert            abgesichert                achtung 
+                  0.24                   0.22                   0.22 
+               allemal                 amozon                    art 
+                  0.22                   0.22                   0.22 
+             bauchlein           bauchmiedern                 bedarf 
+                  0.22                   0.22                   0.22 
+            bierplauze                  bissl                bleiben 
+                  0.22                   0.22                   0.22 
+           bodybuilder             buchstaben                   comp 
+                  0.22                   0.22                   0.22 
+                  darf              definitiv                   drei 
+                  0.22                   0.22                   0.22 
+                 druck                  durft             ermoglicht 
+                  0.22                   0.22                   0.22 
+                erneut               erzeugen                   etwa 
+                  0.22                   0.22                   0.22 
+                ewiges               fertigen feuchtigskeittransport 
+                  0.22                   0.22                   0.22 
+                 figur     flussigkeitstransf       fortgeschrittene 
+                  0.22                   0.22                   0.22 
+                 freie             funtionell                    fur 
+                  0.22                   0.22                   0.22 
+              gefallen                  gehor              gewaschen 
+                  0.22                   0.22                   0.22 
+                glatte                   grey               grossart 
+                  0.22                   0.22                   0.22 
+            guteinfach              hauptsach                hiermit 
+                  0.22                   0.22                   0.22 
+                  inkl     interessanterweise              jedenfall 
+                  0.22                   0.22                   0.22 
+              kaufhaus                  kauft                  kenne 
+                  0.22                   0.22                   0.22 
+            krampfhaft                  kreuz              laufshirt 
+                  0.22                   0.22                   0.22 
+      lieblingsprodukt        materialbedingt                  monat 
+                  0.22                   0.22                   0.22 
+      nackenmuskulatur                namlich         oberbekleidung 
+                  0.22                   0.22                   0.22 
+            preisliebe              pumeshirt                  quali 
+                  0.22                   0.22                   0.22 
+       qualitatsmangel                  quasi                 ratsel 
+                  0.22                   0.22                   0.22 
+                 schau               schnicke               sixpacks 
+                  0.22                   0.22                   0.22 
+                 solch                  sorte               spannung 
+                  0.22                   0.22                   0.22 
+            sportshirt                  statt                  stuck 
+                  0.22                   0.22                   0.22 
+          stutzstrumpf        verschleissspur                  viele 
+                  0.22                   0.22                   0.22 
+               vollauf             vollkommen            vorgestellt 
+                  0.22                   0.22                   0.22 
+                 wiegt                  wuurd                 ziehen 
+                  0.22                   0.22                   0.22 
+                breite                   eher                  prima 
+                  0.21                   0.20                   0.20 
+                 sieht                  firma                   erst 
+                  0.20                   0.19                   0.17 
+              personen                    wer                angebot 
+                  0.16                   0.16                   0.14 
+               anprobe                  beide                  black 
+                  0.14                   0.14                   0.14 
+               brauche                dehnbar                erfullt 
+                  0.14                   0.14                   0.14 
+                geholt                 genial                  genug 
+                  0.14                   0.14                   0.14 
+                haufig                  jacke              jederzeit 
+                  0.14                   0.14                   0.14 
+                   kam            kompression                 leitet 
+                  0.14                   0.14                   0.14 
+               meckern             ordentlich              polyester 
+                  0.14                   0.14                   0.14 
+                 punkt             qualitativ               qualtiat 
+                  0.14                   0.14                   0.14 
+               scheint                 sicher                  stark 
+                  0.14                   0.14                   0.14 
+                statur            tatigkeiten                 trikot 
+                  0.14                   0.14                   0.14 
+                   tun                    tut                  unten 
+                  0.14                   0.14                   0.14 
+               vietnam         wahrscheinlich                 weisst 
+                  0.14                   0.14                   0.14 
+                   xxl      zufriedenstellend                  fuhlt 
+                  0.14                   0.14                   0.13 
+                   gut                  shirt               aussehen 
+                  0.13                   0.13                   0.12 
+                  cool                   teil                   ware 
+                  0.12                   0.11                   0.11 
+                 immer 
+                  0.10 
+
+  gross   gut  hose shirt super
+1 0.030 0.273 0.152 0.212 1.182
+2 2.250 0.750 0.333 0.167 0.500
+3 0.111 2.333 0.000 1.111 0.000
+4 0.216 1.514 0.324 0.027 0.000
+5 0.125 0.000 0.250 0.156 0.000
+6 0.619 0.714 0.000 2.667 0.476
+7 0.286 2.714 0.286 0.000 0.714
+8 0.529 0.529 2.353 0.000 0.471
+cluster 1:  super gut shirt 
+cluster 2:  gross gut super 
+cluster 3:  gut shirt gross 
+cluster 4:  gut hose gross 
+cluster 5:  hose shirt gross 
+cluster 6:  shirt gut gross 
+cluster 7:  gut super gross 
+cluster 8:  hose gross gut 
+[1] 8
+cluster 1 :  gross super 
+cluster 2 :  gut 
+cluster 3 :  super 
+cluster 4 :   
+cluster 5 :  gut 
+cluster 6 :   
+cluster 7 :  gut 
+cluster 8 :  gut 
+Vertex sequence:
+[1] "gross" "gut"   "hose"  "shirt" "super"
+         word freq
+1         gut  138
+2       shirt   81
+3        hose   71
+4       super   68
+5       gross   65
+6    angenehm   45
+7  qualitativ   43
+8       trage   43
+9       passt   39
+10      preis   28
+ [1] "adidas"     "angenehm"   "beim"       "bestellt"   "einfach"   
+ [6] "empfehle"   "eng"        "farbe"      "gross"      "gut"       
+[11] "haut"       "hose"       "immer"      "kauf"       "lang"      
+[16] "leicht"     "material"   "passform"   "passt"      "perfekt"   
+[21] "preis"      "puma"       "qualitativ" "schnell"    "schonmal"  
+[26] "shirt"      "sieht"      "sitzt"      "sport"      "stoff"     
+[31] "super"      "toll"       "top"        "trage"      "tshirt"    
+[36] "waschbar"   "zufrieden" 
+$kauf
+         fitnessstudio             vielleicht                   muss 
+                  0.32                   0.26                   0.24 
+                  wert            abgesichert                achtung 
+                  0.24                   0.22                   0.22 
+               allemal                 amozon                    art 
+                  0.22                   0.22                   0.22 
+             bauchlein           bauchmiedern                 bedarf 
+                  0.22                   0.22                   0.22 
+            bierplauze                  bissl                bleiben 
+                  0.22                   0.22                   0.22 
+           bodybuilder             buchstaben                   comp 
+                  0.22                   0.22                   0.22 
+                  darf              definitiv                   drei 
+                  0.22                   0.22                   0.22 
+                 druck                  durft             ermoglicht 
+                  0.22                   0.22                   0.22 
+                erneut               erzeugen                   etwa 
+                  0.22                   0.22                   0.22 
+                ewiges               fertigen feuchtigskeittransport 
+                  0.22                   0.22                   0.22 
+                 figur     flussigkeitstransf       fortgeschrittene 
+                  0.22                   0.22                   0.22 
+                 freie             funtionell                    fur 
+                  0.22                   0.22                   0.22 
+              gefallen                  gehor              gewaschen 
+                  0.22                   0.22                   0.22 
+                glatte                   grey               grossart 
+                  0.22                   0.22                   0.22 
+            guteinfach              hauptsach                hiermit 
+                  0.22                   0.22                   0.22 
+                  inkl     interessanterweise              jedenfall 
+                  0.22                   0.22                   0.22 
+              kaufhaus                  kauft                  kenne 
+                  0.22                   0.22                   0.22 
+            krampfhaft                  kreuz              laufshirt 
+                  0.22                   0.22                   0.22 
+      lieblingsprodukt        materialbedingt                  monat 
+                  0.22                   0.22                   0.22 
+      nackenmuskulatur                namlich         oberbekleidung 
+                  0.22                   0.22                   0.22 
+            preisliebe              pumeshirt                  quali 
+                  0.22                   0.22                   0.22 
+       qualitatsmangel                  quasi                 ratsel 
+                  0.22                   0.22                   0.22 
+                 schau               schnicke               sixpacks 
+                  0.22                   0.22                   0.22 
+                 solch                  sorte               spannung 
+                  0.22                   0.22                   0.22 
+            sportshirt                  statt                  stuck 
+                  0.22                   0.22                   0.22 
+          stutzstrumpf        verschleissspur                  viele 
+                  0.22                   0.22                   0.22 
+               vollauf             vollkommen            vorgestellt 
+                  0.22                   0.22                   0.22 
+                 wiegt                  wuurd                 ziehen 
+                  0.22                   0.22                   0.22 
+                breite                   eher                  prima 
+                  0.21                   0.20                   0.20 
+                 sieht                  firma                   erst 
+                  0.20                   0.19                   0.17 
+              personen                    wer                angebot 
+                  0.16                   0.16                   0.14 
+               anprobe                  beide                  black 
+                  0.14                   0.14                   0.14 
+               brauche                dehnbar                erfullt 
+                  0.14                   0.14                   0.14 
+                geholt                 genial                  genug 
+                  0.14                   0.14                   0.14 
+                haufig                  jacke              jederzeit 
+                  0.14                   0.14                   0.14 
+                   kam            kompression                 leitet 
+                  0.14                   0.14                   0.14 
+               meckern             ordentlich              polyester 
+                  0.14                   0.14                   0.14 
+                 punkt             qualitativ               qualtiat 
+                  0.14                   0.14                   0.14 
+               scheint                 sicher                  stark 
+                  0.14                   0.14                   0.14 
+                statur            tatigkeiten                 trikot 
+                  0.14                   0.14                   0.14 
+                   tun                    tut                  unten 
+                  0.14                   0.14                   0.14 
+               vietnam         wahrscheinlich                 weisst 
+                  0.14                   0.14                   0.14 
+                   xxl      zufriedenstellend                  fuhlt 
+                  0.14                   0.14                   0.13 
+                   gut                  shirt               aussehen 
+                  0.13                   0.13                   0.12 
+                  cool                   teil                   ware 
+                  0.12                   0.11                   0.11 
+                 immer 
+                  0.10 
+
+  gross   gut  hose shirt super
+1 0.030 0.273 0.152 0.212 1.182
+2 2.250 0.750 0.333 0.167 0.500
+3 0.111 2.333 0.000 1.111 0.000
+4 0.216 1.514 0.324 0.027 0.000
+5 0.125 0.000 0.250 0.156 0.000
+6 0.619 0.714 0.000 2.667 0.476
+7 0.286 2.714 0.286 0.000 0.714
+8 0.529 0.529 2.353 0.000 0.471
+cluster 1:  super gut shirt 
+cluster 2:  gross gut super 
+cluster 3:  gut shirt gross 
+cluster 4:  gut hose gross 
+cluster 5:  hose shirt gross 
+cluster 6:  shirt gut gross 
+cluster 7:  gut super gross 
+cluster 8:  hose gross gut 
+[1] 8
+cluster 1 :  gross super 
+cluster 2 :  gut 
+cluster 3 :  super 
+cluster 4 :   
+cluster 5 :  gut 
+cluster 6 :   
+cluster 7 :  gut 
+cluster 8 :  gut 
+Vertex sequence:
+[1] "gross" "gut"   "hose"  "shirt" "super"
+         word freq
+1         gut  138
+2       shirt   81
+3        hose   71
+4       super   68
+5       gross   65
+6    angenehm   45
+7  qualitativ   43
+8       trage   43
+9       passt   39
+10      preis   28
+ [1] "adidas"     "angenehm"   "beim"       "bestellt"   "einfach"   
+ [6] "empfehle"   "eng"        "farbe"      "gross"      "gut"       
+[11] "haut"       "hose"       "immer"      "kauf"       "lang"      
+[16] "leicht"     "material"   "passform"   "passt"      "perfekt"   
+[21] "preis"      "puma"       "qualitativ" "schnell"    "schonmal"  
+[26] "shirt"      "sieht"      "sitzt"      "sport"      "stoff"     
+[31] "super"      "toll"       "top"        "trage"      "tshirt"    
+[36] "waschbar"   "zufrieden" 
+$kauf
+         fitnessstudio             vielleicht                   muss 
+                  0.32                   0.26                   0.24 
+                  wert            abgesichert                achtung 
+                  0.24                   0.22                   0.22 
+               allemal                 amozon                    art 
+                  0.22                   0.22                   0.22 
+             bauchlein           bauchmiedern                 bedarf 
+                  0.22                   0.22                   0.22 
+            bierplauze                  bissl                bleiben 
+                  0.22                   0.22                   0.22 
+           bodybuilder             buchstaben                   comp 
+                  0.22                   0.22                   0.22 
+                  darf              definitiv                   drei 
+                  0.22                   0.22                   0.22 
+                 druck                  durft             ermoglicht 
+                  0.22                   0.22                   0.22 
+                erneut               erzeugen                   etwa 
+                  0.22                   0.22                   0.22 
+                ewiges               fertigen feuchtigskeittransport 
+                  0.22                   0.22                   0.22 
+                 figur     flussigkeitstransf       fortgeschrittene 
+                  0.22                   0.22                   0.22 
+                 freie             funtionell                    fur 
+                  0.22                   0.22                   0.22 
+              gefallen                  gehor              gewaschen 
+                  0.22                   0.22                   0.22 
+                glatte                   grey               grossart 
+                  0.22                   0.22                   0.22 
+            guteinfach              hauptsach                hiermit 
+                  0.22                   0.22                   0.22 
+                  inkl     interessanterweise              jedenfall 
+                  0.22                   0.22                   0.22 
+              kaufhaus                  kauft                  kenne 
+                  0.22                   0.22                   0.22 
+            krampfhaft                  kreuz              laufshirt 
+                  0.22                   0.22                   0.22 
+      lieblingsprodukt        materialbedingt                  monat 
+                  0.22                   0.22                   0.22 
+      nackenmuskulatur                namlich         oberbekleidung 
+                  0.22                   0.22                   0.22 
+            preisliebe              pumeshirt                  quali 
+                  0.22                   0.22                   0.22 
+       qualitatsmangel                  quasi                 ratsel 
+                  0.22                   0.22                   0.22 
+                 schau               schnicke               sixpacks 
+                  0.22                   0.22                   0.22 
+                 solch                  sorte               spannung 
+                  0.22                   0.22                   0.22 
+            sportshirt                  statt                  stuck 
+                  0.22                   0.22                   0.22 
+          stutzstrumpf        verschleissspur                  viele 
+                  0.22                   0.22                   0.22 
+               vollauf             vollkommen            vorgestellt 
+                  0.22                   0.22                   0.22 
+                 wiegt                  wuurd                 ziehen 
+                  0.22                   0.22                   0.22 
+                breite                   eher                  prima 
+                  0.21                   0.20                   0.20 
+                 sieht                  firma                   erst 
+                  0.20                   0.19                   0.17 
+              personen                    wer                angebot 
+                  0.16                   0.16                   0.14 
+               anprobe                  beide                  black 
+                  0.14                   0.14                   0.14 
+               brauche                dehnbar                erfullt 
+                  0.14                   0.14                   0.14 
+                geholt                 genial                  genug 
+                  0.14                   0.14                   0.14 
+                haufig                  jacke              jederzeit 
+                  0.14                   0.14                   0.14 
+                   kam            kompression                 leitet 
+                  0.14                   0.14                   0.14 
+               meckern             ordentlich              polyester 
+                  0.14                   0.14                   0.14 
+                 punkt             qualitativ               qualtiat 
+                  0.14                   0.14                   0.14 
+               scheint                 sicher                  stark 
+                  0.14                   0.14                   0.14 
+                statur            tatigkeiten                 trikot 
+                  0.14                   0.14                   0.14 
+                   tun                    tut                  unten 
+                  0.14                   0.14                   0.14 
+               vietnam         wahrscheinlich                 weisst 
+                  0.14                   0.14                   0.14 
+                   xxl      zufriedenstellend                  fuhlt 
+                  0.14                   0.14                   0.13 
+                   gut                  shirt               aussehen 
+                  0.13                   0.13                   0.12 
+                  cool                   teil                   ware 
+                  0.12                   0.11                   0.11 
+                 immer 
+                  0.10 
+
+  gross   gut  hose shirt super
+1 0.030 0.273 0.152 0.212 1.182
+2 2.250 0.750 0.333 0.167 0.500
+3 0.111 2.333 0.000 1.111 0.000
+4 0.216 1.514 0.324 0.027 0.000
+5 0.125 0.000 0.250 0.156 0.000
+6 0.619 0.714 0.000 2.667 0.476
+7 0.286 2.714 0.286 0.000 0.714
+8 0.529 0.529 2.353 0.000 0.471
+cluster 1:  super gut shirt 
+cluster 2:  gross gut super 
+cluster 3:  gut shirt gross 
+cluster 4:  gut hose gross 
+cluster 5:  hose shirt gross 
+cluster 6:  shirt gut gross 
+cluster 7:  gut super gross 
+cluster 8:  hose gross gut 
+[1] 8
+cluster 1 :  gross super 
+cluster 2 :  gut 
+cluster 3 :  super 
+cluster 4 :   
+cluster 5 :  gut 
+cluster 6 :   
+cluster 7 :  gut 
+cluster 8 :  gut 
+Vertex sequence:
+[1] "gross" "gut"   "hose"  "shirt" "super"

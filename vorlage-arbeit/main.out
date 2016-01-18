@@ -1,0 +1,73 @@
+\BOOKMARK [1][-]{titlepage-anc.1}{Titel}{}% 1
+\BOOKMARK [1][-]{front-toc-anc.1}{Inhaltsverzeichnis}{}% 2
+\BOOKMARK [0][-]{chapter*.3}{Abbildungsverzeichnis}{}% 3
+\BOOKMARK [0][-]{chapter*.4}{Tabellenverzeichnis}{}% 4
+\BOOKMARK [0][-]{chapter*.5}{Abk\374rzungsverzeichnis}{}% 5
+\BOOKMARK [0][-]{chapter.1}{1 Einf\374hrung}{}% 6
+\BOOKMARK [1][-]{section.1.1}{1.1 Forschungsfragen}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.2}{1.2 Die Struktur der Arbeit}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{2 Theoretische Grundlagen}{}% 9
+\BOOKMARK [1][-]{section.2.1}{2.1 Online Consumer Reviews in der Marketingforschung}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Begriff}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Forschungsstand zu Online Consumer Reviews}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.3}{2.1.3 Motive f\374r das Schreiben von Online Consumer Reviews}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.4}{2.1.4 Wirkungen von Online Consumer Reviews}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.5}{2.1.5 Online Consumer Reviews im Textileinzelhandel}{section.2.1}% 15
+\BOOKMARK [1][-]{section.2.2}{2.2 Sentiment Analyse}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Definition}{section.2.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Der Ablauf der Sentiment Analyse}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Kernprozess}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.4}{2.2.4 Der konkrete Algorithmus im Dokument-Level}{section.2.2}% 20
+\BOOKMARK [1][-]{section.2.3}{2.3 Deutschland und China: ein kultur\374bergreifender Vergleich}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Kulturelle Dimensionen}{section.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Machtdistanz}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Individualismus gegen\374ber Kollektivismus}{section.2.3}% 24
+\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 Maskulinit\344t gegen\374ber Femininit\344t}{section.2.3}% 25
+\BOOKMARK [2][-]{subsection.2.3.5}{2.3.5 Unsicherheitsvermeidung}{section.2.3}% 26
+\BOOKMARK [2][-]{subsection.2.3.6}{2.3.6 Langfristige Orientierung gegen\374ber kurzfristige Orientierung}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.7}{2.3.7 Nachsicht gegen\374ber Beherrschtheit}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.8}{2.3.8 Das sechsdimensionale Modell f\374r Deutschland und China}{section.2.3}% 29
+\BOOKMARK [1][-]{section.2.4}{2.4 Relevante Forschungsergibnisse zum Textileinzelhandel}{chapter.2}% 30
+\BOOKMARK [1][-]{section.2.5}{2.5 Hypothesen}{chapter.2}% 31
+\BOOKMARK [0][-]{chapter.3}{3 Datensammlung und Textverarbeitung}{}% 32
+\BOOKMARK [1][-]{section.3.1}{3.1 Datenquellen}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Amazon weltweit und in Deutschland}{section.3.1}% 34
+\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Chinesische Plattform:``Tmall''}{section.3.1}% 35
+\BOOKMARK [1][-]{section.3.2}{3.2 Online Textileinzelhandel in den beiden L\344ndern}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.3}{3.3 Sportkleidung als Untersuchungsobjekt}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.4}{3.4 Technische Werkzeuge f\374r die Datensammlung}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Datensammlung aus Webseiten mit Python}{section.3.4}% 39
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 XPath: Daten Lokalisierung in Webseiten}{section.3.4}% 40
+\BOOKMARK [2][-]{subsection.3.4.3}{3.4.3 Regul\344re Ausdr\374cke: Bearbeitung der Texte}{section.3.4}% 41
+\BOOKMARK [1][-]{section.3.5}{3.5 Datensammlungsprozess}{chapter.3}% 42
+\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 Sammeln der Daten aus Amazon.de}{section.3.5}% 43
+\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 Sammeln der Daten aus Tmall.com}{section.3.5}% 44
+\BOOKMARK [1][-]{section.3.6}{3.6 Textverarbeitung}{chapter.3}% 45
+\BOOKMARK [1][-]{section.3.7}{3.7 Maschinelle \334bersetzung f\374r mehrsprachige Sentiment-Analyse}{chapter.3}% 46
+\BOOKMARK [0][-]{chapter.4}{4 Empirische Ergebnisse}{}% 47
+\BOOKMARK [1][-]{section.4.1}{4.1 Die deskriptiven Ergebnisse zu den Online Consumer Reviews}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.2}{4.2 Hypothesen\374berpr\374fung}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.3}{4.3 Hypothese 1}{chapter.4}% 50
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Hypothese 1 in unterschiedlichen Kategorien}{section.4.3}% 51
+\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 Hypothese 1 bei unterschiedlichen Marken}{section.4.3}% 52
+\BOOKMARK [2][-]{subsection.4.3.3}{4.3.3 Hypothese 1 im Allgemeinen}{section.4.3}% 53
+\BOOKMARK [1][-]{section.4.4}{4.4 Hypothese 2}{chapter.4}% 54
+\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Hypothese 2 in unterschiedlichen Kategorien}{section.4.4}% 55
+\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 Hypothese 2 bei unterschiedlichen Marken}{section.4.4}% 56
+\BOOKMARK [2][-]{subsection.4.4.3}{4.4.3 Hypothese 2 in Allgemeinen}{section.4.4}% 57
+\BOOKMARK [1][-]{section.4.5}{4.5 Hypothese 3}{chapter.4}% 58
+\BOOKMARK [2][-]{subsection.4.5.1}{4.5.1 Hypothese 3 bei jedem Artikel}{section.4.5}% 59
+\BOOKMARK [2][-]{subsection.4.5.2}{4.5.2 Hypothese 3 in Allgemeinen}{section.4.5}% 60
+\BOOKMARK [1][-]{section.4.6}{4.6 Hypothese 4}{chapter.4}% 61
+\BOOKMARK [2][-]{subsection.4.6.1}{4.6.1 Hypothese 4 bei jedem Artikel}{section.4.6}% 62
+\BOOKMARK [2][-]{subsection.4.6.2}{4.6.2 Hypothese 4 in Allgemeinen}{section.4.6}% 63
+\BOOKMARK [0][-]{chapter.5}{5 Diskussion}{}% 64
+\BOOKMARK [1][-]{section.5.1}{5.1 Qualitativ gegen\374ber Quantitativ}{chapter.5}% 65
+\BOOKMARK [1][-]{section.5.2}{5.2 Positiv gegen\374ber Neutral}{chapter.5}% 66
+\BOOKMARK [1][-]{section.5.3}{5.3 Dezentralisiert gegen\374ber Zentralisiert}{chapter.5}% 67
+\BOOKMARK [1][-]{section.5.4}{5.4 Abh\344ngig gegen\374ber Unabh\344ngig}{chapter.5}% 68
+\BOOKMARK [0][-]{chapter.6}{6 Zusammenfassung und Ausblick}{}% 69
+\BOOKMARK [1][-]{section.6.1}{6.1 Zusammenfassung}{chapter.6}% 70
+\BOOKMARK [1][-]{section.6.2}{6.2 Limitationen}{chapter.6}% 71
+\BOOKMARK [1][-]{section.6.3}{6.3 Zuk\374nftige Forschung}{chapter.6}% 72
+\BOOKMARK [0][-]{chapter*.84}{Literaturverzeichnis}{}% 73

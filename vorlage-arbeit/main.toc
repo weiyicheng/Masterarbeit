@@ -1,0 +1,73 @@
+\select@language {ngerman}
+\select@language {ngerman}
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{v}{chapter*.3}
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{vii}{chapter*.4}
+\contentsline {chapter}{\nonumberline Abk\"urzungsverzeichnis}{ix}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Einf\IeC {\"u}hrung}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Forschungsfragen}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Die Struktur der Arbeit}{3}{section.1.2}
+\contentsline {chapter}{\numberline {2}Theoretische Grundlagen}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Online Consumer Reviews in der Marketingforschung}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Begriff}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Forschungsstand zu Online Consumer Reviews}{7}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Motive f\IeC {\"u}r das Schreiben von Online Consumer Reviews}{9}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Wirkungen von Online Consumer Reviews}{10}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Online Consumer Reviews im Textileinzelhandel}{15}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Sentiment Analyse}{17}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Definition}{17}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Der Ablauf der Sentiment Analyse}{18}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Kernprozess}{19}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Der konkrete Algorithmus im Dokument-Level}{21}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Deutschland und China: ein kultur\IeC {\"u}bergreifender Vergleich}{23}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Kulturelle Dimensionen}{24}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Machtdistanz}{24}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Individualismus gegen\IeC {\"u}ber Kollektivismus}{26}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Maskulinit\IeC {\"a}t gegen\IeC {\"u}ber Femininit\IeC {\"a}t}{27}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Unsicherheitsvermeidung}{28}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Langfristige Orientierung gegen\IeC {\"u}ber kurzfristige Orientierung}{29}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Nachsicht gegen\IeC {\"u}ber Beherrschtheit}{30}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}Das sechsdimensionale Modell f\IeC {\"u}r Deutschland und China}{30}{subsection.2.3.8}
+\contentsline {section}{\numberline {2.4}Relevante Forschungsergibnisse zum Textileinzelhandel}{32}{section.2.4}
+\contentsline {section}{\numberline {2.5}Hypothesen}{33}{section.2.5}
+\contentsline {chapter}{\numberline {3}Datensammlung und Textverarbeitung}{39}{chapter.3}
+\contentsline {section}{\numberline {3.1}Datenquellen}{39}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Amazon weltweit und in Deutschland}{39}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Chinesische Plattform:``Tmall''}{41}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Online Textileinzelhandel in den beiden L\IeC {\"a}ndern}{43}{section.3.2}
+\contentsline {section}{\numberline {3.3}Sportkleidung als Untersuchungsobjekt}{44}{section.3.3}
+\contentsline {section}{\numberline {3.4}Technische Werkzeuge f\IeC {\"u}r die Datensammlung}{47}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Datensammlung aus Webseiten mit Python}{47}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}XPath: Daten Lokalisierung in Webseiten}{48}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Regul\IeC {\"a}re Ausdr\IeC {\"u}cke: Bearbeitung der Texte}{48}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Datensammlungsprozess}{49}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Sammeln der Daten aus Amazon.de}{49}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Sammeln der Daten aus Tmall.com}{51}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Textverarbeitung}{52}{section.3.6}
+\contentsline {section}{\numberline {3.7}Maschinelle \IeC {\"U}bersetzung f\IeC {\"u}r mehrsprachige Sentiment-Analyse}{53}{section.3.7}
+\contentsline {chapter}{\numberline {4}Empirische Ergebnisse}{55}{chapter.4}
+\contentsline {section}{\numberline {4.1}Die deskriptiven Ergebnisse zu den Online Consumer Reviews}{55}{section.4.1}
+\contentsline {section}{\numberline {4.2}Hypothesen\IeC {\"u}berpr\IeC {\"u}fung}{57}{section.4.2}
+\contentsline {section}{\numberline {4.3}Hypothese 1}{59}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Hypothese 1 in unterschiedlichen Kategorien}{59}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Hypothese 1 bei unterschiedlichen Marken}{60}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Hypothese 1 im Allgemeinen}{62}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Hypothese 2}{63}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Hypothese 2 in unterschiedlichen Kategorien}{63}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Hypothese 2 bei unterschiedlichen Marken}{65}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Hypothese 2 in Allgemeinen}{68}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Hypothese 3}{69}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Hypothese 3 bei jedem Artikel}{69}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Hypothese 3 in Allgemeinen}{71}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Hypothese 4}{72}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Hypothese 4 bei jedem Artikel}{72}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Hypothese 4 in Allgemeinen}{75}{subsection.4.6.2}
+\contentsline {chapter}{\numberline {5}Diskussion}{79}{chapter.5}
+\contentsline {section}{\numberline {5.1}Qualitativ gegen\IeC {\"u}ber Quantitativ}{80}{section.5.1}
+\contentsline {section}{\numberline {5.2}Positiv gegen\IeC {\"u}ber Neutral}{81}{section.5.2}
+\contentsline {section}{\numberline {5.3}Dezentralisiert gegen\IeC {\"u}ber Zentralisiert}{83}{section.5.3}
+\contentsline {section}{\numberline {5.4}Abh\IeC {\"a}ngig gegen\IeC {\"u}ber Unabh\IeC {\"a}ngig}{84}{section.5.4}
+\contentsline {chapter}{\numberline {6}Zusammenfassung und Ausblick}{87}{chapter.6}
+\contentsline {section}{\numberline {6.1}Zusammenfassung}{87}{section.6.1}
+\contentsline {section}{\numberline {6.2}Limitationen}{88}{section.6.2}
+\contentsline {section}{\numberline {6.3}Zuk\IeC {\"u}nftige Forschung}{90}{section.6.3}
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{xi}{chapter*.84}

@@ -1,0 +1,69 @@
+//*[@id="productReviews"]/tbody/tr/td[1]/div[1]/div[1]								### hilfreich
+//*[@id="productReviews"]/tbody/tr/td[1]/div[1]/div[2]/span[1]/span/span          ###sterne
+//*[@id="productReviews"]/tbody/tr/td[1]/div[1]/div[2]/span[2]/b					### title
+//*[@id="productReviews"]/tbody/tr/td[1]/div[1]/div[2]/span[2]/nobr					### zeit
+//*[@id="productReviews"]/tbody/tr/td[1]/div[1]/div[6]	class="reviewText"					### reviewText
+
+
+
+//*[@id="productReviews"]/tbody/tr/td[1]/div[2]/div[1]       ### hilfreich
+//*[@id="productReviews"]/tbody/tr/td[1]/div[2]/div[2]/span[1]/span/span   ###sterne
+//*[@id="productReviews"]/tbody/tr/td[1]/div[2]/div[2]/span[2]/b       ### title
+//*[@id="productReviews"]/tbody/tr/td[1]/div[2]/div[2]/span[2]/nobr    ### zeit
+//*[@id="productReviews"]/tbody/tr/td[1]/div[2]/div[6]   class="reviewText"	   ### reviewText
+
+//*[@id="productReviews"]/tbody/tr/td[1]/div[1]/div[2]/span[2]
+
+
+//*[@id="productReviews"]/tbody/tr/td[1]/div/div[@class="reviewText"]
+
+
+
+def parse(self, response):
+        for span in response.xpath('//*[@id="productReviews"]/div/div'):
+            item = AmazonItem()
+            item['title'] = span.xpath('//span[@style = "vertical-align:middle;"]/b/text()').extract()
+            item['sterne'] = span.xpath('span[contains(@class, "swSprite")]/span/text()').extract()
+            ##item['beschreibung'] = sel.xpath('//div[@class="reviewText"]/text()').extract()
+			item['zeit'] = span.xpath('//span[@style = "vertical-align:middle;"]/nobr/text()').extract()
+			##item['hilfreich'] = sel.xpath('text()').extract()
+            yield item
+		for div in response.xpath('//*[@id="productReviews"]'):
+			item = AmazonItem()
+			item['beschreibung'] = div.xpath('//div[@class="reviewText"]/text()').extract()
+			yield item
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+for span in response.xpath('//div[@class="reviewText"]'):
+			item = AmazonItem()
+			item['titel'] = span.xpath('text()').extract()
+			#item['sterne'] = span.xpath('div/span/span[contains(@class, "swSprite")]/span/text()').extract()
+			#item['sterne'] = span.xpath('//div[@class="reviewText"]/text()').extract()
+			#item['beschreibung'] = span.xpath('//div[@class="reviewText"]/text()').extract()
+			#item['zeit'] = span.xpath('//div[@class="reviewText"]/text()').extract()
+			yield item
+		table = response.xpath('//*[@id="productReviews"]')
+		divs = table.xpath('.//div')
+		i = 0
+		for div in divs.xpath('.//span[contains(@class, "swSprite s_star_")]/span'):
+			i = i + 1
+			if i % 2 != 0:
+				item = AmazonItem()
+				item['sterne'] = div.xpath('text()').extract()
+				yield item
+			
+			
+table = response.xpath('//*[@id="productReviews"]')
+		divs = table.xpath('.//div[@style = "margin-left:0.5em;"]')
+		i = 0
+		for div in divs:
+			item = AmazonItem()
+			

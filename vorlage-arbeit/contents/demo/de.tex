@@ -1,0 +1,321 @@
+% Copyright (C)  2013 Jana Traue (jana.traue[at]tu-cottbus.de)
+%
+% Permission is granted to copy, distribute and/or modify this document
+% under the terms of the GNU Free Documentation License, Version 1.3
+% or any later version published by the Free Software Foundation;
+% with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+% A copy of the license is included in the file entitled "LICENSE".
+%
+% =============================================================================
+% LATEX chapter
+% =============================================================================
+%
+% =============================================================================
+% =============================================================================
+\chapter{Demo-Kapitel (Deutsch)}
+% =============================================================================
+%
+Herzlich Willkommen in der wunderbaren Welt von \LaTeX{}.
+Dieses Dokument soll als Grundlage für komplexere Dokumente, wie Bachelor-
+oder Masterarbeiten, dienen.\citep{Li2011}
+Komplex bezieht sich dabei nicht unbedingt auf den Inhalt - für den bleibt
+der Author selbst verantwortlich - sondern auf die Dokumentstruktur.
+Um sinnvoll mit dieser Vorlage umgehen zu können, wird empfohlen, die
+nachfolgenden Abschnitte mindestens einmal durchzulesen.
+Ganz am Ende wird dann auch verraten, wie man diesen Text aus seiner
+Arbeit wieder entfernen kann.
+%
+% =============================================================================
+\section{Generelles zu \LaTeX{}}
+% =============================================================================
+%
+% -----------------------------------------------------------------------------
+\subsection{Übersetzen}
+% -----------------------------------------------------------------------------
+%
+Im obersten Ordner befindet sich eine Datei \code{main.tex}.
+Dieses wird übersetzt mit:
+%
+\begin{lstlisting}[language=bash]
+pdflatex main.tex
+\end{lstlisting}
+%
+Oftmals ist es notwendig, diesen Befehl zweimal auszuführen, damit
+Verweise richtig eingebaut werden.
+%
+\par
+%
+Das Literaturverzeichnis muss extra übersetzt werden, mit Hilfe von:
+%
+\begin{lstlisting}[language=bash]
+bibtex main
+\end{lstlisting}
+%
+und danach einem erneutem \code{pdflatex}.
+%
+\par
+%
+Damit eure Betreuer nicht von allen Studenten Dateien mit dem Namen
+\code{main.pdf} bekommen, solltet ihr die \code{main} als erstes
+eindeutig kennzeichnen, beispielsweise mit eurem Namen.
+%
+\par
+%
+Damit ihr die oben genannten Befehle nicht jedesmal tippen m\"usst, gibt
+es ein Makefile.
+Mit Hilfe von \code{make} wird dann sowohl \code{pdflatex} als auch
+\code{bibtex} angestossen.
+Das Aufrufen von \code{make clean} sorgt daf\"ur, dass tempor\"are Dateien
+wieder gel\"oscht werden und ist vor dem Einchecken in eine Versionsverwaltung
+sinnvoll.
+Bevor ihr es zum Aufräumen verwendet, werft einen Blick in das Makefile.
+Es l\"oscht n\"amlich alle Dateien mit vorgegebenen Endungen.
+Im schlimmsten Fall haben eure Dateien eine Endung, die dort angegeben ist,
+dann verschwinden sie im Nirwana.
+Habt ihr eurer Dokument von \code{main} umbenannt, so m\"usst ihr das
+Makefile anpassen.
+%
+% -----------------------------------------------------------------------------
+\subsection{Ordnerstruktur der Vorlage}
+% -----------------------------------------------------------------------------
+%
+Es ist zwar möglich, euren gesamten Text in eine einzige Datei zu schreiben, 
+aber wer sieht da dann noch durch?
+Deshalb ist in dieser Vorlage eine komplexere Struktur vorgegeben, die sich
+in den letzten Jahren bewährt hat.
+Neben der \code{main} befinden sich im obersten Ordner folgende weitere
+Ordner:
+\begin{itemize}
+	\item \code{bib}: Literaturverzeichnis
+	\item \code{contents}: tex-Dateien, also euer eigentlicher Text
+	\item \code{contents/global}: tex-Dateien, die ihr vllt. einmal anschauen und
+        anpassen müsst (das Deckblatt z.B.), die aber beim Schreiben des
+        eigentlichen Inhalts nicht verändert werden
+	\item \code{figures}: Bilder 
+\end{itemize}
+%
+%
+% .............................................................................
+\subsubsection{Fehlende \LaTeX{} Pakete}
+% .............................................................................
+%
+Wie ihr auf eurem System \LaTeX{} und die notwendigen Pakete
+installiert, müsst ihr selbst herausfinden.
+%
+Wenn ihr eine Fehlermeldung ala:
+\begin{lstlisting}[language=bash]
+! LaTeX Error: File '<package name>.sty' not found.
+\end{lstlisting}
+bekommt, fehlt euch ein Paket.
+%
+Manchmal werden Pakete benötigt, die nicht in den Standard-Distributionen dabei
+sind\ldots oder euch fehlen die Rechte zum Installieren, beispielsweise bei
+unseren Pool-Rechnern.
+Eine Lösung besteht darin, die Pakete von
+\href{http://www.ctan.org/}{CTAN} herunterzuladen und entwedet nach 
+\code{/usr/share/texmf/tex/latex/} zu kopieren (was im Pool dann nicht klappt)
+oder sie in den Ordner \code{/home/yourName/texmf/tex/} zu legen.
+%
+Danach muss noch ein
+\begin{lstlisting}[language=bash]
+texhash .
+\end{lstlisting}
+in eurem Home-Verzeichnis ausgeführt werden.
+%
+% -----------------------------------------------------------------------------
+\subsection{Bewährte Code-Konventionen}
+% -----------------------------------------------------------------------------
+%
+\begin{itemize}
+    \item Legt für jedes Kapitel euerer Arbeit eine extra Datei oder einen
+        extra Ordner an.
+        Das hilft dabei die Übersicht zu behalten und zwingt auch zu einer
+        klaren Strukturierung.
+    \item Markiert Abschnitte und Unterabschnitte um sie leicht wiederzufinden.
+        In dem Quellcode dieses Dokuments sind beispielsweise Abschnitte
+        mit gestrichelten Linien markiert.
+    \item Kennzeichnet Code in eurem Text, wie etwa \code{main.tex} oben
+        mit speziellen \LaTeX-Befehlen, wie \code{$\backslash$code\{\}}.
+        Das ist kein Standard-Befehl, sondern nur ein neues Kommando,
+        was den Text im Teletype-Stil erscheinen laesst, aber das Aussehen
+        lässt sich leicht ändern.
+        Für komplexere Code-Abschnitte ist Abschnitt \ref{demo:examples:listings}
+        da.
+    \item Verwendet aussagekräftige Labels für Verweise. 
+        Bringt im Namen des Labels z.B. die Art des Elements unter, auf das
+        ihr verweist, wie:
+        \code{$\backslash$label\{chapter:introduction\}} oder
+		\code{$\backslash$label\{figure:introduction:section:name\}}. 
+        Das hilft beim Vermeiden von Konflikten.
+    \item Begrenzt eure Zeilenlänge auf 80 oder 90 Zeichen, so dass ihr nach
+        einem Wechsel des Editors nicht ewig mit dem Setzen von Umbrüchen
+        beschäftigt seid.
+\end{itemize}
+%
+% -----------------------------------------------------------------------------
+\subsection{Notwendige Anpassungen der Vorlage}
+% -----------------------------------------------------------------------------
+%
+Die Vorlage kann sowohl für Arbeiten in Deutsch als auch in Englisch verwendet
+werden.
+Wer auf Deutsch schreibt, sollte die als Englisch markierten Stellen im Quellcode
+ignorieren.
+Die folgenden Anpassungen der Vorlage sind zwingend notwendig:
+%
+\paragraph{titlepage.tex}
+%
+Ändert den Titel des Dokuments in dem pdf bookmark Element.
+Fügt Lehrstuhl und den Namen des Professors ein.
+Der Typ eures Dokuments ist beispielsweise ``Bachelorarbeit''.
+Füllt Titel, Name, Matrikelnummer und Studiengang aus.
+Die Namen der Betreuer sollten auch eingetragen werden.
+%
+\paragraph{header.tex}
+%
+
+Eine Beschreibung der verwendeten 
+\href{http://www.komascript.de/}{KOMA-Script}-Optionen findet ihr am
+Dokumentanfang. 
+Danach stellt ihr ein, ob ihr Deutsch oder Englisch als Sprache verwendet.
+Wie schon erwähnt, sind einige der Dateien schon für beide Sprachen 
+vorbereitet.
+Passt auf, dass bei den Sprachblöcken keine Zeichen (auch keine Leerzeichen)
+am Anfang der Zeile erlaubt sind:
+\begin{lstlisting}[language={[LaTeX]TeX}]
+\begin{de}
+\end{de}
+\end{lstlisting}
+Verstösst man gegen diese Regel, gibt es merkwürdige Fehlermeldungen:
+\begin{lstlisting}[language=bash]
+Runaway argument?
+! File ended while scanning use of \next.
+<inserted text> 
+                \par
+\end{lstlisting}
+Vergesst nicht, \code{cleanup.sh} nach dem Sprachwechsel auszuführen.
+
+Füllt die Informationen aus, die vom hyperref Paket benötigt werden.
+Die Hyphenations am Ende sagen {\LaTeX}, wie bestimmte Worte getrennt werden sollen.
+%
+\paragraph{acronyms.tex}
+%
+Hier werden Abkürzungen und ihre Langformen angegeben.
+Verwendet man im Text eine Abkürzung, wie CPU, so schreibt man beim ersten
+Auftreten die Langform aus und die Abkürzung dahinter: 
+die Central Processing Unit (CPU).
+Schreibt man dies manuell aus und strukturiert hinterher seinen Text um, 
+so ist nicht ausgeschlossen, dass man die Langform verschieben muss.
+Es ist deshalb eine gute Idee, das ganze von \LaTeX{} verwalten zu lassen.
+Im Abkürzungsverzeichnis werden die Kurz- und Langformen angegeben und
+im Text entstehen dann ein \ac{BTU} und \ac{BTU}, beide durch den selben
+Befehl: \code{$\backslash$ac\{BTU\}}.
+Im Verzeichnis muss angegebenen werden, welches das längste Akronym ist, damit
+die entstehende Tabelle richtig ausgerichtet ist.
+Ausserdem steht in der Datei, wie man z.B. den Plural von Abkürzungen erzeugen kann.
+%
+% -----------------------------------------------------------------------------
+\subsection{Tool-Unterstützung}
+% -----------------------------------------------------------------------------
+%
+\paragraph{Texmaker}
+%
+\href{http://www.xm1math.net/texmaker/}{Texmaker}
+gibt es für verschiedene Plattformen.
+Es unterstützt das Kompilieren und Anzeigen des Dokuments mit Hilfe von
+Shortcuts.
+Um es zu benutzen, muss einige Pfade in den Einstellungen angepasst werden.
+Ist die \code{main.tex} geöffnet, sollte sie danach als Master-Datei in den 
+Optionen eingestellt werden.
+Leider muss das nach jedem Start erneut eingestellt werden.
+Ist ein Kapitel geöffnet, so kann das Dokument mit \code{F6} übersetzt werden.
+Bibtex wird mit \code{F11} gestartet und das PDF wird mit \code{F7} angezeigt.
+Für die Rechtschreibprüfung muss ein Wörterbuch in den Einstellungen angegeben
+werden.
+%
+\paragraph{gVim}
+wurde zur Erstellung dieser Vorlage verwendet.
+Man kann externe Befehle via
+\begin{lstlisting}[language=bash]
+:!<command>
+\end{lstlisting}
+starten, also z.B.:
+\begin{lstlisting}[language=bash]
+:!pdflatex main.tex
+\end{lstlisting}
+und muss damit nicht zu einem Terminal wechseln.
+Wenn ihr nicht wisst, wie man in den Kommandomodus wechselt, solltet ihr 
+auf den Einsatz von gVim lieber verzichten.
+%
+\par
+%
+Auch mit gVim kann man eine Rechtschreibprüfung durchführen.
+Sie kann mit
+\begin{lstlisting}[language=bash]
+:set spell
+\end{lstlisting}
+angestellt werden.
+Danach wird mit
+\begin{lstlisting}[language=bash]
+:set spelllang=<lang>
+\end{lstlisting}
+die Sprache ausgewählt, z.B.
+\begin{lstlisting}[language=bash]
+:set spelllang=de
+\end{lstlisting}
+Falsch geschriebene/unbekannte Worte werden dann im Quellcode hervorgehoben.
+Ist der Cursor auf so einem Wort, kann mit \code{z=} eine Liste von
+Vorschlägen geöffnet werden.
+Wenn das Wort nicht vorkommt, aber dennoch richtig geschrieben ist, so 
+kann es mit \code{zg} in das Wörterbuch aufgenommen werden.
+In der Hilfe-Datei gibt es mehr Informationen:
+\begin{lstlisting}[language=bash]
+:help spell
+\end{lstlisting}
+%
+%
+% \paragraph{Notes}
+% %
+% Handwritten notes are awful. They can not be included in revision control 
+% systems.
+% Paper might get lost. You might not be able to decipher the text.
+% Therefore, convince your consultants to provide digital notes.
+% Several free tools for annotating pdf documents exist. For Windows there is 
+% \href{http://www.foxitsoftware.com/pdf/reader/}{Foxit Reader}. 
+% The build-in Preview.app supports notes on Mac OS, but they are hard to read 
+% using any other tool. 
+% An alternative is \href{http://skim-app.sourceforge.net/}{Skim}.
+% Still looking forward to find a Linux application besides 
+% \href{http://okular.kde.org/}{Okular}. 
+%
+% -----------------------------------------------------------------------------
+\subsection{Weitere Hinweise}
+% -----------------------------------------------------------------------------
+%
+%
+\paragraph{Inhalt vs Layout}
+%
+Das wichtigste bei eurer Arbeit ist der Inhalt.
+Während ihr den schreibt, solltet ihr nicht versuchen, ein perfektes
+Layout zu erreichen.
+Das kann sehr aufwendig werden und auch schnell wieder hinfällig sein, 
+wenn neuer Text hinzukommt.
+Kümmert euch deshalb erst ganz am Ende um das Layout.
+%
+\paragraph{Check Logs}
+%
+{\LaTeX} erzeugt ein Log-File bei jedem Kompilieren.
+Prüft es am Ende und behebt alle Warnings.
+%
+\paragraph{Verwendet eine Rechtschreibprüfung!}
+Es gibt nichts Ärgerlicheres, als wenn euer Betreuer nicht auf den Inhalt 
+der Arbeit achten kann, weil er eure Rechtschreibung korrigieren muss.
+Davon haben beide Seiten nichts.
+%
+\par
+%
+Wie versprochen wird nun noch verraten, wie man dieses Kapitel aus seinem Dokument
+entfernt.
+Dazu muss nur in der \code{main.tex} die Zeile mit dem Demo-Kapitel auskommentiert
+werden.
+%
+\par{Nun viel Erfolg beim Schreiben der Arbeit!}
