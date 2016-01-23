@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.30)  18 JAN 2016 10:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.30)  23 JAN 2016 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2160,13 +2160,13 @@ although it is yet undefined on input line 5.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 12.
+(babel)             in language  on input line 13.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 12.
+(babel)             in language  on input line 13.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 12.
+(babel)             in language  on input line 13.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 12.
+(babel)             in language  on input line 13.
  [1
 
 
@@ -2178,24 +2178,23 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 19.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 19.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 29.
 
-Underfull \vbox (badness 1226) has occurred while \output is active []
+Underfull \vbox (badness 1194) has occurred while \output is active []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 32.
  [2]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 29.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 29.
-
-<figures/einfuehrung/struktur.png, id=652, 480.79625pt x 389.455pt>
+<figures/einfuehrung/struktur.png, id=653, 480.79625pt x 389.455pt>
 File: figures/einfuehrung/struktur.png Graphic file (type png)
 
 <use figures/einfuehrung/struktur.png>
@@ -2248,7 +2247,7 @@ Package acronym Info: Label `acro:eWOM' newly defined as it shall be overridden
 
 although it is yet undefined on input line 10.
 
-<figures/theoretische_grundlangen/Typologie_von_eWOM.png, id=682, 950.55125pt x
+<figures/theoretische_grundlangen/Typologie_von_eWOM.png, id=683, 950.55125pt x
  556.0775pt>
 File: figures/theoretische_grundlangen/Typologie_von_eWOM.png Graphic file (typ
 e png)
@@ -2273,7 +2272,7 @@ Package babel Info: Redefining ngerman shorthand "~
 
 
 ]
-<figures/theoretische_grundlangen/ocr_amazon.jpg, id=715, 408.77719pt x 107.652
+<figures/theoretische_grundlangen/ocr_amazon.jpg, id=716, 408.77719pt x 107.652
 19pt>
 File: figures/theoretische_grundlangen/ocr_amazon.jpg Graphic file (type jpg)
  <use figures/theoretische_grundlangen/ocr_amazon.jpg>
@@ -2308,7 +2307,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 59.
  [7]
-<figures/theoretische_grundlangen/feedback_ebay_kaufer.png, id=805, 932.48375pt
+<figures/theoretische_grundlangen/feedback_ebay_kaufer.png, id=806, 932.48375pt
  x 89.33376pt>
 File: figures/theoretische_grundlangen/feedback_ebay_kaufer.png Graphic file (t
 ype png)
@@ -2317,7 +2316,7 @@ Package pdftex.def Info: figures/theoretische_grundlangen/feedback_ebay_kaufer.
 png used on input line 66.
 (pdftex.def)             Requested size: 437.73479pt x 41.93506pt.
 
-<figures/theoretische_grundlangen/feedback_ebay_verkaufer.png, id=806, 926.4612
+<figures/theoretische_grundlangen/feedback_ebay_verkaufer.png, id=807, 926.4612
 4pt x 56.21pt>
 File: figures/theoretische_grundlangen/feedback_ebay_verkaufer.png Graphic file
  (type png)
@@ -2327,7 +2326,7 @@ Package pdftex.def Info: figures/theoretische_grundlangen/feedback_ebay_verkauf
 er.png used on input line 69.
 (pdftex.def)             Requested size: 437.73479pt x 26.5585pt.
 
-<figures/theoretische_grundlangen/forschungswege.png, id=818, 603.25375pt x 250
+<figures/theoretische_grundlangen/forschungswege.png, id=819, 603.25375pt x 250
 .9375pt>
 File: figures/theoretische_grundlangen/forschungswege.png Graphic file (type pn
 g)
@@ -2461,14 +2460,14 @@ Package babel Info: Redefining ngerman shorthand "~
 Package acronym Info: Label `acro:usw' newly defined as it shall be overridden
 although it is yet undefined on input line 124.
 
-<figures/theoretische_grundlangen/impactKS.png, id=948, 468.75125pt x 337.26pt>
+<figures/theoretische_grundlangen/impactKS.png, id=949, 468.75125pt x 337.26pt>
 File: figures/theoretische_grundlangen/impactKS.png Graphic file (type png)
 <use figures/theoretische_grundlangen/impactKS.png>
 Package pdftex.def Info: figures/theoretische_grundlangen/impactKS.png used on 
 input line 128.
 (pdftex.def)             Requested size: 218.86739pt x 157.46754pt.
 
-<figures/theoretische_grundlangen/impactUS.png, id=949, 451.6875pt x 427.5975pt
+<figures/theoretische_grundlangen/impactUS.png, id=950, 451.6875pt x 427.5975pt
 >
 File: figures/theoretische_grundlangen/impactUS.png Graphic file (type png)
  <use figures/theoretische_grundlangen/impactUS.png>
@@ -2485,7 +2484,7 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 138.
  [11 <./figures/theoretische_grundlangen/impactKS.png> <./figures/theoretische_
 grundlangen/impactUS.png>]
-<figures/theoretische_grundlangen/timeline.png, id=978, 696.6025pt x 372.39125p
+<figures/theoretische_grundlangen/timeline.png, id=979, 696.6025pt x 372.39125p
 t>
 File: figures/theoretische_grundlangen/timeline.png Graphic file (type png)
  <use figures/theoretische_grundlangen/timeline.png>
@@ -2640,7 +2639,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 245.
 
-<figures/theoretische_grundlangen/sentimentanalysesprozess.png, id=1241, 804.00
+<figures/theoretische_grundlangen/sentimentanalysesprozess.png, id=1242, 804.00
 375pt x 479.7925pt>
 File: figures/theoretische_grundlangen/sentimentanalysesprozess.png Graphic fil
 e (type png)
@@ -2713,7 +2712,7 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 321.
 
 [21]
-<figures/theoretische_grundlangen/gewichte.png, id=1382, 885.3075pt x 530.98375
+<figures/theoretische_grundlangen/gewichte.png, id=1383, 885.3075pt x 530.98375
 pt>
 File: figures/theoretische_grundlangen/gewichte.png Graphic file (type png)
  <use figures/theoretische_grundlangen/gewichte.png>
@@ -2856,7 +2855,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 488.
  [30]
-<figures/theoretische_grundlangen/sechsdimensionen.png, id=1666, 578.16pt x 401
+<figures/theoretische_grundlangen/sechsdimensionen.png, id=1667, 578.16pt x 401
 .5pt>
 File: figures/theoretische_grundlangen/sechsdimensionen.png Graphic file (type 
 png)
@@ -3188,7 +3187,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 17.
-<figures/datensammlung/logo_amazon.png, id=1848, 162.6075pt x 44.165pt>
+<figures/datensammlung/logo_amazon.png, id=1849, 162.6075pt x 44.165pt>
 File: figures/datensammlung/logo_amazon.png Graphic file (type png)
 
 <use figures/datensammlung/logo_amazon.png>
@@ -3198,7 +3197,7 @@ ne 22.
 Package acronym Info: Label `acro:SEC' newly defined as it shall be overridden
 although it is yet undefined on input line 27.
 
-<figures/datensammlung/Umsatzerloese_Amazon_com.png, id=1855, 682.55pt x 501.87
+<figures/datensammlung/Umsatzerloese_Amazon_com.png, id=1856, 682.55pt x 501.87
 5pt>
 File: figures/datensammlung/Umsatzerloese_Amazon_com.png Graphic file (type png
 )
@@ -3207,7 +3206,7 @@ Package pdftex.def Info: figures/datensammlung/Umsatzerloese_Amazon_com.png use
 d on input line 30.
 (pdftex.def)             Requested size: 437.73479pt x 321.86514pt.
 
-<figures/datensammlung/Umsatzerloese_Amazon_de.png, id=1869, 682.55pt x 501.875
+<figures/datensammlung/Umsatzerloese_Amazon_de.png, id=1870, 682.55pt x 501.875
 pt>
 File: figures/datensammlung/Umsatzerloese_Amazon_de.png Graphic file (type png)
 
@@ -3229,7 +3228,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 44.
 
-<figures/datensammlung/logo_tmall.png, id=1886, 361.35pt x 140.525pt>
+<figures/datensammlung/logo_tmall.png, id=1887, 361.35pt x 140.525pt>
 File: figures/datensammlung/logo_tmall.png Graphic file (type png)
 
 <use figures/datensammlung/logo_tmall.png>
@@ -3263,7 +3262,7 @@ s/datensammlung/logo_tmall.png>]
 Package acronym Info: Label `acro:GMV' newly defined as it shall be overridden
 although it is yet undefined on input line 80.
 
-<figures/datensammlung/Tmall_GMV.png, id=1916, 584.1825pt x 356.0803pt>
+<figures/datensammlung/Tmall_GMV.png, id=1917, 584.1825pt x 356.0803pt>
 File: figures/datensammlung/Tmall_GMV.png Graphic file (type png)
 
 <use figures/datensammlung/Tmall_GMV.png>
@@ -3284,7 +3283,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 90.
 
-<figures/datensammlung/kleidung_de.png, id=1938, 775.89874pt x 427.5975pt>
+<figures/datensammlung/kleidung_de.png, id=1939, 775.89874pt x 427.5975pt>
 File: figures/datensammlung/kleidung_de.png Graphic file (type png)
 
 <use figures/datensammlung/kleidung_de.png>
@@ -3292,7 +3291,7 @@ Package pdftex.def Info: figures/datensammlung/kleidung_de.png used on input li
 ne 102.
 (pdftex.def)             Requested size: 437.73479pt x 241.2407pt.
 
-<figures/datensammlung/anteil_kleidung_cn.png, id=1945, 435.6275pt x 272.01625p
+<figures/datensammlung/anteil_kleidung_cn.png, id=1946, 435.6275pt x 272.01625p
 t>
 File: figures/datensammlung/anteil_kleidung_cn.png Graphic file (type png)
  <use figures/datensammlung/anteil_kleidung_cn.png>
@@ -3308,7 +3307,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 116.
  [43 <./figures/datensammlung/kleidung_de.png>]
-<figures/datensammlung/kleidung_cn.png, id=1965, 686.565pt x 466.74374pt>
+<figures/datensammlung/kleidung_cn.png, id=1966, 686.565pt x 466.74374pt>
 File: figures/datensammlung/kleidung_cn.png Graphic file (type png)
 
 <use figures/datensammlung/kleidung_cn.png>
@@ -3409,7 +3408,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 194.
 
-<figures/datensammlung/AmazonWebseite.png, id=2043, 805.0075pt x 651.43375pt>
+<figures/datensammlung/AmazonWebseite.png, id=2044, 805.0075pt x 651.43375pt>
 File: figures/datensammlung/AmazonWebseite.png Graphic file (type png)
 
 <use figures/datensammlung/AmazonWebseite.png>
@@ -3417,7 +3416,7 @@ Package pdftex.def Info: figures/datensammlung/AmazonWebseite.png used on input
  line 199.
 (pdftex.def)             Requested size: 330.05522pt x 267.08955pt.
 
-<figures/datensammlung/AmazonStruktur.png, id=2047, 456.70625pt x 497.86pt>
+<figures/datensammlung/AmazonStruktur.png, id=2048, 456.70625pt x 497.86pt>
 File: figures/datensammlung/AmazonStruktur.png Graphic file (type png)
 
 <use figures/datensammlung/AmazonStruktur.png>
@@ -3459,7 +3458,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 241.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 241.
-<figures/datensammlung/TmallWebseite.png, id=2060, 1020.81375pt x 602.25pt>
+<figures/datensammlung/TmallWebseite.png, id=2061, 1020.81375pt x 602.25pt>
 File: figures/datensammlung/TmallWebseite.png Graphic file (type png)
 
 <use figures/datensammlung/TmallWebseite.png>
@@ -3551,7 +3550,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 4.
 
-<figures/empirische_ergebnisse/wortwolke_cn.png, id=2164, 532.99126pt x 479.792
+<figures/empirische_ergebnisse/wortwolke_cn.png, id=2165, 532.99126pt x 479.792
 5pt>
 File: figures/empirische_ergebnisse/wortwolke_cn.png Graphic file (type png)
  <use figures/empirische_ergebnisse/wortwolke_cn.png>
@@ -3559,7 +3558,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/wortwolke_cn.png used on
  input line 11.
 (pdftex.def)             Requested size: 218.86739pt x 197.02367pt.
 
-<figures/empirische_ergebnisse/wortwolke_de.png, id=2165, 434.62375pt x 479.792
+<figures/empirische_ergebnisse/wortwolke_de.png, id=2166, 434.62375pt x 479.792
 5pt>
 File: figures/empirische_ergebnisse/wortwolke_de.png Graphic file (type png)
  <use figures/empirische_ergebnisse/wortwolke_de.png>
@@ -3581,7 +3580,7 @@ Package babel Info: Redefining ngerman shorthand "~
 
  <./figures/empirische_ergebnisse/wortwolke_cn.png> <./figures/empirische_ergeb
 nisse/wortwolke_de.png>]
-<figures/empirische_ergebnisse/gesammt_cn.pdf, id=2178, page=2, 505.89pt x 505.
+<figures/empirische_ergebnisse/gesammt_cn.pdf, id=2179, page=2, 505.89pt x 505.
 89pt>
 File: figures/empirische_ergebnisse/gesammt_cn.pdf Graphic file (type pdf)
  <use figures/empirische_ergebnisse/gesammt_cn.pdf, page 2>
@@ -3589,7 +3588,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/gesammt_cn.pdf, page2 us
 ed on input line 26.
 (pdftex.def)             Requested size: 227.64839pt x 227.64839pt.
 
-<figures/empirische_ergebnisse/gesammt_de.pdf, id=2179, page=2, 505.89pt x 505.
+<figures/empirische_ergebnisse/gesammt_de.pdf, id=2180, page=2, 505.89pt x 505.
 89pt>
 File: figures/empirische_ergebnisse/gesammt_de.pdf Graphic file (type pdf)
  <use figures/empirische_ergebnisse/gesammt_de.pdf, page 2>
@@ -3616,7 +3615,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 57.
 
-<figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf, id=2234, page=2, 505.8
+<figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf, id=2235, page=2, 505.8
 9pt x 505.89pt>
 File: figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf Graphic file (type
  pdf)
@@ -3626,7 +3625,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf
 , page2 used on input line 77.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/gesammt_de_sentiment.pdf, id=2235, page=2, 505.8
+<figures/empirische_ergebnisse/gesammt_de_sentiment.pdf, id=2236, page=2, 505.8
 9pt x 505.89pt>
 File: figures/empirische_ergebnisse/gesammt_de_sentiment.pdf Graphic file (type
  pdf)
@@ -3636,7 +3635,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/gesammt_de_sentiment.pdf
 , page2 used on input line 80.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf, id=2236, page=3, 505.8
+<figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf, id=2237, page=3, 505.8
 9pt x 505.89pt>
 File: figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf Graphic file (type
  pdf)
@@ -3646,7 +3645,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf
 , page3 used on input line 87.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/gesammt_de_sentiment.pdf, id=2237, page=3, 505.8
+<figures/empirische_ergebnisse/gesammt_de_sentiment.pdf, id=2238, page=3, 505.8
 9pt x 505.89pt>
 File: figures/empirische_ergebnisse/gesammt_de_sentiment.pdf Graphic file (type
  pdf)
@@ -3686,7 +3685,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 104.
 
-<figures/empirische_ergebnisse/hypothese1volumen.png, id=2288, 602.25pt x 372.3
+<figures/empirische_ergebnisse/hypothese1volumen.png, id=2289, 602.25pt x 372.3
 9125pt>
 File: figures/empirische_ergebnisse/hypothese1volumen.png Graphic file (type pn
 g)
@@ -3709,7 +3708,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 134.
 
-<figures/empirische_ergebnisse/volumenMarken.png, id=2308, 602.25pt x 372.39125
+<figures/empirische_ergebnisse/volumenMarken.png, id=2309, 602.25pt x 372.39125
 pt>
 File: figures/empirische_ergebnisse/volumenMarken.png Graphic file (type png)
  <use figures/empirische_ergebnisse/volumenMarken.png>
@@ -3739,7 +3738,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 167.
 
-<figures/empirische_ergebnisse/volumenAllgemeinen.png, id=2333, 602.25pt x 372.
+<figures/empirische_ergebnisse/volumenAllgemeinen.png, id=2334, 602.25pt x 372.
 39125pt>
 File: figures/empirische_ergebnisse/volumenAllgemeinen.png Graphic file (type p
 ng)
@@ -3765,7 +3764,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 200.
 
-<figures/empirische_ergebnisse/struktur_cn_quantitativ_Tshirt.png, id=2354, 371
+<figures/empirische_ergebnisse/struktur_cn_quantitativ_Tshirt.png, id=2355, 371
 .3875pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_Tshirt.png Graphic 
 file (type png)
@@ -3775,7 +3774,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/struktur_cn_quantitativ_
 Tshirt.png used on input line 206.
 (pdftex.def)             Requested size: 218.86739pt x 189.29561pt.
 
-<figures/empirische_ergebnisse/struktur_de_quantitativ_Tshirt.png, id=2355, 371
+<figures/empirische_ergebnisse/struktur_de_quantitativ_Tshirt.png, id=2356, 371
 .3875pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_de_quantitativ_Tshirt.png Graphic 
 file (type png)
@@ -3799,7 +3798,7 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 213.
 [63 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_Tshirt.png> <./fig
 ures/empirische_ergebnisse/struktur_de_quantitativ_Tshirt.png>]
-<figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf, id=2369, page=4, 505.89
+<figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf, id=2370, page=4, 505.89
 pt x 505.89pt>
 File: figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf Graphic file (type 
 pdf)
@@ -3809,7 +3808,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf,
  page4 used on input line 216.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/Tshirt_de_sentiment.pdf, id=2370, page=4, 505.89
+<figures/empirische_ergebnisse/Tshirt_de_sentiment.pdf, id=2371, page=4, 505.89
 pt x 505.89pt>
 File: figures/empirische_ergebnisse/Tshirt_de_sentiment.pdf Graphic file (type 
 pdf)
@@ -3819,7 +3818,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/Tshirt_de_sentiment.pdf,
  page4 used on input line 219.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/struktur_cn_quantitativ_Hose.png, id=2375, 371.3
+<figures/empirische_ergebnisse/struktur_cn_quantitativ_Hose.png, id=2376, 371.3
 875pt x 370.38374pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_Hose.png Graphic fi
 le (type png)
@@ -3829,7 +3828,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/struktur_cn_quantitativ_
 Hose.png used on input line 230.
 (pdftex.def)             Requested size: 218.86739pt x 218.28148pt.
 
-<figures/empirische_ergebnisse/struktur_de_quantitativ_Hose.png, id=2376, 371.3
+<figures/empirische_ergebnisse/struktur_de_quantitativ_Hose.png, id=2377, 371.3
 875pt x 369.38pt>
 File: figures/empirische_ergebnisse/struktur_de_quantitativ_Hose.png Graphic fi
 le (type png)
@@ -3844,7 +3843,7 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 230--232
  []
 
 
-<figures/empirische_ergebnisse/hose_cn_sentiment.pdf, id=2383, page=4, 505.89pt
+<figures/empirische_ergebnisse/hose_cn_sentiment.pdf, id=2384, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/hose_cn_sentiment.pdf Graphic file (type pd
 f)
@@ -3853,7 +3852,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/hose_cn_sentiment.pdf, p
 age4 used on input line 240.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/hose_de_sentiment.pdf, id=2384, page=4, 505.89pt
+<figures/empirische_ergebnisse/hose_de_sentiment.pdf, id=2385, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/hose_de_sentiment.pdf Graphic file (type pd
 f)
@@ -3886,7 +3885,7 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 271.
  [65 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_Hose.png> <./figu
 res/empirische_ergebnisse/struktur_de_quantitativ_Hose.png>]
-<figures/empirische_ergebnisse/struktur_cn_quantitativ_nike.png, id=2428, 371.3
+<figures/empirische_ergebnisse/struktur_cn_quantitativ_nike.png, id=2429, 371.3
 875pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_nike.png Graphic fi
 le (type png)
@@ -3896,7 +3895,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/struktur_cn_quantitativ_
 nike.png used on input line 274.
 (pdftex.def)             Requested size: 218.86739pt x 189.29561pt.
 
-<figures/empirische_ergebnisse/struktur_cn_quantitativ_puma.png, id=2429, 371.3
+<figures/empirische_ergebnisse/struktur_cn_quantitativ_puma.png, id=2430, 371.3
 875pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_puma.png Graphic fi
 le (type png)
@@ -3911,7 +3910,7 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 274--276
  []
 
 
-<figures/empirische_ergebnisse/nike_cn_sentiment.pdf, id=2432, page=4, 505.89pt
+<figures/empirische_ergebnisse/nike_cn_sentiment.pdf, id=2433, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/nike_cn_sentiment.pdf Graphic file (type pd
 f)
@@ -3920,7 +3919,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/nike_cn_sentiment.pdf, p
 age4 used on input line 282.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/puma_cn_sentiment.pdf, id=2433, page=4, 505.89pt
+<figures/empirische_ergebnisse/puma_cn_sentiment.pdf, id=2434, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/puma_cn_sentiment.pdf Graphic file (type pd
 f)
@@ -3944,7 +3943,7 @@ Package babel Info: Redefining ngerman shorthand "~
 he_ergebnisse/hose_de_sentiment.pdf> <./figures/empirische_ergebnisse/struktur_
 cn_quantitativ_nike.png> <./figures/empirische_ergebnisse/struktur_cn_quantitat
 iv_puma.png>]
-<figures/empirische_ergebnisse/struktur_de_quantitativ_nike.png, id=2463, 371.3
+<figures/empirische_ergebnisse/struktur_de_quantitativ_nike.png, id=2464, 371.3
 875pt x 320.19624pt>
 File: figures/empirische_ergebnisse/struktur_de_quantitativ_nike.png Graphic fi
 le (type png)
@@ -3954,7 +3953,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/struktur_de_quantitativ_
 nike.png used on input line 297.
 (pdftex.def)             Requested size: 218.86739pt x 188.70404pt.
 
-<figures/empirische_ergebnisse/struktur_de_quantitativ_puma.png, id=2464, 371.3
+<figures/empirische_ergebnisse/struktur_de_quantitativ_puma.png, id=2465, 371.3
 875pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_de_quantitativ_puma.png Graphic fi
 le (type png)
@@ -3969,7 +3968,7 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 297--299
  []
 
 
-<figures/empirische_ergebnisse/nike_de_sentiment.pdf, id=2467, page=4, 505.89pt
+<figures/empirische_ergebnisse/nike_de_sentiment.pdf, id=2468, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/nike_de_sentiment.pdf Graphic file (type pd
 f)
@@ -3978,7 +3977,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/nike_de_sentiment.pdf, p
 age4 used on input line 305.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/puma_de_sentiment.pdf, id=2468, page=4, 505.89pt
+<figures/empirische_ergebnisse/puma_de_sentiment.pdf, id=2469, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/puma_de_sentiment.pdf Graphic file (type pd
 f)
@@ -3998,7 +3997,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 331.
 
-<figures/empirische_ergebnisse/struktur_cn_quantitativ_allgemein.png, id=2478, 
+<figures/empirische_ergebnisse/struktur_cn_quantitativ_allgemein.png, id=2479, 
 361.35pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_allgemein.png Graph
 ic file (type png)
@@ -4008,7 +4007,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/struktur_cn_quantitativ_
 allgemein.png used on input line 336.
 (pdftex.def)             Requested size: 218.86739pt x 194.54959pt.
 
-<figures/empirische_ergebnisse/struktur_de_quantitativ_allgemein.png, id=2479, 
+<figures/empirische_ergebnisse/struktur_de_quantitativ_allgemein.png, id=2480, 
 375.4025pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_de_quantitativ_allgemein.png Graph
 ic file (type png)
@@ -4034,7 +4033,7 @@ Package babel Info: Redefining ngerman shorthand "~
 he_ergebnisse/puma_cn_sentiment.pdf> <./figures/empirische_ergebnisse/struktur_
 de_quantitativ_nike.png> <./figures/empirische_ergebnisse/struktur_de_quantitat
 iv_puma.png>]
-<figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf, id=2503, page=4, 505.8
+<figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf, id=2504, page=4, 505.8
 9pt x 505.89pt>
 File: figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf Graphic file (type
  pdf)
@@ -4044,7 +4043,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf
 , page4 used on input line 344.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/gesammt_de_sentiment.pdf, id=2504, page=4, 505.8
+<figures/empirische_ergebnisse/gesammt_de_sentiment.pdf, id=2505, page=4, 505.8
 9pt x 505.89pt>
 File: figures/empirische_ergebnisse/gesammt_de_sentiment.pdf Graphic file (type
  pdf)
@@ -4163,7 +4162,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 552.
  [75]
-<figures/empirische_ergebnisse/valenzen_cn_allgemein.png, id=2688, 461.725pt x 
+<figures/empirische_ergebnisse/valenzen_cn_allgemein.png, id=2689, 461.725pt x 
 351.3125pt>
 File: figures/empirische_ergebnisse/valenzen_cn_allgemein.png Graphic file (typ
 e png)
@@ -4172,7 +4171,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/valenzen_cn_allgemein.pn
 g used on input line 573.
 (pdftex.def)             Requested size: 437.73479pt x 333.0588pt.
 
-<figures/empirische_ergebnisse/valenzen_de_allgemein.png, id=2689, 463.7325pt x
+<figures/empirische_ergebnisse/valenzen_de_allgemein.png, id=2690, 463.7325pt x
  351.3125pt>
 File: figures/empirische_ergebnisse/valenzen_de_allgemein.png Graphic file (typ
 e png)
@@ -4393,15 +4392,6 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 65.
 
 [90]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 65.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 65.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 65.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 65.
- [91]
 \openout2 = `contents/global/assertion.aux'.
 
  (./contents/global/assertion.tex)
@@ -6327,8 +6317,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B2A274E45A4B8381FEE6094A2C9B98CE;6062.
  ) 
 Here is how much of TeX's memory you used:
- 31308 strings out of 493304
- 568068 string characters out of 6139871
+ 31307 strings out of 493304
+ 568061 string characters out of 6139871
  756414 words of memory out of 5000000
  32958 multiletter control sequences out of 15000+600000
  97643 words of font info for 328 fonts, out of 8000000 for 9000
@@ -6370,10 +6360,10 @@ ic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (122 pages, 1898050 bytes).
+Output written on main.pdf (121 pages, 1897329 bytes).
 PDF statistics:
- 3312 PDF objects out of 3580 (max. 8388607)
- 2912 compressed objects within 30 object streams
- 520 named destinations out of 1000 (max. 500000)
+ 3308 PDF objects out of 3580 (max. 8388607)
+ 2909 compressed objects within 30 object streams
+ 519 named destinations out of 1000 (max. 500000)
  39902 words of extra memory for PDF output out of 42996 (max. 10000000)
 
