@@ -7,7 +7,7 @@
 %%============================================================
 \subsection{Begriff}
 %%===========================================================
-\ac{OCRs}, oft auch als elektronische Mund-zu-Mund (\ac{i.e.} \ac{eWOM}), Online-Bewertungen, Online-Empfehlungen, oder Online-Meinungen bezeichnet, hat an Bedeutung mit dem Aufkommen der neuen technologischen Werkzeugen gewonnen \citep{SerraCantallops2014}. Aber, \ac{OCRs} haben noch kleine Unterschiede von \ac{eWOM} Die Definition des \ac{eWOM}s von \citet{Litvin2008} orientiert sich an der Definition von \citet{westbrook1987product}, und stellt nun klar: (\ac{i.e.})
+\acl{OCRs}, oft auch als elektronische Mund-zu-Mund (\ac{i.e.} \ac{eWOM}), Online-Bewertungen, Online-Empfehlungen, oder Online-Meinungen bezeichnet, hat an Bedeutung mit dem Aufkommen der neuen technologischen Werkzeugen gewonnen \citep{SerraCantallops2014}. Aber, \ac{OCRs} haben noch kleine Unterschiede von \ac{eWOM} Die Definition des \ac{eWOM}s von \citet{Litvin2008} orientiert sich an der Definition von \citet{westbrook1987product}, und stellt nun klar: (\ac{i.e.})
 
 \emph{``\acl{eWOM}s are all informal communications directed at consumers through Internet-based technology related to the usage or characteristics of particular goods and services, or their sellers.''}
 
@@ -26,9 +26,9 @@ Diese Typologie meint deutlich, dass die \ac{OCRs} nur ein Unterbereich des \ac{
 
 Diese Definition unterscheidet \acl{OCRs} deutlich von \ac{eWOM}. Für diese Definition ist es wichtig, die Gefühle von den Reviews, die von der Kunden gemacht werden, zu identifizieren. 
 
-Nach \citet{Shrihari2012}, werden die \ac{OCRs} in zwei Gruppen unterteilt: qualitative und quantitative \ac{OCRs}. Qualitative \ac{OCRs} sind die schriftliche Beschreibungen der Kunden. Und die Quantitaive \ac{OCRs} sind die Werte der Online Ratings des Produkts. Im Falle eines quantitativen Online Consumer Review ist der Kunde gezwungen, seine oder ihre Auswertung in einer einzigen Bewertung oder Grad zusammenzufassen, und die einzelne Ratings von Kunden werden in der Regel zusammen in eine Auswertungsstatistik gebündelt. \citep{Kostyra2015}
+Nach \citet{Shrihari2012}, werden die \ac{OCRs} in zwei Gruppen unterteilt: qualitative und quantitative \ac{OCRs}. Qualitative \ac{OCRs} sind die schriftliche Beschreibungen der Kunden. Und die Quantitaive \ac{OCRs} sind die Werte der Online Ratings des Produkts. Im Falle eine quantitative Online Consumer Review ist der Kunde gezwungen, seine oder ihre Auswertung in einer einzigen Bewertung oder Grad zusammenzufassen, und die einzelne Ratings von Kunden werden in der Regel zusammen in eine Auswertungsstatistik gebündelt. \citep{Kostyra2015}
 
-Abbildung \ref{fig:beispiel_ocr} ist ein Beispiel des Online Consumer Review aus Amazon. Der quantitative Teil des Reviews im Beispiel ist diese ``drei Sterne''in dem ``Fünf-Sterne-Rating-System'' in Amazon. Und die anderen schriftlichen Teilen sind das qualitative Online Consumer Review.
+Abbildung \ref{fig:beispiel_ocr} ist ein Beispiel der Online Consumer Review aus Amazon. Der quantitative Teil der Review im Beispiel ist diese ``drei Sterne''in dem ``Fünf-Sterne-Rating-System'' in Amazon. Und die anderen schriftlichen Teilen sind die qualitative Online Consumer Review.
 
 \begin{figure}[htb]
 	\begin{center}
@@ -38,7 +38,7 @@ Abbildung \ref{fig:beispiel_ocr} ist ein Beispiel des Online Consumer Review aus
 	\end{center}
 \end{figure}
 
-Gemäß \citet{pradeep2010the} kann ein Online Consumer Review in die folgenden drei Attribute zerlegt werden:
+Gemäß \citet{pradeep2010the} kann eine Online Consumer Review in die folgenden drei Attribute zerlegt werden:
 \begin{enumerate}
 	\item \textbf{Volumen} ist die Gesamtzahl der Ratings von den Kunden.
 	\item \textbf{Valenz} ist die durchschnittliche Rating von den Kunden, und repräsentiert die durchschnittliche Kundenzufriedenheit.
@@ -527,18 +527,18 @@ Von dieser Tabelle kann man sehen, dass es Unterschiede gibt, nicht nur zwischen
 
 Im Bereich Textileinzelhandel gibt es schon einige Ergebnisse über die \ac{OCRs}, aber die meisten Ergebnisse sind über die chinesischen Verbrauchern. \citet{rahman2010evaluative} haben gefunden, dass die chinesischen Befragten mehr befasst mit funktioneller Eigenschaft waren, während die Kanadier sich mehr auf ästhetische Attribute konzentrierten. \citet{Jin2010} erklärten, dass die Verarbeitung und Passform am wichtigsten für die US-Verbraucher sind, aber nicht für die chinesischen Verbraucher. \citet{hsu2002clothing} machten einen Vergleich zwischen den Studenten in Taiwan und den USA, und stellten fest, dass die Flexibilität und Angemessenheit die wichtigen Bewertungskriterien von Kleidungen für die Studenten in Taiwan waren, nicht in den USA, aber Komfort und Passform waren für die Verbraucher aus beiden Ländern am wichtigsten. \citet{zhang2002casual} haben entdeckt, dass Passform und Komfort die wichtigsten Faktoren für die chinesischen Verbraucher mit Stil, Farbe und Verarbeitung.
 
-Viele Studien fanden auch, dass die äußere Attribute wie Marken relativ mehr wichtig für die chinesischen Verbraucher waren. Zum Beispiel: \citet{chun1998differences} schlug vor, dass die chinesischen Verbraucher durch Markenloyalität gekennzeichnet waren und \citet{zhou2003symbolic} fanden auch, dass symbolische Attribute wichtiger als Performance zur Kaufabsicht der chinesischen Konsumenten waren. Die ``Kollektivismus'' Kultur macht die chinesischen Verbraucher mehr Sorgen um andere Meinungen und sozialen Selbstbewusstsein \citep{rahman2010evaluative}.
+Viele Studien fanden auch, dass die äußeren Attribute wie Marken relativ mehr wichtig für die chinesischen Verbraucher waren. Zum Beispiel: \citet{chun1998differences} schlug vor, dass die chinesischen Verbraucher durch Markenloyalität gekennzeichnet waren und \citet{zhou2003symbolic} fanden auch, dass symbolische Attribute wichtiger als Performance zur Kaufabsicht der chinesischen Konsumenten waren. Die ``Kollektivismus'' Kultur macht die chinesischen Verbraucher mehr Sorgen um andere Meinungen und sozialen Selbstbewusstsein \citep{rahman2010evaluative}.
 
 %%====================================================
 \section{Hypothesen} \label{sec:hypothese}
 %%====================================================
-Wie es in dem Abschnitt \ref{SAkernprozess} geschrieben wird, wird jedes Review von den Kunden als ein Dokument durch die Sentiment Analyse analysiert. Das heißt: jede Review hat eine eigene Polarität. Ähnlich wie die quantitativen \ac{OCRs}, hat das qualitative Online Review auch deswegen folgende Attribute:
+Wie es in dem Abschnitt \ref{SAkernprozess} beschrieben wird, wird jede Review von den Kunden als ein Dokument durch die Sentiment Analyse analysiert. Das heißt: jede Review hat eine eigene Polarität. Ähnlich wie die quantitativen \ac{OCRs}, hat die qualitative Online Review auch deswegen folgende Attribute:
 \begin{description}
-	\item[Volumen:] Dieses Attribut für die quantitativen \ac{OCRs} ist die Anzahl der Kommentare, die das Produkt hat \citep{Shrihari2012}. Aber hier in dieser Arbeit, beschreibt das Volumen die Anzahl der Zeichen, die der Kunde in dem qualitativen Online Review geschrieben hat.
-	\item[Valenz:] Dieses Attribut für die quantitativen \ac{OCRs} ist die Anzahl Sterne, die der Kunde gegeben hat \citep{Shrihari2012}. Aber in dieser Arbeit, beschreibt die Valenz die Polarität, die das qualitative Online Review durch die Sentiment Analyse hat.
+	\item[Volumen:] Dieses Attribut für die quantitativen \ac{OCRs} ist die Anzahl der Kommentare, die das Produkt hat \citep{Shrihari2012}. Aber hier in dieser Arbeit, beschreibt das Volumen die Anzahl der Zeichen, die der Kunde in der qualitativen Online Review geschrieben hat.
+	\item[Valenz:] Dieses Attribut für die quantitativen \ac{OCRs} ist die Anzahl Sterne, die der Kunde gegeben hat \citep{Shrihari2012}. Aber in dieser Arbeit, beschreibt die Valenz die Polarität, welche die qualitative Online Review durch die Sentiment Analyse hat.
 \end{description}
 
-Deshalb hat ein Online Review (inklusiv quantitative und qualitative Seite) die Attribute: Valenz der Sterne, Valenz der Polarität durch Sentiment Analyse, und Volumen von Zeichen. Für ein Produkt, gibt es viele Reviews, deswegen haben die qualitativen \ac{OCRs} für ein Produkt oder mehrere Produkte noch folgende Attribute:
+Deshalb hat eine Online Review (inklusiv quantitativer und qualitativer Seite) die Attribute: Valenz der Sterne, Valenz der Polarität durch Sentiment Analyse, und Volumen von Zeichen. Für ein Produkt, gibt es viele Reviews, deswegen haben die qualitativen \ac{OCRs} für ein Produkt oder mehrere Produkte noch folgende Attribute:
 \begin{description}
 	\item[Varianz:] Dieses Attribut beschreibt den Grad der Polaritätsverschiedenheiten von Kunden durch die Sentiment Analyse.
 	\item[Korrelationskoeffizient:] Dieser zeigt den Grad des Zusammenhangs zwischen quantitativen und qualitativen \ac{OCRs}.
@@ -560,13 +560,13 @@ Korrelationskoeffizient & \multicolumn{2}{l|}{der Grad des Zusammenhangs zwische
 \label{tab:AttributeOCRs}
 \end{table}
 
-Weil die deutschen und chinesischen \ac{OCRs} gleichzeitig quantitativen und qualitativen Inhalte haben, haben die Attribute Valenz, Volumen, und Varianz für quantitativen und qualitativen Aspekte unterschiedliche Bedeutungen. Tabelle \ref{tab:AttributeOCRs} zeigt die Unterschiede dazwischen.
+Weil die deutschen und chinesischen \ac{OCRs} gleichzeitig quantitativen und qualitativen Inhalte haben, besitzen die Attribute Valenz, Volumen, und Varianz für die quantitativen und qualitativen Aspekte unterschiedliche Bedeutungen. Tabelle \ref{tab:AttributeOCRs} zeigt dies Unterschiede.
 
-Diese Attribute beschreiben die \ac{OCRs} mathematisch und statistisch. Basierend auf diese mathematischen und statistischen Maßen kann man einfach einige statistischen Analysen durchführen.
+Diese Attribute beschreiben die \ac{OCRs} mathematisch und statistisch. Basierend auf diesen mathematischen und statistischen Maßen kann man einfach einige statistischen Analysen durchführen.
 
-Aus der Abbildung \ref{fig:sechsdimensionen} kann man deutlich sehen, dass Deutschland und China sich in Bezug auf Machtdistanz, Individualismus gegenüber Kollektivismus und Unsicherheitsvermeidung unterscheiden. Für die anderen drei Dimensionen sind Deutschland und China in gleicher Ebene, deshalb wird es vorgeschlagen, dass die Dimensionen ``Maskulinität gegenüber Femininität'', ``langfristige Orientierung gegenüber kurzfristiger Orientierung'' und ``Nachsicht gegenüber Berrschtheit'' wenige Einflüsse haben, um die deutschen und chinesischen \ac{OCRs} zu unterscheiden.
+Aus der Abbildung \ref{fig:sechsdimensionen} kann man deutlich sehen, dass Deutschland und China sich in Bezug auf Machtdistanz, Individualismus gegenüber Kollektivismus und Unsicherheitsvermeidung unterscheiden. Für die anderen drei Dimensionen sind Deutschland und China in gleicher Ebene, deshalb wird vorgeschlagen, dass die Dimensionen ``Maskulinität gegenüber Femininität'', ``langfristige Orientierung gegenüber kurzfristiger Orientierung'' und ``Nachsicht gegenüber Beherrschtheit'' wenige Einflüsse haben, um die deutschen und chinesischen \ac{OCRs} zu unterscheiden.
 
-Wenn es keine kulturellen Einflüsse auf das Schreiben der \ac{OCRs} geben würde, ist jede Erzeugung des Online Reviews individuell und hat keine Abhängigkeit voneinander. Das heißt: Das Gefühl von jedem Kunden für das Produkt ist unabhängig voneinander, und die Polaritäten durch Sentiment Analyse sollte die Normalverteilung angepasst werden. %Aber es gibt in tatsächlicher Hinsicht kulturellen Einflüsse darauf. 
+Wenn es keine kulturellen Einflüsse auf das Schreiben der \ac{OCRs} geben würde, wäre jede Erzeugung eines Online Reviews individuell und hätte keine Abhängigkeit mit anderen. Das heißt: Das Gefühl von jedem Kunden für das Produkt ist unabhängig voneinander, und die Polaritäten durch Sentiment Analyse sollte die Normalverteilung angepasst werden. %Aber es gibt in tatsächlicher Hinsicht kulturelle Einflüsse darauf. 
 Deshalb wird es als die Nullhypothese $H_0$ vorgeschlagen:
 
 \begin{description}
@@ -574,23 +574,23 @@ Deshalb wird es als die Nullhypothese $H_0$ vorgeschlagen:
 \label{hyp:0}
 \end{description}
 
-Wie in dem Abschnitt \ref{dimension:machtdistanz} geschrieben, sind die Menschen in den Kulturen mit großer Machtdistanz zurückhaltend wenn es um den Informationsaustausch nach \citet{Lam2009} geht. Und nach \citet{Lam2009, liu2001relationships, dawar1996cross, money1998explorations} wird eine hohe Unsicherheitsvermeidung mit einem höheren Niveau der Meinungsaustausch sowie Meinungsssucht verbunden sein. Das heißt: %Aber die Interaktionen zwischen Menschen in den gleichen Machtstufen werden mehr sein. Bei der kollektivistischen Kultur ist, ``alle machen, dann mache ich auch'' normal. Es entstehen Motive, ein Review für das Produkt zu schreiben, wenn das Produkt schon viele Reviews hat. Aber die Motivation ist nicht so stark genug für ein langes Review. 
+Wie in dem Abschnitt \ref{dimension:machtdistanz} beschrieben, sind die Menschen in den Kulturen mit großer Machtdistanz zurückhaltend wenn es um den Informationsaustausch nach \citet{Lam2009} geht. Nach \citet{Lam2009, liu2001relationships, dawar1996cross, money1998explorations} wird eine hohe Unsicherheitsvermeidung mit einem höheren Niveau des Meinungsaustausches sowie Meinungsssucht verbunden sein. Das heißt: %Aber die Interaktionen zwischen Menschen in den gleichen Machtstufen werden mehr sein. Bei der kollektivistischen Kultur ist das Verhalten ``alle machen, dann mache ich auch'' normal. Es entstehen Motive, eine Review für das Produkt zu schreiben, wenn das Produkt schon viele Reviews hat. Aber die Motivation ist nicht stark genug für eine lange Review. 
 \begin{hyp} 
 Das Volumen von chinesischen quantativen und qualitativen \acl{OCRs} ist kleiner als das von Deutschen.
 \label{hyp:1}
 \end{hyp}
 
-Nach \citet{liu2001relationships} und \citet{donthu1998cultural}, geben die Menschen in Kulturen mit hoher Unsicherheitsvermeidung im Allgemeinen positivere Kommntaren, als die mit niedriger Unsicherheitsvermeidung. Deshalb wird es vorgeschlagen:
+Nach \citet{liu2001relationships} und \citet{donthu1998cultural}, geben die Menschen in Kulturen mit hoher Unsicherheitsvermeidung im Allgemeinen positivere Kommentare, als die mit niedriger Unsicherheitsvermeidung. Deshalb wird vorgeschlagen:
 \begin{hyp} 
-Die deutschen qualitativen und quantitativen \acl{OCRs} haben größere Valenzen als die von chinesischen.
-%aber die deutsche Valenz von quantitativen \ac{OCRs} ist kleiner als die chinesische Valenz in Durchschnitt.
-%und die deutschen \ac{OCRs} haben einen größere Korrelationskoeffizient zwischen quantitativen und qualitativen \ac{OCRs} als die Chinesischen.
+Die deutschen qualitativen und quantitativen \acl{OCRs} haben größere Valenzen als die chinesischen.
+%aber die deutsche Valenz von quantitativen \ac{OCRs} ist kleiner als die chinesische Valenz im Durchschnitt.
+%Und die deutschen \ac{OCRs} haben einen größere Korrelationskoeffizient zwischen quantitativen und qualitativen \ac{OCRs} als die Chinesischen.
 \label{hyp:2}
 \end{hyp}
 
-Ungleichheit unter den Menschen in Kulturen mit großer Machtdistanz wird erwartet und ist erwünscht nach \citet{hofstede2013interkulturelle}, und hierarchische Struktur in Organisationen sind ein Spiegelbild einer Ungleichheit von Natur aus zwischen oberen und unteren Schicht. Diese schlagen vor, dass die Varianz von Polaritäten durch Sentiment Analyse größer sein wird, wenn Menschen in Kulturen mit großer Machtdistanz leben.
+Ungleichheit unter den Menschen in Kulturen mit großer Machtdistanz wird erwartet und ist erwünscht nach \citet{hofstede2013interkulturelle}, und hierarchische Strukturen in Organisationen sind ein Spiegelbild einer Ungleichheit von Natur aus zwischen oberen und unteren Schichten. Diese sagen, dass die Varianz von Polaritäten durch Sentiment Analyse größer sein wird, wenn Menschen in Kulturen mit großer Machtdistanz leben.
 
-Aber beim Kollektivismus wirken sich die Informationskonsistenz und die Informationsbewertung auf ihre Wahrnehmung von Informationsglaubwürdigkeit stärker aus \citep{Luo2014}. Gemäß der Theorie der \citet{hofstede1998masculinity}, machen die Menschen in den kollektivistischen Kulturen die Kaufentscheidungen im Konsens mit der Gruppe und kaum rein individuelle Entscheidungen. Aber die Menschen in den individuellen Kulturen machen die Kaufentscheidungen individuell \citep{singelis1994measurement}. Auf Grund der größeren Machtdistanz, gibt es die zentralisierte Tendenz, aber an der gegenüberliegenden Seite gibt es keine solche Tendenz \citep{hofstede2013interkulturelle}. China hat eine sehr hohe Machtdistanz mit kollektivistischer Kultur, aber für Deutschland ist die Machtdistanz niedrig und die Menschen sind individuell. Es gibt unterschiedlichen Einflüsse auf den chinesischen und deutschen \ac{OCRs}. Das heißt: die \ac{OCRs} werden konsistanter beim Kollektivismus sein, deswegen sollte die Varianz von Polaritäten kleiner als beim Individualismus sein.
+Aber beim Kollektivismus wirken sich die Informationskonsistenz und die Informationsbewertung auf ihre Wahrnehmung von Informationsglaubwürdigkeit stärker aus \citep{Luo2014}. Gemäß der Theorie der \citet{hofstede1998masculinity}, machen die Menschen in den kollektivistischen Kulturen die Kaufentscheidungen im Konsens mit der Gruppe und kaum rein individuelle Entscheidungen im Gegensatz zu den Menschen in den individuellen Kulturen \citep{singelis1994measurement}. Auf Grund der größeren Machtdistanz, gibt es die zentralisierte Tendenz, aber auf der gegenüberliegenden Seite gibt es keine solche Tendenz \citep{hofstede2013interkulturelle}. China hat eine sehr hohe Machtdistanz mit kollektivistischer Kultur, aber für Deutschland ist die Machtdistanz niedrig und die Menschen sind individuell. Es gibt unterschiedliche Einflüsse auf die chinesischen und deutschen \ac{OCRs}. Das heißt: die \ac{OCRs} werden konsistenter beim Kollektivismus sein, deswegen sollte die Varianz von Polaritäten kleiner als beim Individualismus sein.
 
 Weil die vorherigen Forschungen vorgeschlagen haben, dass die Dimension ``Individualismus gegenüber Kollektivismus'' eine Tiefenstruktur und wichtigste Dimension ist \citep{grennfield2000approaches,sia2009web, triandis2001individualism}, wird es vermutet, dass diese Dimension einen größeren Einfluss auf die \ac{OCRs} hat, deshalb:
 \begin{hyp} 
@@ -600,11 +600,11 @@ Die chinesischen Valenzen von den qualitativen und quantitativen \acl{OCRs} habe
 
 
 %%Gemäß der Theorie von \citet{hofstede1998masculinity}, machen die Menschen in den kollektivistischen Kulturen die Kaufentscheidungen im Konsens mit der Gruppe und kaum rein individuelle Entscheidungen. Aber die Menschen in den individuellen Kulturen machen die Kaufentscheidungen individuell \citep{singelis1994measurement}. Auf Grund der größeren Machtdistanz, gibt es die zentralisierte Tendenz, aber an der gegenüberliegenden Seite gibt es keine solche Tendenz \citep{hofstede2013interkulturelle}. China hat eine sehr hohe Machtdistanz mit kollektivistischer Kultur, aber für Deutschland ist die Machtdistanz niedrig und die Menschen sind individuell. Es gibt unterschiedliche Einflüsse auf die chinesischen und deutschen \ac{OCRs}. Deswegen wird es vorgeschlagen:
-Und Menschen in der kollektivistischer Kultur sind einfacher zu beeinflussen, ein quantitatives Review zu geben, aber das Gefühl ist von jedem Kunden unterschiedlich und nicht einfach übereinzustimmen. Basierend auf die Hypothesen \ref{hyp:2} und \ref{hyp:3}, wird die deutschen \ac{OCRs} positiver und individueller als die chinesischen, aber der Zusammenhang zwischen quantitativen und qualitativen \ac{OCRs} bleibt noch nicht in der Sicht. 
+Und Menschen in der kollektivistischer Kultur sind einfacher zu beeinflussen, eine quantitative Review zu geben, aber das Gefühl ist von jedem Kunden unterschiedlich und nicht einfach übereinzustimmen. Basierend auf die Hypothesen \ref{hyp:2} und \ref{hyp:3}, wird die deutschen \ac{OCRs} positiver und individueller als die chinesischen, aber der Zusammenhang zwischen quantitativen und qualitativen \ac{OCRs} ist noch nicht in Sicht. 
 
-\citeauthor{resnick2002trust} haben durch die Studien von Online Rückkopplungsmechanismen festgestellt, dass die Feedbacks (also die \ac{OCRs} in eBay) eine hohe Korrelation zwischen den Käufern und Verkäufern haben. Und \citeauthor{Stenberg2014} haben schon gefunden, dass die Attitüde und Absicht von Menschen in China und Schweden unterschiedlich sind. Und die Aspekten, auf der man sich konzentiert, sind unterschiedlich von den USA und China \citep{lu2015understanding}. Das heißt: Kunden geben gleichen quantitativen \ac{OCRs} aber  haben vielleicht unterschiedlichen Aspekten in verschiedenen Kulturen. Anders gesagt, die kulturellen Einflüsse auf quantitativen und qualitativen \ac{OCRs} sind unterschiedlich. Um diese Unterschiedlichkeit zu verdeutlichen, wird es vorgeschlagen:
+\citeauthor{resnick2002trust} haben durch die Studien von Online Rückkopplungsmechanismen festgestellt, dass die Feedbacks (also die \ac{OCRs} in eBay) eine hohe Korrelation zwischen den Käufern und Verkäufern haben. Und \citeauthor{Stenberg2014} haben schon gefunden, dass die Attitüde und Absicht von Menschen in China und Schweden unterschiedlich sind. Die Aspekten, auf der man sich konzentriert, sind in den USA und China unterschiedlich \citep{lu2015understanding}. Das heißt: Die Kunden geben gleichen quantitativen \ac{OCRs} aber haben vielleicht unterschiedliche Aspekte in den verschiedenen Kulturen. Anders gesagt, die kulturellen Einflüsse auf quantitative und qualitative \ac{OCRs} sind unterschiedlich. Um diese Unterschiedlichkeit zu verdeutlichen, wird es vorgeschlagen:
 \begin{hyp} 
 %%Die Dichteverteilung von deutschen Polaritäten ist ähnlich wie die Normalverteilung. Aber die Dichteverteilung von chinesischen Polartitäten ist dichter und zentraliseirter als die Normalverteilung.
-Der Zusammenhang zwischen den deutschen quantitativen und qualitativen \acl{OCRs} ist stärker als den Zusammenhang von den chinesischen \acl{OCRs}.
+Der Zusammenhang zwischen den deutschen quantitativen und qualitativen \acl{OCRs} ist stärker als der Zusammenhang von den chinesischen \acl{OCRs}.
 \label{hyp:4}
 \end{hyp}

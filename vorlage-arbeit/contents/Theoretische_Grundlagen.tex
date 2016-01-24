@@ -26,9 +26,9 @@ Diese Typologie meint deutlich, dass die \ac{OCRs} nur ein Unterbereich des \ac{
 
 Diese Definition unterscheidet \acl{OCRs} deutlich von \ac{eWOM}. Für diese Definition ist es wichtig, die Gefühle von den Reviews, die von der Kunden gemacht werden, zu identifizieren. 
 
-Nach \citet{Shrihari2012}, werden die \ac{OCRs} in zwei Gruppen unterteilt: qualitative und quantitative \ac{OCRs}. Qualitative \ac{OCRs} sind die schriftliche Beschreibungen der Kunden. Und die Quantitaive \ac{OCRs} sind die Werte der Online Ratings des Produkts. Im Falle eines quantitativen Online Consumer Review ist der Kunde gezwungen, seine oder ihre Auswertung in einer einzigen Bewertung oder Grad zusammenzufassen, und die einzelne Ratings von Kunden werden in der Regel zusammen in eine Auswertungsstatistik gebündelt. \citep{Kostyra2015}
+Nach \citet{Shrihari2012}, werden die \ac{OCRs} in zwei Gruppen unterteilt: qualitative und quantitative \ac{OCRs}. Qualitative \ac{OCRs} sind die schriftliche Beschreibungen der Kunden. Und die Quantitaive \ac{OCRs} sind die Werte der Online Ratings des Produkts. Im Falle eine quantitative Online Consumer Review ist der Kunde gezwungen, seine oder ihre Auswertung in einer einzigen Bewertung oder Grad zusammenzufassen, und die einzelne Ratings von Kunden werden in der Regel zusammen in eine Auswertungsstatistik gebündelt. \citep{Kostyra2015}
 
-Abbildung \ref{fig:beispiel_ocr} ist ein Beispiel des Online Consumer Review aus Amazon. Der quantitative Teil des Reviews im Beispiel ist diese ``drei Sterne''in dem ``Fünf-Sterne-Rating-System'' in Amazon. Und die anderen schriftlichen Teilen sind das qualitative Online Consumer Review.
+Abbildung \ref{fig:beispiel_ocr} ist ein Beispiel der Online Consumer Review aus Amazon. Der quantitative Teil der Review im Beispiel ist diese ``drei Sterne''in dem ``Fünf-Sterne-Rating-System'' in Amazon. Und die anderen schriftlichen Teilen sind die qualitative Online Consumer Review.
 
 \begin{figure}[htb]
 	\begin{center}
@@ -38,7 +38,7 @@ Abbildung \ref{fig:beispiel_ocr} ist ein Beispiel des Online Consumer Review aus
 	\end{center}
 \end{figure}
 
-Gemäß \citet{pradeep2010the} kann ein Online Consumer Review in die folgenden drei Attribute zerlegt werden:
+Gemäß \citet{pradeep2010the} kann eine Online Consumer Review in die folgenden drei Attribute zerlegt werden:
 \begin{enumerate}
 	\item \textbf{Volumen} ist die Gesamtzahl der Ratings von den Kunden.
 	\item \textbf{Valenz} ist die durchschnittliche Rating von den Kunden, und repräsentiert die durchschnittliche Kundenzufriedenheit.
@@ -291,7 +291,7 @@ In dieser Arbeit wird die unbeaufsichtigte Methode verwendet. Einer der Vorteile
 %%======================================================
 \subsection{Der konkrete Algorithmus im Dokument-Level}  \label{algorithmus}
 %%======================================================
-Wie es oben gezeigt wird, ist es wichtig, ein guten Sentiment-Lexikon zu erhalten. Die Genauigkeit der Polarität ist sehr abhängig von dem Sentiment-Lexikon für die unbeaufsichtigten Methoden. In dieser Arbeit wird das Lexikon von \citet{Remus2010} verwendet. Tabelle \ref{tab:LexikonInhalt} zeigt einen Überblick über den Inhalt des Lexikons.
+Wie es oben gezeigt wird, ist es wichtig, ein gutes Sentiment-Lexikon zu erhalten. Die Genauigkeit der Polarität ist sehr abhängig von dem Sentiment-Lexikon für die unbeaufsichtigten Methoden. In dieser Arbeit wird das Lexikon von \citet{Remus2010} verwendet. Tabelle \ref{tab:LexikonInhalt} zeigt einen Überblick über den Inhalt des Lexikons.
 % Please add the following required packages to your document preamble:
 % \usepackage{multirow}
 \begin{table}[htb]
@@ -532,13 +532,13 @@ Viele Studien fanden auch, dass die äußeren Attribute wie Marken relativ mehr 
 %%====================================================
 \section{Hypothesen} \label{sec:hypothese}
 %%====================================================
-Wie es in dem Abschnitt \ref{SAkernprozess} beschrieben wird, wird jede Review von den Kunden als ein Dokument durch die Sentiment Analyse analysiert. Das heißt: jede Review hat eine eigene Polarität. Ähnlich wie die quantitativen \ac{OCRs}, hat das qualitative Online Review auch deswegen folgende Attribute:
+Wie es in dem Abschnitt \ref{SAkernprozess} beschrieben wird, wird jede Review von den Kunden als ein Dokument durch die Sentiment Analyse analysiert. Das heißt: jede Review hat eine eigene Polarität. Ähnlich wie die quantitativen \ac{OCRs}, hat die qualitative Online Review auch deswegen folgende Attribute:
 \begin{description}
-	\item[Volumen:] Dieses Attribut für die quantitativen \ac{OCRs} ist die Anzahl der Kommentare, die das Produkt hat \citep{Shrihari2012}. Aber hier in dieser Arbeit, beschreibt das Volumen die Anzahl der Zeichen, die der Kunde in dem qualitativen Online Review geschrieben hat.
+	\item[Volumen:] Dieses Attribut für die quantitativen \ac{OCRs} ist die Anzahl der Kommentare, die das Produkt hat \citep{Shrihari2012}. Aber hier in dieser Arbeit, beschreibt das Volumen die Anzahl der Zeichen, die der Kunde in der qualitativen Online Review geschrieben hat.
 	\item[Valenz:] Dieses Attribut für die quantitativen \ac{OCRs} ist die Anzahl Sterne, die der Kunde gegeben hat \citep{Shrihari2012}. Aber in dieser Arbeit, beschreibt die Valenz die Polarität, welche die qualitative Online Review durch die Sentiment Analyse hat.
 \end{description}
 
-Deshalb hat ein Online Review (inklusiv quantitativer und qualitativer Seite) die Attribute: Valenz der Sterne, Valenz der Polarität durch Sentiment Analyse, und Volumen von Zeichen. Für ein Produkt, gibt es viele Reviews, deswegen haben die qualitativen \ac{OCRs} für ein Produkt oder mehrere Produkte noch folgende Attribute:
+Deshalb hat eine Online Review (inklusiv quantitativer und qualitativer Seite) die Attribute: Valenz der Sterne, Valenz der Polarität durch Sentiment Analyse, und Volumen von Zeichen. Für ein Produkt, gibt es viele Reviews, deswegen haben die qualitativen \ac{OCRs} für ein Produkt oder mehrere Produkte noch folgende Attribute:
 \begin{description}
 	\item[Varianz:] Dieses Attribut beschreibt den Grad der Polaritätsverschiedenheiten von Kunden durch die Sentiment Analyse.
 	\item[Korrelationskoeffizient:] Dieser zeigt den Grad des Zusammenhangs zwischen quantitativen und qualitativen \ac{OCRs}.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.30)  23 JAN 2016 21:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.30)  24 JAN 2016 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4257,13 +4257,13 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 45.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 49.
 
 [81] (/usr/share/texmf/tex/latex/CJK/UTF8/UTF8.enc
 File: UTF8.enc 2012/05/07 4.8.3
@@ -4301,13 +4301,13 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 77.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 86.
  [84])
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 64.
@@ -6317,11 +6317,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B2A274E45A4B8381FEE6094A2C9B98CE;6062.
  ) 
 Here is how much of TeX's memory you used:
- 31307 strings out of 493304
- 568061 string characters out of 6139871
+ 31310 strings out of 493304
+ 568088 string characters out of 6139871
  756414 words of memory out of 5000000
  32958 multiletter control sequences out of 15000+600000
- 97643 words of font info for 328 fonts, out of 8000000 for 9000
+ 97868 words of font info for 330 fonts, out of 8000000 for 9000
  960 hyphenation exceptions out of 8191
  69i,17n,87p,1312b,1156s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
@@ -6360,10 +6360,10 @@ ic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (121 pages, 1897329 bytes).
+Output written on main.pdf (121 pages, 1897461 bytes).
 PDF statistics:
- 3308 PDF objects out of 3580 (max. 8388607)
- 2909 compressed objects within 30 object streams
+ 3306 PDF objects out of 3580 (max. 8388607)
+ 2907 compressed objects within 30 object streams
  519 named destinations out of 1000 (max. 500000)
  39902 words of extra memory for PDF output out of 42996 (max. 10000000)
 
