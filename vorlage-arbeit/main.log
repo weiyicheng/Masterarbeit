@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.30)  26 JAN 2016 20:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.30)  26 JAN 2016 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4418,6 +4418,15 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 65.
 
 [92]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 65.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 65.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 65.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 65.
+ [93]
 \openout2 = `contents/global/assertion.aux'.
 
  (./contents/global/assertion.tex)
@@ -6343,8 +6352,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5529967C1423C7780218EBDD4C442021;6062.
  ) 
 Here is how much of TeX's memory you used:
- 31309 strings out of 493304
- 568075 string characters out of 6139871
+ 31310 strings out of 493304
+ 568082 string characters out of 6139871
  756410 words of memory out of 5000000
  32958 multiletter control sequences out of 15000+600000
  97738 words of font info for 328 fonts, out of 8000000 for 9000
@@ -6386,10 +6395,10 @@ ic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (123 pages, 1901528 bytes).
+Output written on main.pdf (124 pages, 1902491 bytes).
 PDF statistics:
- 3316 PDF objects out of 3580 (max. 8388607)
- 2915 compressed objects within 30 object streams
- 521 named destinations out of 1000 (max. 500000)
+ 3320 PDF objects out of 3580 (max. 8388607)
+ 2918 compressed objects within 30 object streams
+ 522 named destinations out of 1000 (max. 500000)
  39902 words of extra memory for PDF output out of 42996 (max. 10000000)
 
