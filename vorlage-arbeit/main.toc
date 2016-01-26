@@ -47,19 +47,19 @@
 \contentsline {chapter}{\numberline {4}Empirische Ergebnisse}{57}{chapter.4}
 \contentsline {section}{\numberline {4.1}Die deskriptiven Ergebnisse zu den Online Consumer Reviews}{57}{section.4.1}
 \contentsline {section}{\numberline {4.2}Hypothesen\IeC {\"u}berpr\IeC {\"u}fung}{59}{section.4.2}
-\contentsline {section}{\numberline {4.3}Hypothese 1}{61}{section.4.3}
+\contentsline {section}{\numberline {4.3}Hypothese 1}{60}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Hypothese 1 in unterschiedlichen Kategorien}{61}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Hypothese 1 bei unterschiedlichen Marken}{62}{subsection.4.3.2}
 \contentsline {subsection}{\numberline {4.3.3}Hypothese 1 im Allgemeinen}{64}{subsection.4.3.3}
 \contentsline {section}{\numberline {4.4}Hypothese 2}{65}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Hypothese 2 in unterschiedlichen Kategorien}{65}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Hypothese 2 bei unterschiedlichen Marken}{67}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Hypothese 2 in Allgemeinen}{70}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Hypothese 3}{71}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Hypothese 3 bei jedem Artikel}{71}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.4.3}Hypothese 2 in Allgemeinen}{69}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Hypothese 3}{70}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Hypothese 3 bei jedem Artikel}{70}{subsection.4.5.1}
 \contentsline {subsection}{\numberline {4.5.2}Hypothese 3 in Allgemeinen}{73}{subsection.4.5.2}
 \contentsline {section}{\numberline {4.6}Hypothese 4}{74}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}Hypothese 4 bei jedem Artikel}{74}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.1}Hypothese 4 bei jedem Artikel}{75}{subsection.4.6.1}
 \contentsline {subsection}{\numberline {4.6.2}Hypothese 4 in Allgemeinen}{77}{subsection.4.6.2}
 \contentsline {chapter}{\numberline {5}Diskussion}{81}{chapter.5}
 \contentsline {section}{\numberline {5.1}Qualitativ gegen\IeC {\"u}ber Quantitativ}{82}{section.5.1}

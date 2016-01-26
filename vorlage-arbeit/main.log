@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.30)  26 JAN 2016 18:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.30)  26 JAN 2016 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3679,21 +3679,18 @@ Package pdftex.def Info: figures/empirische_ergebnisse/gesammt_de_sentiment.pdf
 , page3 used on input line 90.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 97.
  [59]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 100.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 100.
-
-Underfull \vbox (badness 2165) has occurred while \output is active []
-
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining ngerman shorthand "~
@@ -3702,8 +3699,9 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 104.
- [60 <./figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf> <./figures/empi
-rische_ergebnisse/gesammt_de_sentiment.pdf>]
+
+[60 <./figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf> <./figures/empir
+ische_ergebnisse/gesammt_de_sentiment.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining ngerman shorthand "~
@@ -3753,15 +3751,14 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 167.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 181.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 167.
- [63 <./figures/empirische_ergebnisse/volumenMarken.png>]
+(babel)             in language  on input line 181.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 181.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 167.
-
+(babel)             in language  on input line 181.
+ [63 <./figures/empirische_ergebnisse/volumenMarken.png>]
 <figures/empirische_ergebnisse/volumenAllgemeinen.png, id=2344, 602.25pt x 372.
 39125pt>
 File: figures/empirische_ergebnisse/volumenAllgemeinen.png Graphic file (type p
@@ -3812,17 +3809,8 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 206--208
 [][] [] 
  []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 213.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 213.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 213.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 213.
-[65 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_Tshirt.png> <./fig
-ures/empirische_ergebnisse/struktur_de_quantitativ_Tshirt.png>]
-<figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf, id=2380, page=4, 505.89
+
+<figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf, id=2374, page=4, 505.89
 pt x 505.89pt>
 File: figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf Graphic file (type 
 pdf)
@@ -3832,7 +3820,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf,
  page4 used on input line 216.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/Tshirt_de_sentiment.pdf, id=2381, page=4, 505.89
+<figures/empirische_ergebnisse/Tshirt_de_sentiment.pdf, id=2375, page=4, 505.89
 pt x 505.89pt>
 File: figures/empirische_ergebnisse/Tshirt_de_sentiment.pdf Graphic file (type 
 pdf)
@@ -3841,7 +3829,16 @@ pdf)
 Package pdftex.def Info: figures/empirische_ergebnisse/Tshirt_de_sentiment.pdf,
  page4 used on input line 219.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
-
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 227.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 227.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 227.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 227.
+ [65 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_Tshirt.png> <./fi
+gures/empirische_ergebnisse/struktur_de_quantitativ_Tshirt.png>]
 <figures/empirische_ergebnisse/struktur_cn_quantitativ_Hose.png, id=2386, 371.3
 875pt x 370.38374pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_Hose.png Graphic fi
@@ -3884,32 +3881,25 @@ f)
 Package pdftex.def Info: figures/empirische_ergebnisse/hose_de_sentiment.pdf, p
 age4 used on input line 243.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 250.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 250.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 250.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 250.
 
-[66 <./figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf> <./figures/empiri
-sche_ergebnisse/Tshirt_de_sentiment.pdf>]
+Underfull \vbox (badness 2662) has occurred while \output is active []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 252.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 252.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 252.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 252.
+ [66 <./figures/empirische_ergebnisse/Tshirt_cn_sentiment.pdf> <./figures/empir
+ische_ergebnisse/Tshirt_de_sentiment.pdf>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 268.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 268.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 271.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 271.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 271.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 271.
- [67 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_Hose.png> <./figu
-res/empirische_ergebnisse/struktur_de_quantitativ_Hose.png>]
-<figures/empirische_ergebnisse/struktur_cn_quantitativ_nike.png, id=2440, 371.3
+
+<figures/empirische_ergebnisse/struktur_cn_quantitativ_nike.png, id=2433, 371.3
 875pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_nike.png Graphic fi
 le (type png)
@@ -3919,7 +3909,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/struktur_cn_quantitativ_
 nike.png used on input line 274.
 (pdftex.def)             Requested size: 218.86739pt x 189.29561pt.
 
-<figures/empirische_ergebnisse/struktur_cn_quantitativ_puma.png, id=2441, 371.3
+<figures/empirische_ergebnisse/struktur_cn_quantitativ_puma.png, id=2434, 371.3
 875pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_puma.png Graphic fi
 le (type png)
@@ -3934,7 +3924,7 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 274--276
  []
 
 
-<figures/empirische_ergebnisse/nike_cn_sentiment.pdf, id=2444, page=4, 505.89pt
+<figures/empirische_ergebnisse/nike_cn_sentiment.pdf, id=2437, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/nike_cn_sentiment.pdf Graphic file (type pd
 f)
@@ -3943,7 +3933,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/nike_cn_sentiment.pdf, p
 age4 used on input line 282.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/puma_cn_sentiment.pdf, id=2445, page=4, 505.89pt
+<figures/empirische_ergebnisse/puma_cn_sentiment.pdf, id=2438, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/puma_cn_sentiment.pdf Graphic file (type pd
 f)
@@ -3956,18 +3946,16 @@ age4 used on input line 285.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 292.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 292.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 292.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 294.
-[68 <./figures/empirische_ergebnisse/hose_cn_sentiment.pdf> <./figures/empirisc
-he_ergebnisse/hose_de_sentiment.pdf> <./figures/empirische_ergebnisse/struktur_
-cn_quantitativ_nike.png> <./figures/empirische_ergebnisse/struktur_cn_quantitat
-iv_puma.png>]
-<figures/empirische_ergebnisse/struktur_de_quantitativ_nike.png, id=2475, 371.3
+(babel)             in language  on input line 292.
+[67 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_Hose.png> <./figur
+es/empirische_ergebnisse/struktur_de_quantitativ_Hose.png>]
+<figures/empirische_ergebnisse/struktur_de_quantitativ_nike.png, id=2455, 371.3
 875pt x 320.19624pt>
 File: figures/empirische_ergebnisse/struktur_de_quantitativ_nike.png Graphic fi
 le (type png)
@@ -3977,7 +3965,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/struktur_de_quantitativ_
 nike.png used on input line 297.
 (pdftex.def)             Requested size: 218.86739pt x 188.70404pt.
 
-<figures/empirische_ergebnisse/struktur_de_quantitativ_puma.png, id=2476, 371.3
+<figures/empirische_ergebnisse/struktur_de_quantitativ_puma.png, id=2456, 371.3
 875pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_de_quantitativ_puma.png Graphic fi
 le (type png)
@@ -3992,7 +3980,7 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 297--299
  []
 
 
-<figures/empirische_ergebnisse/nike_de_sentiment.pdf, id=2479, page=4, 505.89pt
+<figures/empirische_ergebnisse/nike_de_sentiment.pdf, id=2459, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/nike_de_sentiment.pdf Graphic file (type pd
 f)
@@ -4001,7 +3989,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/nike_de_sentiment.pdf, p
 age4 used on input line 305.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/puma_de_sentiment.pdf, id=2480, page=4, 505.89pt
+<figures/empirische_ergebnisse/puma_de_sentiment.pdf, id=2460, page=4, 505.89pt
  x 505.89pt>
 File: figures/empirische_ergebnisse/puma_de_sentiment.pdf Graphic file (type pd
 f)
@@ -4013,15 +4001,12 @@ age4 used on input line 308.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 331.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 331.
 
-<figures/empirische_ergebnisse/struktur_cn_quantitativ_allgemein.png, id=2490, 
+<figures/empirische_ergebnisse/struktur_cn_quantitativ_allgemein.png, id=2470, 
 361.35pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_cn_quantitativ_allgemein.png Graph
 ic file (type png)
@@ -4031,7 +4016,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/struktur_cn_quantitativ_
 allgemein.png used on input line 336.
 (pdftex.def)             Requested size: 218.86739pt x 194.54959pt.
 
-<figures/empirische_ergebnisse/struktur_de_quantitativ_allgemein.png, id=2491, 
+<figures/empirische_ergebnisse/struktur_de_quantitativ_allgemein.png, id=2471, 
 375.4025pt x 321.2pt>
 File: figures/empirische_ergebnisse/struktur_de_quantitativ_allgemein.png Graph
 ic file (type png)
@@ -4045,6 +4030,9 @@ Overfull \hbox (2.28001pt too wide) in paragraph at lines 336--338
 [][] [] 
  []
 
+
+Underfull \vbox (badness 1406) has occurred while \output is active []
+
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 341.
 Package babel Info: Redefining ngerman shorthand "~
@@ -4053,11 +4041,9 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 341.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 341.
-[69 <./figures/empirische_ergebnisse/nike_cn_sentiment.pdf> <./figures/empirisc
-he_ergebnisse/puma_cn_sentiment.pdf> <./figures/empirische_ergebnisse/struktur_
-de_quantitativ_nike.png> <./figures/empirische_ergebnisse/struktur_de_quantitat
-iv_puma.png>]
-<figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf, id=2514, page=4, 505.8
+ [68 <./figures/empirische_ergebnisse/hose_cn_sentiment.pdf> <./figures/empiris
+che_ergebnisse/hose_de_sentiment.pdf>]
+<figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf, id=2492, page=4, 505.8
 9pt x 505.89pt>
 File: figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf Graphic file (type
  pdf)
@@ -4067,7 +4053,7 @@ Package pdftex.def Info: figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf
 , page4 used on input line 344.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
 
-<figures/empirische_ergebnisse/gesammt_de_sentiment.pdf, id=2515, page=4, 505.8
+<figures/empirische_ergebnisse/gesammt_de_sentiment.pdf, id=2493, page=4, 505.8
 9pt x 505.89pt>
 File: figures/empirische_ergebnisse/gesammt_de_sentiment.pdf Graphic file (type
  pdf)
@@ -4076,79 +4062,94 @@ File: figures/empirische_ergebnisse/gesammt_de_sentiment.pdf Graphic file (type
 Package pdftex.def Info: figures/empirische_ergebnisse/gesammt_de_sentiment.pdf
 , page4 used on input line 347.
 (pdftex.def)             Requested size: 218.86739pt x 218.8716pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 372.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 372.
 
-Underfull \vbox (badness 2088) has occurred while \output is active []
+Underfull \vbox (badness 5519) has occurred while \output is active []
 
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 372.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 372.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 372.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 372.
- [70 <./figures/empirische_ergebnisse/nike_de_sentiment.pdf> <./figures/empiris
-che_ergebnisse/puma_de_sentiment.pdf>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 372.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 372.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 376.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 376.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 376.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 376.
+ [69 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_nike.png> <./figu
+res/empirische_ergebnisse/struktur_cn_quantitativ_puma.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 381.
+(babel)             in language  on input line 376.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 381.
- [71 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_allgemein.png> <.
-/figures/empirische_ergebnisse/struktur_de_quantitativ_allgemein.png>]
+(babel)             in language  on input line 376.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 394.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 399.
+(babel)             in language  on input line 397.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 399.
+(babel)             in language  on input line 397.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 399.
+(babel)             in language  on input line 397.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 399.
- [72 <./figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf> <./figures/empi
+(babel)             in language  on input line 397.
+ [70 <./figures/empirische_ergebnisse/nike_cn_sentiment.pdf> <./figures/empiris
+che_ergebnisse/puma_cn_sentiment.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 415.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 415.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 415.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 415.
+ [71 <./figures/empirische_ergebnisse/struktur_de_quantitativ_nike.png> <./figu
+res/empirische_ergebnisse/struktur_de_quantitativ_puma.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 418.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 418.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 418.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 418.
+ [72 <./figures/empirische_ergebnisse/nike_de_sentiment.pdf> <./figures/empiris
+che_ergebnisse/puma_de_sentiment.pdf>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 418.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 418.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 449.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 449.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 449.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 449.
+ [73 <./figures/empirische_ergebnisse/struktur_cn_quantitativ_allgemein.png> <.
+/figures/empirische_ergebnisse/struktur_de_quantitativ_allgemein.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 449.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 449.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 453.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 453.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 456.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 456.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 456.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 456.
+ [74 <./figures/empirische_ergebnisse/gesammt_cn_sentiment.pdf> <./figures/empi
 rische_ergebnisse/gesammt_de_sentiment.pdf>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 418.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 418.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 431.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 431.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 431.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 431.
- [73]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 449.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 449.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 453.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 453.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 456.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 456.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 456.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 456.
- [74]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -4161,23 +4162,24 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 494.
 [75]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 529.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 529.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 529.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 529.
+ [76]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 533.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 533.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 533.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 533.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 533.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 533.
-[76]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 533.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 533.
-Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 552.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 552.
@@ -4185,7 +4187,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 552.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 552.
- [77]
+[77]
 <figures/empirische_ergebnisse/valenzen_cn_allgemein.png, id=2699, 461.725pt x 
 351.3125pt>
 File: figures/empirische_ergebnisse/valenzen_cn_allgemein.png Graphic file (typ
@@ -6341,11 +6343,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5529967C1423C7780218EBDD4C442021;6062.
  ) 
 Here is how much of TeX's memory you used:
- 31312 strings out of 493304
- 568102 string characters out of 6139871
- 756413 words of memory out of 5000000
+ 31309 strings out of 493304
+ 568075 string characters out of 6139871
+ 756410 words of memory out of 5000000
  32958 multiletter control sequences out of 15000+600000
- 97868 words of font info for 330 fonts, out of 8000000 for 9000
+ 97738 words of font info for 328 fonts, out of 8000000 for 9000
  960 hyphenation exceptions out of 8191
  69i,17n,87p,1312b,1156s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
@@ -6384,7 +6386,7 @@ ic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (123 pages, 1902575 bytes).
+Output written on main.pdf (123 pages, 1901528 bytes).
 PDF statistics:
  3316 PDF objects out of 3580 (max. 8388607)
  2915 compressed objects within 30 object streams
