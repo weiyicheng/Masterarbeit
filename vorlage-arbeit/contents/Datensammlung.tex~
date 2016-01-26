@@ -86,7 +86,46 @@ Tmall ist zum Synonym für Online-Shopping in China geworden. Die Verbraucher ko
 		\label{fig:tmall_gmv}
 	\end{center}
 \end{figure}
+%%=========================================================
+\section{Online Textileinzelhandel in den beiden Ländern} \label{sec:online_kleidung}
+%%=========================================================
+Dieser Abschnitt stellt die Situationen des Markts von Online Textileinzelhandel in Deutschland und China vor. Diese Vorstellung ist wichtig, man diese Situationen zu wissen, um die Arbeit besser zu verstehen.
 
+Mit mehr als 51 Millionen (94 Prozent der Internetnutzer ab 14 Jahren) digitale Verbraucher im Jahr 2014, genießt Deutschland die größte E-Commerce-Kundenpotenzial in Europa - und ist damit der klare kontinentale Führer \citep{Spath2015}. In ``The 2015 Global Retail E-Commerce Index'' ist Deutschland am fünfth Position \citep{HanaBen-Shabat2015}. 
+
+Kleidung, Elektronische Waren und Bücher gehören zu den beliebtesten Online-Kategorien. 88 Prozente der Befragter sagen, dass sie in den letzten drei Monaten Kleidungen online gekauft haben, während der Weltdurchschnitt 76\% ist. \citep{HanaBen-Shabat2015}
+
+Und die Kategorie ``Bekleidung, Textilien und Schuhe'' hat eine der stärksten Wachstumsraten für den Zeitraum 2011-2014. Die höchsten Umsätze im E-Commerce werden in der Produktkategorien Bekleidungs (11,9 Mrd. EUR), Unterhaltungselektronik (5 Mrd. EUR) und Bücher (4,1 Mrd. EUR) generiert. Als die Abbildung \ref{fig:kleidung_de} gezeigt, werden 42\% Kleidungen in Deutschland online verkauft. \citep{Spath2015} 
+
+\begin{figure}[htb]
+	\begin{center}
+		\includegraphics[width = \textwidth]{datensammlung/kleidung_de}
+		\caption[42\% Textilien werden in Deutschland online verkauft]{42\% Textilien werden in Deutschland online verkauft(Quelle:\citealp{Spath2015})}
+		\label{fig:kleidung_de}
+	\end{center}
+\end{figure}
+
+China, das weltweit bevölkerungsreichsten Land (fast 1,4 Milliarden Menschen), ist online aktiv. Mehr als ein Drittel der Menschen, die online mindestens einmal pro Woche surfen, sind "ständig verbunden", und 58 Prozenten prüfen das Internet zwei bis vier Mal pro Tag. Verglichen mit Deutschland, ist China am zweiten Position in ``The 2015 Global Retail E-Commerce Index'', nur nach den USA.\citep{HanaBen-Shabat2015}
+
+\begin{figure}[htb]
+	\begin{center}
+		\includegraphics[scale =1.0]{datensammlung/anteil_kleidung_cn}
+		\caption[Anteil der Online-Shopping in China]{Anteil der Online-Shopping in China, nach Wert (2013, \%)(Quelle:\citealp{goh2014china})}
+		\label{fig:anteil_kleidung_cn}
+	\end{center}
+\end{figure}
+
+Online-Handel ist die am schnellsten wachsende Einzelhandels für Bekleidung in China \citep{fung2014china}. Abbildung \ref{fig:anteil_kleidung_cn} stellt fest, dass 27\% des Umsatzes in 2013 durch Kleidung verkauft werden, größer als die Kategorie Unterhaltungselektronik. Wie die Abbildung \ref{fig:kleidung_cn} gezeigt, wuchs die gesamte Online-Bekleidungs-Transaktionswert in China deutlich um 42,6\% gegenüber dem Vorjahr um 434,9 Milliarden Yuan (62,1 Milliarden Euro) im Jahr 2013 zu erreichen \citep{fung2014china}.
+
+``Kleidung, Schuhe, Hüte, Taschen und Koffer, Outdoor-Produkte'' sind die beliebtesten Kategorien in Online-Shopping im Jahr 2013 erworben, und diese Kategorie wird von 41,3\% der Frauen und 28\% der Männer inzwischen Top 10 Lieblings Waren in Online-Shopping gewählt \citep{fung2014china}. 97\% der Befragter sagen, dass sie in den letzten drei Monaten Kleidungen online gekauft \citep{HanaBen-Shabat2015}.
+
+\begin{figure}[htb]
+	\begin{center}
+		\includegraphics[width=\textwidth]{datensammlung/kleidung_cn}
+		\caption[Online Umsatz für Kleidung in China]{Online Umsatz für Kleidung in China, 2010 - 2014(Quelle:\citealp{fung2014china})}
+		\label{fig:kleidung_cn}
+	\end{center}
+\end{figure}
 %%=========================================================
 \section{Sportkleidung als Untersuchungsobjekt} \label{sec:untersuchungsobjekt}
 %%=========================================================
